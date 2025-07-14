@@ -1,0 +1,33 @@
+2025-07-14 22:15:37,202 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Anger'] | Duration:12.14s
+2025-07-14 22:15:48,305 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Desperation'] | Duration:11.10s
+2025-07-14 22:16:00,144 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Resignation', 'Shame'] | Duration:11.84s
+2025-07-14 22:16:12,424 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat'] | Duration:12.28s
+2025-07-14 22:16:24,509 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Anger'] | Duration:12.08s
+2025-07-14 22:16:35,887 - Q:samplenew3_00000765 | Run:6/10 | Emotions:['Fear', 'Anger', 'Helplessness'] | Duration:11.38s
+2025-07-14 22:16:49,536 - Q:samplenew3_00000765 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Anger'] | Duration:13.65s
+2025-07-14 22:17:00,517 - Q:samplenew3_00000765 | Run:8/10 | Emotions:['Fear', 'Anxiety', 'Desperation'] | Duration:10.98s
+2025-07-14 22:17:11,995 - Q:samplenew3_00000765 | Run:9/10 | Emotions:['Fear', 'Anxiety', 'Resignation'] | Duration:11.48s
+2025-07-14 22:17:23,971 - Q:samplenew3_00000765 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Helplessness'] | Duration:11.98s
+2025-07-14 22:17:36,420 - Q:samplenew3_00000501 | Run:1/10 | Emotions:['Sadness', 'Frustration', 'Stress'] | Duration:12.45s
+2025-07-14 22:17:52,007 - Q:samplenew3_00000501 | Run:2/10 | Emotions:['Sadness', 'Frustration', 'Exhaustion', 'Stress'] | Duration:15.59s
+2025-07-14 22:18:04,211 - Q:samplenew3_00000501 | Run:3/10 | Emotions:['Sadness', 'Frustration', 'Stress', 'Fatigue'] | Duration:12.20s
+2025-07-14 22:18:15,314 - Q:samplenew3_00000501 | Run:4/10 | Emotions:['Frustration', 'Sadness', 'Anxiety'] | Duration:11.10s
+2025-07-14 22:18:29,488 - Q:samplenew3_00000501 | Run:5/10 | Emotions:['Frustration', 'Sadness', 'Fatigue', 'Annoyance'] | Duration:14.17s
+2025-07-14 22:18:44,005 - Q:samplenew3_00000501 | Run:6/10 | Emotions:['Frustration', 'Exhaustion', 'Suffering', 'Overwhelm'] | Duration:14.52s
+2025-07-14 22:20:18,858 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Despair', 'Fear'] | Duration:81.12s
+2025-07-14 22:21:40,625 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fascinating', 'Task', 'After', 'Analyzing', 'The', 'Given', 'Chinese', 'Sentence', 'Detect', 'The', 'Following', 'Emotions', 'Fear', 'Helplessness', 'The', 'Phrase', 'Can', 'Be', 'Translated', 'To', 'Take', 'Me', 'Back', 'Which', 'Implies', 'Sense', 'Of', 'Helplessness', 'And', 'Loss', 'Of', 'Control', 'The', 'Speaker', 'Feels', 'Like', 'They', 'Re', 'Being', 'Taken', 'Away', 'Or', 'Confined', 'Against', 'Their', 'Will', 'The', 'Subsequent', 'Phrases', 'Me', 'Le', 'Meaning', 'Then', 'It', 'All', 'Over', 'For', 'Me', 'Convey', 'Deep', 'Sense', 'Fear', 'And', 'Anxiety', 'About', 'What', 'Might', 'Happen', 'Next', 'This', 'Is', 'Reinforced', 'By', 'De', 'Which', 'Means', 'Definitely', 'Going', 'To', 'Receive', 'Punishment', 'This', 'Suggests', 'That', 'The', 'Speaker', 'Expects', 'Severe', 'Consequences', 'As', 'Result', 'Of', 'Being', 'Returned', 'Overall', 'This', 'Text', 'Expresses', 'Strong', 'Feelings', 'Of'] | Duration:81.77s
+2025-07-14 22:22:29,909 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Panic', 'Desperation', 'Anger', 'Frustration'] | Duration:13.46s
+2025-07-14 22:22:41,798 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Defiance', 'Resentment'] | Duration:11.89s
+2025-07-14 22:22:53,865 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Resignation'] | Duration:12.07s
+2025-07-14 22:23:07,370 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['恐惧愤怒沮丧绝望焦虑'] | Duration:13.51s
+2025-07-14 22:23:17,747 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Helplessness'] | Duration:10.38s
+2025-07-14 22:23:28,763 - Q:samplenew3_00000765 | Run:6/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Helplessness', 'Defeat'] | Duration:11.02s
+2025-07-14 22:23:41,729 - Q:samplenew3_00000765 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Anger', 'Helplessness'] | Duration:12.97s
+2025-07-14 22:23:51,729 - Q:samplenew3_00000765 | Run:8/10 | Emotions:['Fear', 'Anger', 'Helplessness'] | Duration:10.00s
+2025-07-14 22:24:02,432 - Q:samplenew3_00000765 | Run:9/10 | Emotions:['Fear', 'Anger', 'Anxiety', 'Desperation'] | Duration:10.70s
+2025-07-14 22:24:14,439 - Q:samplenew3_00000765 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Dread', 'Anger'] | Duration:12.01s
+2025-07-14 22:24:38,121 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Defensiveness', 'Helplessness', 'Desperation'] | Duration:11.49s
+2025-07-14 22:24:48,178 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Resignation'] | Duration:10.06s
+2025-07-14 22:25:00,610 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Shame'] | Duration:12.43s
+2025-07-14 22:25:10,948 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Desperation'] | Duration:10.34s
+2025-07-14 22:25:20,757 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Desperation'] | Duration:9.81s

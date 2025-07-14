@@ -1,0 +1,14 @@
+{
+  "run_number": 5,
+  "question_id": "samplenew3_00000765",
+  "chinese_text": "把我给抓回去那我就完了我肯定会受到责罚的",
+  "parsed_emotions": [
+    "Fear",
+    "Anxiety",
+    "Panic",
+    "Desperation"
+  ],
+  "raw_model_output": "Fear | Anxiety | Panic | Desperation",
+  "timestamp": "2025-07-14T22:25:20.757019",
+  "duration_seconds": 9.807324
+}
