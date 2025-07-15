@@ -5,6 +5,20 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments,
 import torch
 from datetime import datetime
 
+# Set environment variable to avoid tokenizer parallelism warnings
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+# Set PyTorch CUDA memory allocation configuration to avoid fragmentation
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+
+# Import PEFT for LoRA fine-tuning
+try:
+    from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training, TaskType
+    HAS_PEFT = True
+except ImportError:
+    print("Warning: PEFT library not found. LoRA fine-tuning not available.")
+    HAS_PEFT = False
+
 # Note: You may need to install the datasets library: pip install datasets
 try:
     from datasets import Dataset
@@ -385,15 +399,41 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
-    # Use GPU-optimized model settings for A100
+    # Clear GPU memory before loading model
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+    
+    # Use GPU-optimized model settings for A100 with 8-bit quantization
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        torch_dtype=torch.float16,  # Use float16 for GPU efficiency
-        token=True
+        torch_dtype=torch.bfloat16,  # Use bfloat16 for A100 - matches training config
+        token=True,
+        device_map="auto",  # Automatically place on GPU
+        load_in_8bit=True,  # Use 8-bit quantization to save memory
+        low_cpu_mem_usage=True,  # Use less CPU memory during loading
     )
     
+    # Prepare model for k-bit training (required for quantized models)
+    model = prepare_model_for_kbit_training(model)
+    
+    # Set up LoRA configuration for memory-efficient fine-tuning
+    lora_config = LoraConfig(
+        r=16,  # LoRA rank
+        lora_alpha=32,  # LoRA alpha parameter
+        target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        lora_dropout=0.1,
+        bias="none",
+        task_type=TaskType.CAUSAL_LM,
+    )
+    
+    # Apply LoRA to the model
+    model = get_peft_model(model, lora_config)
+    
+    # Print trainable parameters
+    model.print_trainable_parameters()
+    
     # Prepare training data directly from formatted data
-    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer, max_length=512)
+    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer, max_length=256)
     
     # Split dataset (80% train, 20% eval)
     train_size = int(0.8 * len(tokenized_dataset))
@@ -403,32 +443,38 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
     print(f"Training set size: {len(train_dataset)}")
     print(f"Evaluation set size: {len(eval_dataset)}")
     
-    # Training arguments
+    # Training arguments optimized for LoRA fine-tuning
     training_args = TrainingArguments(
         output_dir=output_dir,
         num_train_epochs=num_epochs,
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
-        warmup_steps=10,  # Reduced warmup steps for faster start
+        gradient_accumulation_steps=2,  # Reduced since LoRA uses less memory
+        warmup_steps=5,  # Reduced warmup steps for faster start
         weight_decay=0.01,
         logging_dir=f"{output_dir}/logs",
         logging_steps=1,  # Log after every step to see progress
         eval_strategy="steps",  # Changed from evaluation_strategy
-        eval_steps=10,  # Evaluate every 10 steps (reduced from 100)
+        eval_steps=10,  # Evaluate every 10 steps
         save_strategy="steps",
-        save_steps=50,  # Save more frequently (reduced from 500)
+        save_steps=20,  # Save more frequently for LoRA
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         greater_is_better=False,
         report_to="none",  # Disable wandb logging
         learning_rate=learning_rate,
         lr_scheduler_type="cosine",
-        save_total_limit=3,
+        save_total_limit=2,  # Reduce checkpoint storage
         remove_unused_columns=False,
-        dataloader_pin_memory=True,
-        fp16=True,  # Enable mixed precision for GPU training
-        gradient_checkpointing=False,  # Disable for better speed on A100
-        dataloader_num_workers=4,  # Use more workers for better data loading
+        dataloader_pin_memory=False,  # Disable to save memory
+        bf16=True,  # Use bfloat16 for A100 - more stable than fp16
+        gradient_checkpointing=True,  # Enable to save memory
+        dataloader_num_workers=0,  # Disable workers to save memory
+        max_grad_norm=1.0,  # Explicit gradient clipping
+        optim="adamw_bnb_8bit",  # Use 8-bit AdamW to save memory
+        adam_epsilon=1e-8,  # Standard Adam epsilon
+        adam_beta1=0.9,
+        adam_beta2=0.95,
     )
     
     # Create trainer (using default data collator)
@@ -440,15 +486,24 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
         tokenizer=tokenizer,
     )
     
+    # Clear GPU memory before training
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+        torch.cuda.synchronize()
+    
     # Start training
     print("Starting training...")
     trainer.train()
     
-    # Save the final model
+    # Save the final model and adapters
     trainer.save_model()
     tokenizer.save_pretrained(output_dir)
     
-    print(f"Fine-tuning completed! Model saved to {output_dir}")
+    # Save the LoRA adapters
+    model.save_pretrained(output_dir)
+    
+    print(f"Fine-tuning completed! LoRA adapters saved to {output_dir}")
+    print("Note: This saved only the LoRA adapters, not the full model.")
 
 def test_introspection_model(model_dir, test_questions):
     """
