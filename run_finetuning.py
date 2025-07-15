@@ -40,9 +40,10 @@ def main():
         fine_tune_model_direct(
             formatted_data_file=FORMATTED_DATA_FILE,
             output_dir=MODEL_OUTPUT_DIR,
-            num_epochs=3,
-            batch_size=2,  # Smaller batch size for memory efficiency
-            learning_rate=2e-5
+            num_epochs=1,  # Reduced from 3 to 1 for faster testing
+            batch_size=1,  # Reduced batch size for memory optimization
+            learning_rate=2e-5,
+            max_train_samples=50  # Use 50 samples for memory optimization
         )
     else:
         # Use the original method

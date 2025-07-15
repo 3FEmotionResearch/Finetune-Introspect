@@ -346,7 +346,7 @@ def fine_tune_model(dataset_file, model_name="meta-llama/Meta-Llama-3-8B-Instruc
 
 def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llama-3-8B-Instruct", 
                           output_dir="./introspection_model", num_epochs=3, 
-                          batch_size=4, learning_rate=5e-5):
+                          batch_size=4, learning_rate=5e-5, max_train_samples=None):
     """
     Fine-tune the model directly using pre-formatted data.
     
@@ -357,6 +357,7 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
         num_epochs (int): Number of training epochs
         batch_size (int): Training batch size
         learning_rate (float): Learning rate
+        max_train_samples (int, optional): Limit dataset to N samples for faster testing
     """
     print(f"Starting fine-tuning with model: {model_name}")
     print(f"Using pre-formatted data: {formatted_data_file}")
@@ -364,6 +365,11 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
     # Load pre-formatted dataset
     with open(formatted_data_file, 'r', encoding='utf-8') as f:
         formatted_dataset = json.load(f)
+    
+    # Limit dataset size if specified (for faster testing)
+    if max_train_samples is not None:
+        formatted_dataset = formatted_dataset[:max_train_samples]
+        print(f"Limited dataset to {max_train_samples} samples for faster testing")
     
     print(f"Loaded {len(formatted_dataset)} pre-formatted training examples")
     
@@ -374,15 +380,21 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
     
+    # Use GPU - CUDA is now working properly with PyTorch 2.0.1+cu117
+    import torch
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Using device: {device}")
+    
+    # Use GPU-optimized model settings with memory optimization
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
-        torch_dtype=torch.float16,
-        device_map="auto",
+        torch_dtype=torch.float16,  # Use float16 for GPU efficiency
+        load_in_8bit=True,  # Use 8-bit quantization to save memory
         token=True
     )
     
-    # Prepare training data directly from formatted data
-    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer)
+    # Prepare training data directly from formatted data (with reduced max_length for memory optimization)
+    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer, max_length=256)
     
     # Split dataset (80% train, 20% eval)
     train_size = int(0.8 * len(tokenized_dataset))
@@ -398,14 +410,14 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
         num_train_epochs=num_epochs,
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
-        warmup_steps=100,
+        warmup_steps=10,  # Reduced warmup steps for faster start
         weight_decay=0.01,
         logging_dir=f"{output_dir}/logs",
-        logging_steps=10,
+        logging_steps=1,  # Log after every step to see progress
         eval_strategy="steps",  # Changed from evaluation_strategy
-        eval_steps=100,
+        eval_steps=10,  # Evaluate every 10 steps (reduced from 100)
         save_strategy="steps",
-        save_steps=500,
+        save_steps=50,  # Save more frequently (reduced from 500)
         load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         greater_is_better=False,
@@ -415,7 +427,9 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
         save_total_limit=3,
         remove_unused_columns=False,
         dataloader_pin_memory=False,
-        fp16=True,  # Enable mixed precision training
+        fp16=True,  # Enable mixed precision for GPU training
+        gradient_checkpointing=True,  # Save memory during training
+        dataloader_num_workers=0,  # Reduce memory usage
     )
     
     # Create trainer (using default data collator)
@@ -474,7 +488,7 @@ def test_introspection_model(model_dir, test_questions):
                 do_sample=True,
                 pad_token_id=tokenizer.eos_token_id,
                 eos_token_id=tokenizer.eos_token_id,
-            )
+      )
         
         response = tokenizer.decode(outputs[0], skip_special_tokens=True)
         assistant_response = response.split("assistant<|end_header_id|>")[-1].strip()
