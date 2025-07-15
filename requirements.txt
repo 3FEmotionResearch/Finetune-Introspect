@@ -1,5 +1,5 @@
 absl-py==1.4.0
-accelerate==1.8.1
+accelerate==0.30.0
 agate==1.6.0
 agate-dbf==0.2.0
 agate-excel==0.2.3
@@ -19,6 +19,7 @@ awscli==1.18.69
 Babel==2.11.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
+bitsandbytes==0.41.0
 bleach==5.0.1
 blinker==1.4
 blis==0.7.9
@@ -37,6 +38,7 @@ click-didyoumean==0.3.0
 click-help-colors==0.9.1
 cloud-init==24.3.1
 cloudpickle==2.1.0
+cmake==3.25.0
 colorama==0.4.3
 comm==0.1.2
 command-not-found==0.3
@@ -135,6 +137,7 @@ lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
 leather==0.3.3
 libclang==15.0.6.1
+lit==15.0.7
 log-symbols==0.0.14
 louis==3.12.0
 lxml==4.5.0
@@ -290,15 +293,15 @@ thinc==8.1.6
 threadpoolctl==3.1.0
 tifffile==2022.10.10
 tinycss2==1.2.1
-tokenizers==0.21.2
-torch==2.7.1
-torchaudio==0.12.1+cu116
-torchvision==0.22.1
+tokenizers==0.19.1
+torch==2.0.1+cu117
+torchaudio==2.0.2+cu117
+torchvision==0.15.2+cu117
 tornado==6.2
 tqdm==4.64.1
 traitlets==5.8.1
-transformers==4.53.2
-triton==3.3.1
+transformers==4.42.0
+triton==2.0.0
 Twisted==18.9.0
 typer==0.4.2
 typing_extensions==4.14.1

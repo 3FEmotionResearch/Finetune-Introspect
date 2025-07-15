@@ -385,16 +385,15 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
-    # Use GPU-optimized model settings with memory optimization
+    # Use GPU-optimized model settings for A100
     model = AutoModelForCausalLM.from_pretrained(
         model_name,
         torch_dtype=torch.float16,  # Use float16 for GPU efficiency
-        load_in_8bit=True,  # Use 8-bit quantization to save memory
         token=True
     )
     
-    # Prepare training data directly from formatted data (with reduced max_length for memory optimization)
-    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer, max_length=256)
+    # Prepare training data directly from formatted data
+    tokenized_dataset = prepare_training_data_from_formatted(formatted_dataset, tokenizer, max_length=512)
     
     # Split dataset (80% train, 20% eval)
     train_size = int(0.8 * len(tokenized_dataset))
@@ -426,10 +425,10 @@ def fine_tune_model_direct(formatted_data_file, model_name="meta-llama/Meta-Llam
         lr_scheduler_type="cosine",
         save_total_limit=3,
         remove_unused_columns=False,
-        dataloader_pin_memory=False,
+        dataloader_pin_memory=True,
         fp16=True,  # Enable mixed precision for GPU training
-        gradient_checkpointing=True,  # Save memory during training
-        dataloader_num_workers=0,  # Reduce memory usage
+        gradient_checkpointing=False,  # Disable for better speed on A100
+        dataloader_num_workers=4,  # Use more workers for better data loading
     )
     
     # Create trainer (using default data collator)

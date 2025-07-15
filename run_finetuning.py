@@ -41,9 +41,9 @@ def main():
             formatted_data_file=FORMATTED_DATA_FILE,
             output_dir=MODEL_OUTPUT_DIR,
             num_epochs=1,  # Reduced from 3 to 1 for faster testing
-            batch_size=1,  # Reduced batch size for memory optimization
+            batch_size=4,  # Increased batch size for A100 memory capacity
             learning_rate=2e-5,
-            max_train_samples=50  # Use 50 samples for memory optimization
+            max_train_samples=100  # Increased for A100 testing
         )
     else:
         # Use the original method
