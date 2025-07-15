@@ -1,0 +1,15 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000501",
+  "chinese_text": "这几年你知道我吃了多少苦承受了多大的压力知道吗",
+  "parsed_emotions": [
+    "Fatigue",
+    "Frustration",
+    "Overwhelm",
+    "Anxiety",
+    "Exhaustion"
+  ],
+  "raw_model_output": "Fatigue | Frustration | Overwhelm | Anxiety | Exhaustion",
+  "timestamp": "2025-07-14T22:30:43.564027",
+  "duration_seconds": 12.762206
+}

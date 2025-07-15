@@ -1,0 +1,48 @@
+{
+  "question_id": "samplenew3_00000744",
+  "chinese_text": "丁小河是个不会撒谎的人",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 25,
+    "unique_emotions": 4,
+    "emotion_details": {
+      "Trust": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Respect": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Confidence": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Certainty": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Trust",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Trust",
+      "Respect",
+      "Confidence"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:20:44.383303"
+}

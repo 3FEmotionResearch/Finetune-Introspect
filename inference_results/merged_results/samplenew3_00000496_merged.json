@@ -1,0 +1,83 @@
+{
+  "question_id": "samplenew3_00000496",
+  "chinese_text": "我这是可以去福利院的",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 27,
+    "unique_emotions": 11,
+    "emotion_details": {
+      "Hope": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Relief": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Relieved": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Hopeful": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Curious": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Determination": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Expectation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Anticipation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Reluctance": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Necessity": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Certainty": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Hope",
+      {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      }
+    ],
+    "top_3_emotions": [
+      "Hope",
+      "Relief",
+      "Relieved"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:48:35.436379"
+}

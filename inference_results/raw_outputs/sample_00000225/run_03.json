@@ -1,0 +1,13 @@
+{
+  "run_number": 3,
+  "question_id": "sample_00000225",
+  "chinese_text": "你确定他们俩之前也没好过吗？",
+  "parsed_emotions": [
+    "Curiosity",
+    "Skepticism",
+    "Concern"
+  ],
+  "raw_model_output": "Curiosity | Skepticism | Concern",
+  "timestamp": "2025-07-15T00:12:04.185194",
+  "duration_seconds": 9.475894
+}

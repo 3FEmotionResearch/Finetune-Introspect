@@ -1,0 +1,15 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000365",
+  "chinese_text": "你让我相信你，我相信了，那你为什么要骗我呢？",
+  "parsed_emotions": [
+    "Trust",
+    "Disappointment",
+    "Betrayal",
+    "Confusion",
+    "Anger"
+  ],
+  "raw_model_output": "Trust | Disappointment | Betrayal | Confusion | Anger",
+  "timestamp": "2025-07-15T00:03:45.774594",
+  "duration_seconds": 11.97015
+}

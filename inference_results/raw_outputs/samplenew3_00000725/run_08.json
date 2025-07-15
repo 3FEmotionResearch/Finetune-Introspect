@@ -1,0 +1,13 @@
+{
+  "run_number": 8,
+  "question_id": "samplenew3_00000725",
+  "chinese_text": "我李约是个爱才之人",
+  "parsed_emotions": [
+    "Pride",
+    "Admiration",
+    "Affection"
+  ],
+  "raw_model_output": "pride | admiration | affection",
+  "timestamp": "2025-07-14T23:38:36.951442",
+  "duration_seconds": 8.554028
+}

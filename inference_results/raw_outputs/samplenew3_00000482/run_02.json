@@ -1,0 +1,14 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000482",
+  "chinese_text": "他一定把名言送到你我手上",
+  "parsed_emotions": [
+    "Hope",
+    "Trust",
+    "Warmth",
+    "Sincerity"
+  ],
+  "raw_model_output": "Hope | Trust | Warmth | Sincerity",
+  "timestamp": "2025-07-14T23:42:13.709823",
+  "duration_seconds": 10.338512
+}

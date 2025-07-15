@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000513",
+  "chinese_text": "我结下权贵之妻",
+  "parsed_emotions": [
+    "Pride",
+    "Shame",
+    "Regret",
+    "Longing"
+  ],
+  "raw_model_output": "Pride | Shame | Regret | Longing",
+  "timestamp": "2025-07-14T22:58:50.765420",
+  "duration_seconds": 9.52454
+}

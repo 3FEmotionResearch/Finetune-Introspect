@@ -1,33 +1,770 @@
-2025-07-14 22:15:37,202 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Anger'] | Duration:12.14s
-2025-07-14 22:15:48,305 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Desperation'] | Duration:11.10s
-2025-07-14 22:16:00,144 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Resignation', 'Shame'] | Duration:11.84s
-2025-07-14 22:16:12,424 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat'] | Duration:12.28s
-2025-07-14 22:16:24,509 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Anger'] | Duration:12.08s
-2025-07-14 22:16:35,887 - Q:samplenew3_00000765 | Run:6/10 | Emotions:['Fear', 'Anger', 'Helplessness'] | Duration:11.38s
-2025-07-14 22:16:49,536 - Q:samplenew3_00000765 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Anger'] | Duration:13.65s
-2025-07-14 22:17:00,517 - Q:samplenew3_00000765 | Run:8/10 | Emotions:['Fear', 'Anxiety', 'Desperation'] | Duration:10.98s
-2025-07-14 22:17:11,995 - Q:samplenew3_00000765 | Run:9/10 | Emotions:['Fear', 'Anxiety', 'Resignation'] | Duration:11.48s
-2025-07-14 22:17:23,971 - Q:samplenew3_00000765 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Helplessness'] | Duration:11.98s
-2025-07-14 22:17:36,420 - Q:samplenew3_00000501 | Run:1/10 | Emotions:['Sadness', 'Frustration', 'Stress'] | Duration:12.45s
-2025-07-14 22:17:52,007 - Q:samplenew3_00000501 | Run:2/10 | Emotions:['Sadness', 'Frustration', 'Exhaustion', 'Stress'] | Duration:15.59s
-2025-07-14 22:18:04,211 - Q:samplenew3_00000501 | Run:3/10 | Emotions:['Sadness', 'Frustration', 'Stress', 'Fatigue'] | Duration:12.20s
-2025-07-14 22:18:15,314 - Q:samplenew3_00000501 | Run:4/10 | Emotions:['Frustration', 'Sadness', 'Anxiety'] | Duration:11.10s
-2025-07-14 22:18:29,488 - Q:samplenew3_00000501 | Run:5/10 | Emotions:['Frustration', 'Sadness', 'Fatigue', 'Annoyance'] | Duration:14.17s
-2025-07-14 22:18:44,005 - Q:samplenew3_00000501 | Run:6/10 | Emotions:['Frustration', 'Exhaustion', 'Suffering', 'Overwhelm'] | Duration:14.52s
-2025-07-14 22:20:18,858 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Despair', 'Fear'] | Duration:81.12s
-2025-07-14 22:21:40,625 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fascinating', 'Task', 'After', 'Analyzing', 'The', 'Given', 'Chinese', 'Sentence', 'Detect', 'The', 'Following', 'Emotions', 'Fear', 'Helplessness', 'The', 'Phrase', 'Can', 'Be', 'Translated', 'To', 'Take', 'Me', 'Back', 'Which', 'Implies', 'Sense', 'Of', 'Helplessness', 'And', 'Loss', 'Of', 'Control', 'The', 'Speaker', 'Feels', 'Like', 'They', 'Re', 'Being', 'Taken', 'Away', 'Or', 'Confined', 'Against', 'Their', 'Will', 'The', 'Subsequent', 'Phrases', 'Me', 'Le', 'Meaning', 'Then', 'It', 'All', 'Over', 'For', 'Me', 'Convey', 'Deep', 'Sense', 'Fear', 'And', 'Anxiety', 'About', 'What', 'Might', 'Happen', 'Next', 'This', 'Is', 'Reinforced', 'By', 'De', 'Which', 'Means', 'Definitely', 'Going', 'To', 'Receive', 'Punishment', 'This', 'Suggests', 'That', 'The', 'Speaker', 'Expects', 'Severe', 'Consequences', 'As', 'Result', 'Of', 'Being', 'Returned', 'Overall', 'This', 'Text', 'Expresses', 'Strong', 'Feelings', 'Of'] | Duration:81.77s
-2025-07-14 22:22:29,909 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Panic', 'Desperation', 'Anger', 'Frustration'] | Duration:13.46s
-2025-07-14 22:22:41,798 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Defiance', 'Resentment'] | Duration:11.89s
-2025-07-14 22:22:53,865 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Resignation'] | Duration:12.07s
-2025-07-14 22:23:07,370 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['恐惧愤怒沮丧绝望焦虑'] | Duration:13.51s
-2025-07-14 22:23:17,747 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Helplessness'] | Duration:10.38s
-2025-07-14 22:23:28,763 - Q:samplenew3_00000765 | Run:6/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Helplessness', 'Defeat'] | Duration:11.02s
-2025-07-14 22:23:41,729 - Q:samplenew3_00000765 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Anger', 'Helplessness'] | Duration:12.97s
-2025-07-14 22:23:51,729 - Q:samplenew3_00000765 | Run:8/10 | Emotions:['Fear', 'Anger', 'Helplessness'] | Duration:10.00s
-2025-07-14 22:24:02,432 - Q:samplenew3_00000765 | Run:9/10 | Emotions:['Fear', 'Anger', 'Anxiety', 'Desperation'] | Duration:10.70s
-2025-07-14 22:24:14,439 - Q:samplenew3_00000765 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Dread', 'Anger'] | Duration:12.01s
-2025-07-14 22:24:38,121 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Defensiveness', 'Helplessness', 'Desperation'] | Duration:11.49s
-2025-07-14 22:24:48,178 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Resignation'] | Duration:10.06s
-2025-07-14 22:25:00,610 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Shame'] | Duration:12.43s
-2025-07-14 22:25:10,948 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Desperation'] | Duration:10.34s
-2025-07-14 22:25:20,757 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Desperation'] | Duration:9.81s
+2025-07-14 22:28:38,993 - Q:samplenew3_00000765 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Resignation', 'Shame'] | Duration:11.13s
+2025-07-14 22:28:50,672 - Q:samplenew3_00000765 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Defeat', 'Guilt', 'Helplessness'] | Duration:11.68s
+2025-07-14 22:29:01,229 - Q:samplenew3_00000765 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Helplessness'] | Duration:10.56s
+2025-07-14 22:29:12,097 - Q:samplenew3_00000765 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat'] | Duration:10.87s
+2025-07-14 22:29:23,004 - Q:samplenew3_00000765 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Shame'] | Duration:10.91s
+2025-07-14 22:29:34,494 - Q:samplenew3_00000765 | Run:6/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Desperation', 'Resignation'] | Duration:11.49s
+2025-07-14 22:29:45,883 - Q:samplenew3_00000765 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat', 'Regret'] | Duration:11.39s
+2025-07-14 22:29:58,240 - Q:samplenew3_00000765 | Run:8/10 | Emotions:['Fear', 'Anxiety', 'Helplessness', 'Desperation', 'Resignation'] | Duration:12.36s
+2025-07-14 22:30:08,679 - Q:samplenew3_00000765 | Run:9/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Defeat'] | Duration:10.44s
+2025-07-14 22:30:20,382 - Q:samplenew3_00000765 | Run:10/10 | Emotions:['Fear', 'Anger', 'Helplessness', 'Anxiety'] | Duration:11.70s
+2025-07-14 22:30:30,801 - Q:samplenew3_00000501 | Run:1/10 | Emotions:['Frustration', 'Exhaustion', 'Desperation', 'Anxiety'] | Duration:10.42s
+2025-07-14 22:30:43,564 - Q:samplenew3_00000501 | Run:2/10 | Emotions:['Fatigue', 'Frustration', 'Overwhelm', 'Anxiety', 'Exhaustion'] | Duration:12.76s
+2025-07-14 22:30:54,019 - Q:samplenew3_00000501 | Run:3/10 | Emotions:['Frustration', 'Anxiety', 'Exhaustion', 'Overwhelm'] | Duration:10.45s
+2025-07-14 22:31:06,543 - Q:samplenew3_00000501 | Run:4/10 | Emotions:['Fatigue', 'Suffering', 'Stress', 'Anxiousness'] | Duration:12.52s
+2025-07-14 22:31:16,842 - Q:samplenew3_00000501 | Run:5/10 | Emotions:['Frustration', 'Desperation', 'Anxiety', 'Exhaustion'] | Duration:10.30s
+2025-07-14 22:31:29,315 - Q:samplenew3_00000501 | Run:6/10 | Emotions:['Frustration', 'Helplessness', 'Exhaustion', 'Suffering'] | Duration:12.47s
+2025-07-14 22:31:39,709 - Q:samplenew3_00000501 | Run:7/10 | Emotions:['Frustration', 'Exhaustion', 'Resentment', 'Anxiety'] | Duration:10.39s
+2025-07-14 22:31:51,292 - Q:samplenew3_00000501 | Run:8/10 | Emotions:['Frustration', 'Despair', 'Exhaustion', 'Anxiety', 'Resentment', 'Desperation'] | Duration:11.58s
+2025-07-14 22:32:02,669 - Q:samplenew3_00000501 | Run:9/10 | Emotions:['Frustration', 'Exhaustion', 'Desperation', 'Helplessness', 'Sadness'] | Duration:11.38s
+2025-07-14 22:32:14,730 - Q:samplenew3_00000501 | Run:10/10 | Emotions:['Frustration', 'Desperation', 'Anxiety', 'Sadness', 'Overwhelm', 'Exhaustion'] | Duration:12.06s
+2025-07-14 22:32:22,545 - Q:samplenew3_00000891 | Run:1/10 | Emotions:['Hope', 'Joy', 'Expectation'] | Duration:7.81s
+2025-07-14 22:32:30,823 - Q:samplenew3_00000891 | Run:2/10 | Emotions:['Hope', 'Joy', 'Expectation'] | Duration:8.28s
+2025-07-14 22:32:39,646 - Q:samplenew3_00000891 | Run:3/10 | Emotions:['Hope', 'Expectation', 'Anticipation', 'Joy'] | Duration:8.82s
+2025-07-14 22:32:47,495 - Q:samplenew3_00000891 | Run:4/10 | Emotions:['Hope', 'Joy', 'Expectation'] | Duration:7.85s
+2025-07-14 22:32:55,915 - Q:samplenew3_00000891 | Run:5/10 | Emotions:['Hope', 'Expectation', 'Joy'] | Duration:8.42s
+2025-07-14 22:33:05,572 - Q:samplenew3_00000891 | Run:6/10 | Emotions:['Hope', 'Longing', 'Expectation'] | Duration:9.66s
+2025-07-14 22:33:13,819 - Q:samplenew3_00000891 | Run:7/10 | Emotions:['Hope', 'Serenity', 'Expectation'] | Duration:8.25s
+2025-07-14 22:33:21,652 - Q:samplenew3_00000891 | Run:8/10 | Emotions:['Hope', 'Expectation', 'Joy'] | Duration:7.83s
+2025-07-14 22:33:29,803 - Q:samplenew3_00000891 | Run:9/10 | Emotions:['Hope', 'Expectation', 'Joy'] | Duration:8.15s
+2025-07-14 22:33:38,337 - Q:samplenew3_00000891 | Run:10/10 | Emotions:['Hope', 'Expectation', 'Joy'] | Duration:8.53s
+2025-07-14 22:33:45,608 - Q:samplenew3_00000814 | Run:1/10 | Emotions:['Fear', 'Anxiety'] | Duration:7.27s
+2025-07-14 22:33:52,930 - Q:samplenew3_00000814 | Run:2/10 | Emotions:['Fear', 'Anxiety'] | Duration:7.32s
+2025-07-14 22:34:00,944 - Q:samplenew3_00000814 | Run:3/10 | Emotions:['Fear', 'Anxiety', 'Concern'] | Duration:8.01s
+2025-07-14 22:34:09,592 - Q:samplenew3_00000814 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Alarm'] | Duration:8.65s
+2025-07-14 22:34:17,303 - Q:samplenew3_00000814 | Run:5/10 | Emotions:['Anxiety', 'Concern'] | Duration:7.71s
+2025-07-14 22:34:25,403 - Q:samplenew3_00000814 | Run:6/10 | Emotions:['Fear', 'Anxiety', 'Concern'] | Duration:8.10s
+2025-07-14 22:34:33,336 - Q:samplenew3_00000814 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Concern'] | Duration:7.93s
+2025-07-14 22:34:42,320 - Q:samplenew3_00000814 | Run:8/10 | Emotions:['Anxiety', 'Concern', 'Alarm'] | Duration:8.98s
+2025-07-14 22:34:49,563 - Q:samplenew3_00000814 | Run:9/10 | Emotions:['Fear', 'Anxiety'] | Duration:7.24s
+2025-07-14 22:34:59,160 - Q:samplenew3_00000814 | Run:10/10 | Emotions:['Frustrated', 'Anxious', 'Concerned'] | Duration:9.60s
+2025-07-14 22:35:12,054 - Q:samplenew3_00000588 | Run:1/10 | Emotions:['Mysterious', 'Curiosity', 'Inquisitive', 'Amazement', 'Confusion', 'Surprise'] | Duration:12.89s
+2025-07-14 22:35:24,767 - Q:samplenew3_00000588 | Run:2/10 | Emotions:['Mysterious', 'Surprised', 'Intrigued', 'Curious', 'Awed'] | Duration:12.71s
+2025-07-14 22:35:34,242 - Q:samplenew3_00000588 | Run:3/10 | Emotions:['Curiosity', 'Surprise', 'Reverence', 'Nostalgia'] | Duration:9.47s
+2025-07-14 22:35:47,137 - Q:samplenew3_00000588 | Run:4/10 | Emotions:['Curiosity', 'Mysteriousness', 'Respect', 'Nostalgia', 'Longing', 'Surprise'] | Duration:12.89s
+2025-07-14 22:35:58,710 - Q:samplenew3_00000588 | Run:5/10 | Emotions:['Curiosity', 'Incredulity', 'Wonder', 'Surprise', 'Awe'] | Duration:11.57s
+2025-07-14 22:36:09,426 - Q:samplenew3_00000588 | Run:6/10 | Emotions:['Curiosity', 'Intrigue', 'Mystery', 'Surprise'] | Duration:10.72s
+2025-07-14 22:36:23,519 - Q:samplenew3_00000588 | Run:7/10 | Emotions:['Curiosity', 'Wonder', 'Awe', 'Incredulity', 'Surprise', 'Fascination'] | Duration:14.09s
+2025-07-14 22:36:34,794 - Q:samplenew3_00000588 | Run:8/10 | Emotions:['Curiosity', 'Mystery', 'Awe', 'Intrigue'] | Duration:11.27s
+2025-07-14 22:36:46,962 - Q:samplenew3_00000588 | Run:9/10 | Emotions:['Curiosity', 'Surprise', 'Mysteriousness', 'Respect', 'Nostalgia'] | Duration:12.17s
+2025-07-14 22:37:00,212 - Q:samplenew3_00000588 | Run:10/10 | Emotions:['Mysterious', 'Curious', 'Nostalgic', 'Frustrated', 'Longing'] | Duration:13.25s
+2025-07-14 22:37:12,556 - Q:samplenew3_00000665 | Run:1/10 | Emotions:['Resignation', 'Longing', 'Nostalgia', 'Melancholy'] | Duration:12.34s
+2025-07-14 22:37:24,782 - Q:samplenew3_00000665 | Run:2/10 | Emotions:['Sadness', 'Longing', 'Melancholy', 'Resignation'] | Duration:12.23s
+2025-07-14 22:37:37,202 - Q:samplenew3_00000665 | Run:3/10 | Emotions:['Resignation', 'Longing', 'Sorrow', 'Melancholy'] | Duration:12.42s
+2025-07-14 22:37:47,647 - Q:samplenew3_00000665 | Run:4/10 | Emotions:['Resignation', 'Longing', 'Melancholy'] | Duration:10.44s
+2025-07-14 22:37:58,793 - Q:samplenew3_00000665 | Run:5/10 | Emotions:['Desperation', 'Longing', 'Sorrow', 'Melancholy'] | Duration:11.15s
+2025-07-14 22:38:10,351 - Q:samplenew3_00000665 | Run:6/10 | Emotions:['Longing', 'Melancholy', 'Sorrow', 'Yearning'] | Duration:11.56s
+2025-07-14 22:38:19,407 - Q:samplenew3_00000665 | Run:7/10 | Emotions:['Sadness', 'Resignation', 'Longing'] | Duration:9.06s
+2025-07-14 22:38:29,716 - Q:samplenew3_00000665 | Run:8/10 | Emotions:['Despondency', 'Longing', 'Melancholy'] | Duration:10.31s
+2025-07-14 22:38:41,259 - Q:samplenew3_00000665 | Run:9/10 | Emotions:['Resignation', 'Melancholy', 'Longing', 'Sorrow'] | Duration:11.54s
+2025-07-14 22:38:54,175 - Q:samplenew3_00000665 | Run:10/10 | Emotions:['Despair', 'Longing', 'Resignation', 'Sorrow'] | Duration:12.91s
+2025-07-14 22:39:03,613 - Q:samplenew3_00000668 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Anger'] | Duration:9.44s
+2025-07-14 22:39:13,427 - Q:samplenew3_00000668 | Run:2/10 | Emotions:['Frustration', 'Disappointment', 'Impatience'] | Duration:9.81s
+2025-07-14 22:39:23,897 - Q:samplenew3_00000668 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Irritation'] | Duration:10.47s
+2025-07-14 22:39:35,123 - Q:samplenew3_00000668 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Futility', 'Anger'] | Duration:11.22s
+2025-07-14 22:39:46,723 - Q:samplenew3_00000668 | Run:5/10 | Emotions:['Frustrated', 'Disappointed', 'Angry'] | Duration:11.60s
+2025-07-14 22:39:57,037 - Q:samplenew3_00000668 | Run:6/10 | Emotions:['Frustration', 'Disappointment', 'Felt'] | Duration:10.31s
+2025-07-14 22:40:06,958 - Q:samplenew3_00000668 | Run:7/10 | Emotions:['Frustration', 'Disappointment', 'Irritation'] | Duration:9.92s
+2025-07-14 22:40:17,411 - Q:samplenew3_00000668 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Felt'] | Duration:10.45s
+2025-07-14 22:40:27,315 - Q:samplenew3_00000668 | Run:9/10 | Emotions:['Disappointment', 'Frustration', 'Irritation'] | Duration:9.90s
+2025-07-14 22:40:37,171 - Q:samplenew3_00000668 | Run:10/10 | Emotions:['Disappointment', 'Frustration', 'Anger'] | Duration:9.86s
+2025-07-14 22:40:48,437 - Q:samplenew3_00000195 | Run:1/10 | Emotions:['Moved', 'Touched', 'Indignation', 'Determination'] | Duration:11.26s
+2025-07-14 22:40:59,522 - Q:samplenew3_00000195 | Run:2/10 | Emotions:['Moved', 'Nostalgic', 'Gratitude'] | Duration:11.08s
+2025-07-14 22:41:09,043 - Q:samplenew3_00000195 | Run:3/10 | Emotions:['Moved', 'Touched', 'Proud', 'Determined'] | Duration:9.52s
+2025-07-14 22:41:18,364 - Q:samplenew3_00000195 | Run:4/10 | Emotions:['Moved', 'Indignant', 'Determined'] | Duration:9.32s
+2025-07-14 22:41:30,388 - Q:samplenew3_00000195 | Run:5/10 | Emotions:['Inspiration', 'Gratitude', 'Devotion', 'Loyalty', 'Determination'] | Duration:12.02s
+2025-07-14 22:41:40,001 - Q:samplenew3_00000195 | Run:6/10 | Emotions:['Moved', 'Grateful', 'Respectful'] | Duration:9.61s
+2025-07-14 22:41:51,358 - Q:samplenew3_00000195 | Run:7/10 | Emotions:['Moved', 'Nostalgic', 'Grateful', 'Determined'] | Duration:11.36s
+2025-07-14 22:42:00,979 - Q:samplenew3_00000195 | Run:8/10 | Emotions:['Moved', 'Touched', 'Determined'] | Duration:9.62s
+2025-07-14 22:42:10,457 - Q:samplenew3_00000195 | Run:9/10 | Emotions:['Moved', 'Humble', 'Grateful'] | Duration:9.48s
+2025-07-14 22:42:19,852 - Q:samplenew3_00000195 | Run:10/10 | Emotions:['Moved', 'Grateful', 'Determined'] | Duration:9.39s
+2025-07-14 22:42:29,395 - Q:samplenew3_00000151 | Run:1/10 | Emotions:['Helplessness', 'Resignation', 'Powerlessness'] | Duration:9.54s
+2025-07-14 22:42:38,828 - Q:samplenew3_00000151 | Run:2/10 | Emotions:['Helplessness', 'Resignation', 'Disappointment', 'Frustration'] | Duration:9.43s
+2025-07-14 22:42:49,917 - Q:samplenew3_00000151 | Run:3/10 | Emotions:['Helpless', 'Resigned', 'Powerless'] | Duration:11.09s
+2025-07-14 22:43:00,063 - Q:samplenew3_00000151 | Run:4/10 | Emotions:['Hopelessness', 'Resignation', 'Frustration'] | Duration:10.15s
+2025-07-14 22:43:12,138 - Q:samplenew3_00000151 | Run:5/10 | Emotions:['Helpless', 'Frustration', 'Resignation', 'Desperation'] | Duration:12.08s
+2025-07-14 22:43:21,855 - Q:samplenew3_00000151 | Run:6/10 | Emotions:['Helplessness', 'Resignation', 'Frustration'] | Duration:9.72s
+2025-07-14 22:43:31,958 - Q:samplenew3_00000151 | Run:7/10 | Emotions:['Helpless', 'Frustrated', 'Resigned'] | Duration:10.10s
+2025-07-14 22:43:42,510 - Q:samplenew3_00000151 | Run:8/10 | Emotions:['Helpless', 'Resigned', 'Sighed', 'Defeated'] | Duration:10.55s
+2025-07-14 22:43:53,362 - Q:samplenew3_00000151 | Run:9/10 | Emotions:['Helplessness', 'Resignation', 'Powerlessness', 'Acceptance'] | Duration:10.85s
+2025-07-14 22:44:02,966 - Q:samplenew3_00000151 | Run:10/10 | Emotions:['Hopelessness', 'Helplessness', 'Resignation'] | Duration:9.60s
+2025-07-14 22:44:14,706 - Q:samplenew3_00000839 | Run:1/10 | Emotions:['Anger', 'Deception', 'Betrayal', 'Anxiety', 'Fear'] | Duration:11.74s
+2025-07-14 22:44:25,565 - Q:samplenew3_00000839 | Run:2/10 | Emotions:['Anger', 'Betrayal', 'Fear', 'Vengeance'] | Duration:10.86s
+2025-07-14 22:44:36,363 - Q:samplenew3_00000839 | Run:3/10 | Emotions:['Anger', 'Deceit', 'Betrayal', 'Fear'] | Duration:10.80s
+2025-07-14 22:44:45,295 - Q:samplenew3_00000839 | Run:4/10 | Emotions:['Anger', 'Resentment', 'Betrayal', 'Suspicion'] | Duration:8.93s
+2025-07-14 22:44:55,805 - Q:samplenew3_00000839 | Run:5/10 | Emotions:['Betrayal', 'Malice', 'Deception', 'Anxiety'] | Duration:10.51s
+2025-07-14 22:45:06,273 - Q:samplenew3_00000839 | Run:6/10 | Emotions:['Fear', 'Betrayal', 'Anger', 'Sorrow'] | Duration:10.47s
+2025-07-14 22:45:16,828 - Q:samplenew3_00000839 | Run:7/10 | Emotions:['Deception', 'Betrayal', 'Anger', 'Fear'] | Duration:10.55s
+2025-07-14 22:45:28,601 - Q:samplenew3_00000839 | Run:8/10 | Emotions:['Anger', 'Betrayal', 'Revenge', 'Malice', 'Deceit'] | Duration:11.77s
+2025-07-14 22:45:38,583 - Q:samplenew3_00000839 | Run:9/10 | Emotions:['Anger', 'Betrayal', 'Malice'] | Duration:9.98s
+2025-07-14 22:45:51,322 - Q:samplenew3_00000839 | Run:10/10 | Emotions:['Anger', 'Deceit', 'Malice', 'Suspense', 'Fear', 'Dread'] | Duration:12.74s
+2025-07-14 22:46:08,924 - Q:samplenew3_00000579 | Run:1/10 | Emotions:['Anger', 'Frustration', 'Fear', 'Sadness', 'Hatred'] | Duration:17.60s
+2025-07-14 22:46:24,397 - Q:samplenew3_00000579 | Run:2/10 | Emotions:['Anger', 'Resentment', 'Frustration', 'Sadness', 'Outrage', 'Despair', 'Desperation'] | Duration:15.47s
+2025-07-14 22:46:39,283 - Q:samplenew3_00000579 | Run:3/10 | Emotions:['Anger', 'Frustration', 'Betrayal', 'Sadness', 'Fear'] | Duration:14.89s
+2025-07-14 22:46:54,171 - Q:samplenew3_00000579 | Run:4/10 | Emotions:['Anger', 'Frustration', 'Resentment', 'Fear', 'Sorrow'] | Duration:14.89s
+2025-07-14 22:47:11,370 - Q:samplenew3_00000579 | Run:5/10 | Emotions:['Anger', 'Frustration', 'Resentment', 'Sadness', 'Fear'] | Duration:17.20s
+2025-07-14 22:47:27,522 - Q:samplenew3_00000579 | Run:6/10 | Emotions:['Anger', 'Frustration', 'Fear', 'Resentment', 'Hatred', 'Sadness'] | Duration:16.15s
+2025-07-14 22:47:43,606 - Q:samplenew3_00000579 | Run:7/10 | Emotions:['Anger', 'Frustration', 'Betrayal', 'Fear', 'Sadness', 'Hatred'] | Duration:16.08s
+2025-07-14 22:47:58,518 - Q:samplenew3_00000579 | Run:8/10 | Emotions:['Anger', 'Frustration', 'Resentment', 'Bitterness', 'Fear'] | Duration:14.91s
+2025-07-14 22:48:14,208 - Q:samplenew3_00000579 | Run:9/10 | Emotions:['Anger', 'Resentment', 'Betrayal', 'Fear', 'Sadness', 'Helplessness'] | Duration:15.69s
+2025-07-14 22:48:30,730 - Q:samplenew3_00000579 | Run:10/10 | Emotions:['Anger', 'Frustration', 'Resentment', 'Sadness', 'Fear', 'Anxiety', 'Outrage'] | Duration:16.52s
+2025-07-14 22:48:41,522 - Q:samplenew3_00000294 | Run:1/10 | Emotions:['Nostalgia', 'Melancholy', 'Longing'] | Duration:10.79s
+2025-07-14 22:48:53,667 - Q:samplenew3_00000294 | Run:2/10 | Emotions:['Nostalgia', 'Sentimental', 'Wistful', 'Melancholy'] | Duration:12.14s
+2025-07-14 22:49:04,881 - Q:samplenew3_00000294 | Run:3/10 | Emotions:['Nostalgia', 'Wistfulness', 'Longing'] | Duration:11.21s
+2025-07-14 22:49:14,290 - Q:samplenew3_00000294 | Run:4/10 | Emotions:['Nostalgia', 'Longing'] | Duration:9.41s
+2025-07-14 22:49:25,881 - Q:samplenew3_00000294 | Run:5/10 | Emotions:['Nostalgia', 'Longing', 'Wistfulness'] | Duration:11.59s
+2025-07-14 22:49:38,721 - Q:samplenew3_00000294 | Run:6/10 | Emotions:['Nostalgia', 'Sentimental', 'Warmth', 'Longing'] | Duration:12.84s
+2025-07-14 22:49:48,923 - Q:samplenew3_00000294 | Run:7/10 | Emotions:['Nostalgia', 'Longing', 'Pride'] | Duration:10.20s
+2025-07-14 22:49:59,276 - Q:samplenew3_00000294 | Run:8/10 | Emotions:['Nostalgia', 'Longing', 'Wistfulness'] | Duration:10.35s
+2025-07-14 22:50:10,144 - Q:samplenew3_00000294 | Run:9/10 | Emotions:['Nostalgia', 'Sentimental', 'Wistfulness'] | Duration:10.87s
+2025-07-14 22:50:23,319 - Q:samplenew3_00000294 | Run:10/10 | Emotions:['Nostalgia', 'Melancholy', 'Longing', 'Wistfulness'] | Duration:13.17s
+2025-07-14 22:50:34,464 - Q:samplenew3_00000493 | Run:1/10 | Emotions:['Uncertainty', 'Curiosity', 'Concern', 'Intrigue'] | Duration:11.14s
+2025-07-14 22:50:45,382 - Q:samplenew3_00000493 | Run:2/10 | Emotions:['Uncertainty', 'Concern', 'Curiosity', 'Ambivalence'] | Duration:10.92s
+2025-07-14 22:50:54,097 - Q:samplenew3_00000493 | Run:3/10 | Emotions:['Uncertainty', 'Concern', 'Curiosity'] | Duration:8.72s
+2025-07-14 22:51:03,145 - Q:samplenew3_00000493 | Run:4/10 | Emotions:['Confusion', 'Uncertainty', 'Curiosity'] | Duration:9.05s
+2025-07-14 22:51:13,256 - Q:samplenew3_00000493 | Run:5/10 | Emotions:['Confusion', 'Curiosity', 'Uncertainty', 'Anxiety'] | Duration:10.11s
+2025-07-14 22:51:22,708 - Q:samplenew3_00000493 | Run:6/10 | Emotions:['Curiosity', 'Frustration', 'Uncertainty'] | Duration:9.45s
+2025-07-14 22:51:33,837 - Q:samplenew3_00000493 | Run:7/10 | Emotions:['Curiosity', 'Uncertainty', 'Anxiety'] | Duration:11.13s
+2025-07-14 22:51:43,254 - Q:samplenew3_00000493 | Run:8/10 | Emotions:['Worry', 'Uncertainty', 'Concern', 'Hope'] | Duration:9.42s
+2025-07-14 22:51:53,547 - Q:samplenew3_00000493 | Run:9/10 | Emotions:['Uncertainty', 'Worry', 'Curiosity', 'Ambiguity'] | Duration:10.29s
+2025-07-14 22:52:03,311 - Q:samplenew3_00000493 | Run:10/10 | Emotions:['Uncertainty', 'Curiosity', 'Concern', 'Ambivalence'] | Duration:9.76s
+2025-07-14 22:52:13,256 - Q:samplenew3_00000378 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Regret', 'Annoyance'] | Duration:9.94s
+2025-07-14 22:52:24,397 - Q:samplenew3_00000378 | Run:2/10 | Emotions:['Frustration', 'Anger'] | Duration:11.14s
+2025-07-14 22:52:36,141 - Q:samplenew3_00000378 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Anger'] | Duration:11.74s
+2025-07-14 22:52:46,785 - Q:samplenew3_00000378 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Anger'] | Duration:10.64s
+2025-07-14 22:52:56,184 - Q:samplenew3_00000378 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:9.40s
+2025-07-14 22:53:06,991 - Q:samplenew3_00000378 | Run:6/10 | Emotions:['Frustrated', 'Angry'] | Duration:10.81s
+2025-07-14 22:53:17,069 - Q:samplenew3_00000378 | Run:7/10 | Emotions:['Frustration', 'Disappointment', 'Irritation'] | Duration:10.08s
+2025-07-14 22:53:28,505 - Q:samplenew3_00000378 | Run:8/10 | Emotions:['Frustration', 'Disappointment'] | Duration:11.44s
+2025-07-14 22:53:37,617 - Q:samplenew3_00000378 | Run:9/10 | Emotions:['Frustration', 'Disappointment'] | Duration:9.11s
+2025-07-14 22:53:46,594 - Q:samplenew3_00000378 | Run:10/10 | Emotions:['Frustration', 'Disappointment'] | Duration:8.98s
+2025-07-14 22:53:54,480 - Q:samplenew3_00000548 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Concern'] | Duration:7.88s
+2025-07-14 22:54:04,993 - Q:samplenew3_00000548 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Desperation', 'Concern'] | Duration:10.51s
+2025-07-14 22:54:13,858 - Q:samplenew3_00000548 | Run:3/10 | Emotions:['Sorrow', 'Regret', 'Concern'] | Duration:8.87s
+2025-07-14 22:54:22,716 - Q:samplenew3_00000548 | Run:4/10 | Emotions:['Sadness', 'Anxiety', 'Fear', 'Concern'] | Duration:8.86s
+2025-07-14 22:54:31,033 - Q:samplenew3_00000548 | Run:5/10 | Emotions:['Sadness', 'Anxiety', 'Despair'] | Duration:8.32s
+2025-07-14 22:54:40,831 - Q:samplenew3_00000548 | Run:6/10 | Emotions:['Sadness', 'Anxiety', 'Worry', 'Fear'] | Duration:9.80s
+2025-07-14 22:54:50,000 - Q:samplenew3_00000548 | Run:7/10 | Emotions:['Sadness', 'Worry', 'Concern', 'Regret'] | Duration:9.17s
+2025-07-14 22:54:58,739 - Q:samplenew3_00000548 | Run:8/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Panic'] | Duration:8.74s
+2025-07-14 22:55:06,953 - Q:samplenew3_00000548 | Run:9/10 | Emotions:['Worry', 'Concern', 'Fear'] | Duration:8.21s
+2025-07-14 22:55:16,607 - Q:samplenew3_00000548 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Panic', 'Concern', 'Helplessness'] | Duration:9.65s
+2025-07-14 22:55:27,987 - Q:samplenew3_00000425 | Run:1/10 | Emotions:['Sadness', 'Helplessness', 'Frustration', 'Powerlessness', 'Despair'] | Duration:11.38s
+2025-07-14 22:55:39,861 - Q:samplenew3_00000425 | Run:2/10 | Emotions:['Helpless', 'Sadness', 'Powerlessness', 'Anguish', 'Sympathy'] | Duration:11.87s
+2025-07-14 22:55:49,343 - Q:samplenew3_00000425 | Run:3/10 | Emotions:['Sadness', 'Helplessness', 'Powerlessness'] | Duration:9.48s
+2025-07-14 22:55:59,853 - Q:samplenew3_00000425 | Run:4/10 | Emotions:['Helpless', 'Sadness', 'Empathy', 'Powerlessness'] | Duration:10.51s
+2025-07-14 22:56:09,906 - Q:samplenew3_00000425 | Run:5/10 | Emotions:['Helplessness', 'Sadness', 'Pity', 'Frustration', 'Despair'] | Duration:10.05s
+2025-07-14 22:56:21,021 - Q:samplenew3_00000425 | Run:6/10 | Emotions:['Helplessness', 'Sorrow', 'Frustration'] | Duration:11.11s
+2025-07-14 22:56:34,565 - Q:samplenew3_00000425 | Run:7/10 | Emotions:['Helpless', 'Powerlessness', 'Sadness', 'Pity', 'Anguish'] | Duration:13.54s
+2025-07-14 22:56:45,194 - Q:samplenew3_00000425 | Run:8/10 | Emotions:['Helpless', 'Sadness', 'Pity', 'Anguish'] | Duration:10.63s
+2025-07-14 22:56:57,225 - Q:samplenew3_00000425 | Run:9/10 | Emotions:['Helplessness', 'Sadness', 'Powerlessness', 'Distress', 'Sympathy'] | Duration:12.03s
+2025-07-14 22:57:07,155 - Q:samplenew3_00000425 | Run:10/10 | Emotions:['Sadness', 'Helplessness', 'Frustration', 'Anger'] | Duration:9.93s
+2025-07-14 22:57:19,055 - Q:samplenew3_00000513 | Run:1/10 | Emotions:['Pride', 'Shame', 'Regret', 'Sorrow', 'Longing'] | Duration:11.90s
+2025-07-14 22:57:29,026 - Q:samplenew3_00000513 | Run:2/10 | Emotions:['Pride', 'Shame', 'Disgust', 'Regret'] | Duration:9.97s
+2025-07-14 22:57:42,425 - Q:samplenew3_00000513 | Run:3/10 | Emotions:['Pride', 'Disdain', 'Frustration', 'Longing'] | Duration:13.40s
+2025-07-14 22:57:52,275 - Q:samplenew3_00000513 | Run:4/10 | Emotions:['Pride', 'Regret', 'Longing', 'Sorrow'] | Duration:9.85s
+2025-07-14 22:58:03,202 - Q:samplenew3_00000513 | Run:5/10 | Emotions:['Pride', 'Shame', 'Respect', 'Loyalty', 'Nostalgia'] | Duration:10.93s
+2025-07-14 22:58:12,548 - Q:samplenew3_00000513 | Run:6/10 | Emotions:['Pride', 'Shame', 'Regret', 'Longing'] | Duration:9.35s
+2025-07-14 22:58:23,103 - Q:samplenew3_00000513 | Run:7/10 | Emotions:['Pride', 'Contempt', 'Regret', 'Nostalgia'] | Duration:10.55s
+2025-07-14 22:58:32,658 - Q:samplenew3_00000513 | Run:8/10 | Emotions:['Pride', 'Shame', 'Regret', 'Longing'] | Duration:9.55s
+2025-07-14 22:58:41,239 - Q:samplenew3_00000513 | Run:9/10 | Emotions:['Pride', 'Shame', 'Regret'] | Duration:8.58s
+2025-07-14 22:58:50,765 - Q:samplenew3_00000513 | Run:10/10 | Emotions:['Pride', 'Shame', 'Regret', 'Longing'] | Duration:9.52s
+2025-07-14 22:58:59,361 - Q:samplenew3_00000084 | Run:1/10 | Emotions:['Worry', 'Concern', 'Urgency'] | Duration:8.59s
+2025-07-14 22:59:08,057 - Q:samplenew3_00000084 | Run:2/10 | Emotions:['Worry', 'Concern', 'Frustration'] | Duration:8.70s
+2025-07-14 22:59:16,995 - Q:samplenew3_00000084 | Run:3/10 | Emotions:['Worry', 'Concern', 'Frustration'] | Duration:8.94s
+2025-07-14 22:59:25,565 - Q:samplenew3_00000084 | Run:4/10 | Emotions:['Frustration', 'Concern', 'Caution'] | Duration:8.57s
+2025-07-14 22:59:37,754 - Q:samplenew3_00000084 | Run:5/10 | Emotions:['Worry', 'Concern', 'Urgency', 'Frustration'] | Duration:12.19s
+2025-07-14 22:59:46,989 - Q:samplenew3_00000084 | Run:6/10 | Emotions:['Frustration', 'Exasperation', 'Concern'] | Duration:9.23s
+2025-07-14 22:59:54,375 - Q:samplenew3_00000084 | Run:7/10 | Emotions:['Worry', 'Concern'] | Duration:7.39s
+2025-07-14 23:00:03,492 - Q:samplenew3_00000084 | Run:8/10 | Emotions:['Frustration', 'Impatience', 'Concern'] | Duration:9.12s
+2025-07-14 23:00:13,850 - Q:samplenew3_00000084 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:10.36s
+2025-07-14 23:00:22,765 - Q:samplenew3_00000084 | Run:10/10 | Emotions:['Worry', 'Concern', 'Frustration'] | Duration:8.92s
+2025-07-14 23:00:32,761 - Q:samplenew3_00000360 | Run:1/10 | Emotions:['Shame', 'Regret', 'Helplessness'] | Duration:9.99s
+2025-07-14 23:00:44,176 - Q:samplenew3_00000360 | Run:2/10 | Emotions:['Shame', 'Disappointment', 'Frustration', 'Irritation'] | Duration:11.41s
+2025-07-14 23:00:54,936 - Q:samplenew3_00000360 | Run:3/10 | Emotions:['Shame', 'Disappointment', 'Frustration'] | Duration:10.76s
+2025-07-14 23:01:04,330 - Q:samplenew3_00000360 | Run:4/10 | Emotions:['Ashamed', 'Regretful', 'Annoyed'] | Duration:9.39s
+2025-07-14 23:01:18,153 - Q:samplenew3_00000360 | Run:5/10 | Emotions:['Ashamed', 'Regretful', 'Helpless', 'Frustrated'] | Duration:13.82s
+2025-07-14 23:01:27,399 - Q:samplenew3_00000360 | Run:6/10 | Emotions:['Ashamed', 'Disappointed', 'Annoyed'] | Duration:9.24s
+2025-07-14 23:01:37,880 - Q:samplenew3_00000360 | Run:7/10 | Emotions:['Ashamed', 'Regretful', 'Frustrated', 'Annoyed'] | Duration:10.48s
+2025-07-14 23:01:47,596 - Q:samplenew3_00000360 | Run:8/10 | Emotions:['Ashamed', 'Regretful', 'Annoyed'] | Duration:9.72s
+2025-07-14 23:01:57,553 - Q:samplenew3_00000360 | Run:9/10 | Emotions:['Shame', 'Regret', 'Disappointment'] | Duration:9.96s
+2025-07-14 23:02:06,746 - Q:samplenew3_00000360 | Run:10/10 | Emotions:['Shame', 'Regret', 'Annoyance'] | Duration:9.19s
+2025-07-14 23:02:16,526 - Q:samplenew3_00000723 | Run:1/10 | Emotions:['Respect', 'Curiosity', 'Politeness'] | Duration:9.78s
+2025-07-14 23:02:25,868 - Q:samplenew3_00000723 | Run:2/10 | Emotions:['Respect', 'Curiosity', 'Politeness'] | Duration:9.34s
+2025-07-14 23:02:34,382 - Q:samplenew3_00000723 | Run:3/10 | Emotions:['Curiosity', 'Respect', 'Politeness'] | Duration:8.51s
+2025-07-14 23:02:43,542 - Q:samplenew3_00000723 | Run:4/10 | Emotions:['Curiosity', 'Respect', 'Politeness'] | Duration:9.16s
+2025-07-14 23:02:54,951 - Q:samplenew3_00000723 | Run:5/10 | Emotions:['Curiosity', 'Respect', 'Politeness'] | Duration:11.41s
+2025-07-14 23:03:04,684 - Q:samplenew3_00000723 | Run:6/10 | Emotions:['Curiosity', 'Politeness', 'Formality'] | Duration:9.73s
+2025-07-14 23:03:14,868 - Q:samplenew3_00000723 | Run:7/10 | Emotions:['Curiosity', 'Respect', 'Formality'] | Duration:10.18s
+2025-07-14 23:03:24,036 - Q:samplenew3_00000723 | Run:8/10 | Emotions:['Curiosity', 'Respect', 'Politeness'] | Duration:9.17s
+2025-07-14 23:03:34,576 - Q:samplenew3_00000723 | Run:9/10 | Emotions:['Respect', 'Politeness', 'Formality'] | Duration:10.54s
+2025-07-14 23:03:44,496 - Q:samplenew3_00000723 | Run:10/10 | Emotions:['Curiosity', 'Respect', 'Politeness'] | Duration:9.92s
+2025-07-14 23:03:56,103 - Q:samplenew3_00000347 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Restlessness', 'Excitement'] | Duration:11.61s
+2025-07-14 23:04:07,871 - Q:samplenew3_00000347 | Run:2/10 | Emotions:['Frustration', 'Boredom', 'Excitement', 'Anticipation'] | Duration:11.77s
+2025-07-14 23:04:17,507 - Q:samplenew3_00000347 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Boredom', 'Anticipation'] | Duration:9.64s
+2025-07-14 23:04:29,508 - Q:samplenew3_00000347 | Run:4/10 | Emotions:['Boredom', 'Frustration', 'Disappointment', 'Hope', 'Excitement', 'Anticipation'] | Duration:12.00s
+2025-07-14 23:04:39,245 - Q:samplenew3_00000347 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Hope', 'Excitement'] | Duration:9.74s
+2025-07-14 23:04:50,195 - Q:samplenew3_00000347 | Run:6/10 | Emotions:['Frustration', 'Disappointment', 'Longing', 'Anticipation'] | Duration:10.95s
+2025-07-14 23:05:03,192 - Q:samplenew3_00000347 | Run:7/10 | Emotions:['Frustration', 'Disappointment', 'Anticipation', 'Excitement', 'Hope'] | Duration:13.00s
+2025-07-14 23:05:13,652 - Q:samplenew3_00000347 | Run:8/10 | Emotions:['Frustration', 'Excitement'] | Duration:10.46s
+2025-07-14 23:05:24,803 - Q:samplenew3_00000347 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Desperation', 'Longing', 'Eagerness'] | Duration:11.15s
+2025-07-14 23:05:35,826 - Q:samplenew3_00000347 | Run:10/10 | Emotions:['Frustration', 'Hope', 'Excitement'] | Duration:11.02s
+2025-07-14 23:05:44,952 - Q:samplenew3_00000511 | Run:1/10 | Emotions:['Serious', 'Shocked', 'Disappointed'] | Duration:9.12s
+2025-07-14 23:05:55,498 - Q:samplenew3_00000511 | Run:2/10 | Emotions:['Fury', 'Horror', 'Disgust'] | Duration:10.55s
+2025-07-14 23:06:06,177 - Q:samplenew3_00000511 | Run:3/10 | Emotions:['Serious', 'Firm', 'Dread', 'Concern', 'Anger'] | Duration:10.68s
+2025-07-14 23:06:15,828 - Q:samplenew3_00000511 | Run:4/10 | Emotions:['Serious', 'Shock', 'Fear', 'Disgust'] | Duration:9.65s
+2025-07-14 23:06:26,887 - Q:samplenew3_00000511 | Run:5/10 | Emotions:['Serious', 'Severe', 'Firm', 'Authoritative', 'Somber'] | Duration:11.06s
+2025-07-14 23:06:38,299 - Q:samplenew3_00000511 | Run:6/10 | Emotions:['Serious', 'Firm', 'Severe', 'Dreadful', 'Concerned'] | Duration:11.41s
+2025-07-14 23:06:50,550 - Q:samplenew3_00000511 | Run:7/10 | Emotions:['Serious', 'Firm', 'Authoritative', 'Concerned', 'Fearful', 'Dreadful'] | Duration:12.25s
+2025-07-14 23:06:59,426 - Q:samplenew3_00000511 | Run:8/10 | Emotions:['Fear', 'Shock', 'Disapproval', 'Concern'] | Duration:8.88s
+2025-07-14 23:07:09,327 - Q:samplenew3_00000511 | Run:9/10 | Emotions:['Serious', 'Concerned', 'Shocked', 'Fearful'] | Duration:9.90s
+2025-07-14 23:07:19,591 - Q:samplenew3_00000511 | Run:10/10 | Emotions:['Serious', 'Firm', 'Severe', 'Unyielding'] | Duration:10.26s
+2025-07-14 23:07:29,665 - Q:samplenew3_00000261 | Run:1/10 | Emotions:['Bitter', 'Despair', 'Desperation', 'Sadness', 'Resignation'] | Duration:10.07s
+2025-07-14 23:07:41,709 - Q:samplenew3_00000261 | Run:2/10 | Emotions:['Despair', 'Helplessness', 'Resignation', 'Sadness', 'Longing'] | Duration:12.04s
+2025-07-14 23:07:54,697 - Q:samplenew3_00000261 | Run:3/10 | Emotions:['Despair', 'Helplessness', 'Melancholy', 'Longing'] | Duration:12.99s
+2025-07-14 23:08:04,722 - Q:samplenew3_00000261 | Run:4/10 | Emotions:['Despair', 'Helplessness', 'Resignation'] | Duration:10.02s
+2025-07-14 23:08:15,080 - Q:samplenew3_00000261 | Run:5/10 | Emotions:['Bitter', 'Helpless', 'Desperate', 'Sadness'] | Duration:10.36s
+2025-07-14 23:08:25,294 - Q:samplenew3_00000261 | Run:6/10 | Emotions:['Desperation', 'Resignation', 'Frustration'] | Duration:10.21s
+2025-07-14 23:08:35,430 - Q:samplenew3_00000261 | Run:7/10 | Emotions:['Despair', 'Resignation', 'Helplessness'] | Duration:10.14s
+2025-07-14 23:08:46,817 - Q:samplenew3_00000261 | Run:8/10 | Emotions:['Desperation', 'Frustration', 'Resignation', 'Hopelessness'] | Duration:11.39s
+2025-07-14 23:08:57,249 - Q:samplenew3_00000261 | Run:9/10 | Emotions:['Sadness', 'Despair', 'Desperation', 'Hopelessness', 'Frustration'] | Duration:10.43s
+2025-07-14 23:09:10,066 - Q:samplenew3_00000261 | Run:10/10 | Emotions:['Sadness', 'Helplessness', 'Desperation', 'Resignation', 'Weariness'] | Duration:12.82s
+2025-07-14 23:09:20,523 - Q:samplenew3_00000432 | Run:1/10 | Emotions:['Excitement', 'Curiosity', 'Nostalgia'] | Duration:10.46s
+2025-07-14 23:09:30,105 - Q:samplenew3_00000432 | Run:2/10 | Emotions:['Curious', 'Anticipation', 'Excitement'] | Duration:9.58s
+2025-07-14 23:09:40,107 - Q:samplenew3_00000432 | Run:3/10 | Emotions:['Excitement', 'Curiosity'] | Duration:10.00s
+2025-07-14 23:09:49,388 - Q:samplenew3_00000432 | Run:4/10 | Emotions:['Curiosity', 'Excitement'] | Duration:9.28s
+2025-07-14 23:09:58,657 - Q:samplenew3_00000432 | Run:5/10 | Emotions:['Curiosity', 'Excitement', 'Anticipation', 'Neutrality'] | Duration:9.27s
+2025-07-14 23:10:09,403 - Q:samplenew3_00000432 | Run:6/10 | Emotions:['Curiosity', 'Excitement', 'Anticipation', 'Neutrality'] | Duration:10.75s
+2025-07-14 23:10:18,870 - Q:samplenew3_00000432 | Run:7/10 | Emotions:['Curiosity', 'Anticipation', 'Excitement'] | Duration:9.47s
+2025-07-14 23:10:28,335 - Q:samplenew3_00000432 | Run:8/10 | Emotions:['Excitement', 'Curiosity', 'Anticipation'] | Duration:9.46s
+2025-07-14 23:10:37,901 - Q:samplenew3_00000432 | Run:9/10 | Emotions:['Curiosity', 'Excitement', 'Anticipation'] | Duration:9.57s
+2025-07-14 23:10:49,114 - Q:samplenew3_00000432 | Run:10/10 | Emotions:['Curiosity', 'Excitement', 'Surprise', 'Expectation', 'Neutrality'] | Duration:11.21s
+2025-07-14 23:10:58,176 - Q:samplenew3_00000593 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Anxiety', 'Limitation'] | Duration:9.06s
+2025-07-14 23:11:07,824 - Q:samplenew3_00000593 | Run:2/10 | Emotions:['Frustration', 'Disappointment', 'Restriction'] | Duration:9.65s
+2025-07-14 23:11:18,235 - Q:samplenew3_00000593 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Restriction', 'Sadness'] | Duration:10.41s
+2025-07-14 23:11:26,766 - Q:samplenew3_00000593 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Anxiety'] | Duration:8.53s
+2025-07-14 23:11:38,654 - Q:samplenew3_00000593 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Restriction'] | Duration:11.89s
+2025-07-14 23:11:47,971 - Q:samplenew3_00000593 | Run:6/10 | Emotions:['Frustration', 'Disappointment', 'Restriction'] | Duration:9.32s
+2025-07-14 23:11:57,246 - Q:samplenew3_00000593 | Run:7/10 | Emotions:['Frustration', 'Restraint', 'Disappointment'] | Duration:9.27s
+2025-07-14 23:12:06,364 - Q:samplenew3_00000593 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Restriction', 'Annoyance'] | Duration:9.12s
+2025-07-14 23:12:15,609 - Q:samplenew3_00000593 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Restriction', 'Confinement'] | Duration:9.24s
+2025-07-14 23:12:25,266 - Q:samplenew3_00000593 | Run:10/10 | Emotions:['Frustration', 'Disappointment'] | Duration:9.66s
+2025-07-14 23:12:37,915 - Q:samplenew3_00000220 | Run:1/10 | Emotions:['Nostalgia', 'Longing', 'Excitement', 'Sentimentality'] | Duration:12.65s
+2025-07-14 23:12:49,709 - Q:samplenew3_00000220 | Run:2/10 | Emotions:['Nostalgia', 'Excitement', 'Sentimentalness'] | Duration:11.79s
+2025-07-14 23:13:00,609 - Q:samplenew3_00000220 | Run:3/10 | Emotions:['Nostalgia', 'Longing', 'Excitement'] | Duration:10.90s
+2025-07-14 23:13:11,717 - Q:samplenew3_00000220 | Run:4/10 | Emotions:['Nostalgia', 'Longing', 'Excitement'] | Duration:11.11s
+2025-07-14 23:13:23,082 - Q:samplenew3_00000220 | Run:5/10 | Emotions:['Nostalgia', 'Sentimentality', 'Excitement'] | Duration:11.37s
+2025-07-14 23:13:34,941 - Q:samplenew3_00000220 | Run:6/10 | Emotions:['Nostalgia', 'Longing', 'Excitement', 'Joy'] | Duration:11.86s
+2025-07-14 23:13:49,304 - Q:samplenew3_00000220 | Run:7/10 | Emotions:['Nostalgia', 'Longing', 'Excitement', 'Anticipation', 'Sentimentality'] | Duration:14.36s
+2025-07-14 23:14:02,250 - Q:samplenew3_00000220 | Run:8/10 | Emotions:['Nostalgia', 'Longing', 'Excitement', 'Anticipation'] | Duration:12.94s
+2025-07-14 23:14:13,997 - Q:samplenew3_00000220 | Run:9/10 | Emotions:['Nostalgia', 'Longing', 'Excitement', 'Joy'] | Duration:11.75s
+2025-07-14 23:14:24,690 - Q:samplenew3_00000220 | Run:10/10 | Emotions:['Nostalgia', 'Excitement', 'Longing'] | Duration:10.69s
+2025-07-14 23:14:35,485 - Q:samplenew3_00000500 | Run:1/10 | Emotions:['Amusement', 'Surprise', 'Pride', 'Admiration'] | Duration:10.79s
+2025-07-14 23:14:44,865 - Q:samplenew3_00000500 | Run:2/10 | Emotions:['Amusement', 'Admiration', 'Surprise'] | Duration:9.38s
+2025-07-14 23:14:53,808 - Q:samplenew3_00000500 | Run:3/10 | Emotions:['Admiration', 'Surprise', 'Pride'] | Duration:8.94s
+2025-07-14 23:15:03,646 - Q:samplenew3_00000500 | Run:4/10 | Emotions:['Curious', 'Amusement', 'Admiration'] | Duration:9.84s
+2025-07-14 23:15:13,563 - Q:samplenew3_00000500 | Run:5/10 | Emotions:['Amusement', 'Surprise', 'Pride'] | Duration:9.92s
+2025-07-14 23:15:23,508 - Q:samplenew3_00000500 | Run:6/10 | Emotions:['Admiration', 'Curiosity', 'Surprise'] | Duration:9.94s
+2025-07-14 23:15:34,038 - Q:samplenew3_00000500 | Run:7/10 | Emotions:['Surprise', 'Amusement', 'Admiration'] | Duration:10.53s
+2025-07-14 23:15:43,966 - Q:samplenew3_00000500 | Run:8/10 | Emotions:['Admiration', 'Curiosity', 'Surprise'] | Duration:9.93s
+2025-07-14 23:15:54,934 - Q:samplenew3_00000500 | Run:9/10 | Emotions:['Surprise', 'Amusement', 'Admiration', 'Approval'] | Duration:10.97s
+2025-07-14 23:16:06,325 - Q:samplenew3_00000500 | Run:10/10 | Emotions:['Surprise', 'Amazement', 'Admiration', 'Pride'] | Duration:11.39s
+2025-07-14 23:16:16,108 - Q:samplenew3_00000605 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Felt'] | Duration:9.78s
+2025-07-14 23:16:24,441 - Q:samplenew3_00000605 | Run:2/10 | Emotions:['Frustration', 'Disappointment'] | Duration:8.33s
+2025-07-14 23:16:35,229 - Q:samplenew3_00000605 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:10.79s
+2025-07-14 23:16:44,900 - Q:samplenew3_00000605 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Irritation'] | Duration:9.67s
+2025-07-14 23:16:54,139 - Q:samplenew3_00000605 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Anger'] | Duration:9.24s
+2025-07-14 23:17:02,469 - Q:samplenew3_00000605 | Run:6/10 | Emotions:['Frustration', 'Disappointment'] | Duration:8.33s
+2025-07-14 23:17:12,243 - Q:samplenew3_00000605 | Run:7/10 | Emotions:['Frustrated', 'Disappointed', 'Irritated'] | Duration:9.77s
+2025-07-14 23:17:21,664 - Q:samplenew3_00000605 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Anger', 'Annoyance'] | Duration:9.42s
+2025-07-14 23:17:30,000 - Q:samplenew3_00000605 | Run:9/10 | Emotions:['Frustration', 'Disappointment'] | Duration:8.34s
+2025-07-14 23:17:39,932 - Q:samplenew3_00000605 | Run:10/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance', 'Discontentment'] | Duration:9.93s
+2025-07-14 23:17:48,847 - Q:samplenew3_00000447 | Run:1/10 | Emotions:['Curiosity', 'Interest', 'Amusement'] | Duration:8.91s
+2025-07-14 23:17:58,862 - Q:samplenew3_00000447 | Run:2/10 | Emotions:['Surprise', 'Curiosity', 'Interest', 'Amusement'] | Duration:10.01s
+2025-07-14 23:18:08,136 - Q:samplenew3_00000447 | Run:3/10 | Emotions:['Surprise', 'Curiosity', 'Amusement'] | Duration:9.27s
+2025-07-14 23:18:19,188 - Q:samplenew3_00000447 | Run:4/10 | Emotions:['Curiosity', 'Surprise', 'Concern', 'Warmth', 'Politeness'] | Duration:11.05s
+2025-07-14 23:18:30,712 - Q:samplenew3_00000447 | Run:5/10 | Emotions:['Curiosity', 'Surprise', 'Warmth', 'Friendliness'] | Duration:11.52s
+2025-07-14 23:18:39,422 - Q:samplenew3_00000447 | Run:6/10 | Emotions:['Curiosity', 'Interest', 'Approval'] | Duration:8.71s
+2025-07-14 23:18:48,625 - Q:samplenew3_00000447 | Run:7/10 | Emotions:['Curiosity', 'Surprise', 'Admiration', 'Warmth'] | Duration:9.20s
+2025-07-14 23:18:57,730 - Q:samplenew3_00000447 | Run:8/10 | Emotions:['Surprise', 'Curiosity', 'Friendliness'] | Duration:9.10s
+2025-07-14 23:19:07,018 - Q:samplenew3_00000447 | Run:9/10 | Emotions:['Surprise', 'Amusement', 'Warmth'] | Duration:9.29s
+2025-07-14 23:19:16,812 - Q:samplenew3_00000447 | Run:10/10 | Emotions:['Curiosity', 'Surprise', 'Approval', 'Friendliness'] | Duration:9.79s
+2025-07-14 23:19:24,942 - Q:samplenew3_00000744 | Run:1/10 | Emotions:['Trust', 'Respect'] | Duration:8.13s
+2025-07-14 23:19:32,305 - Q:samplenew3_00000744 | Run:2/10 | Emotions:['Trust', 'Respect'] | Duration:7.36s
+2025-07-14 23:19:40,215 - Q:samplenew3_00000744 | Run:3/10 | Emotions:['Trust', 'Confidence'] | Duration:7.91s
+2025-07-14 23:19:48,297 - Q:samplenew3_00000744 | Run:4/10 | Emotions:['Trust', 'Respect', 'Confidence'] | Duration:8.08s
+2025-07-14 23:20:01,077 - Q:samplenew3_00000744 | Run:5/10 | Emotions:['Trust', 'Respect', 'Confidence'] | Duration:12.78s
+2025-07-14 23:20:10,249 - Q:samplenew3_00000744 | Run:6/10 | Emotions:['Trust', 'Respect', 'Confidence'] | Duration:9.17s
+2025-07-14 23:20:18,048 - Q:samplenew3_00000744 | Run:7/10 | Emotions:['Trust', 'Respect'] | Duration:7.80s
+2025-07-14 23:20:26,363 - Q:samplenew3_00000744 | Run:8/10 | Emotions:['Trust', 'Respect', 'Confidence'] | Duration:8.31s
+2025-07-14 23:20:34,581 - Q:samplenew3_00000744 | Run:9/10 | Emotions:['Trust', 'Respect'] | Duration:8.22s
+2025-07-14 23:20:44,382 - Q:samplenew3_00000744 | Run:10/10 | Emotions:['Trust', 'Respect', 'Certainty'] | Duration:9.80s
+2025-07-14 23:20:57,163 - Q:samplenew3_00000340 | Run:1/10 | Emotions:['Pride', 'Amazement', 'Excitement'] | Duration:12.78s
+2025-07-14 23:21:09,648 - Q:samplenew3_00000340 | Run:2/10 | Emotions:['Excitement', 'Confidence', 'Joy', 'Pride', 'Amazement'] | Duration:12.48s
+2025-07-14 23:21:20,494 - Q:samplenew3_00000340 | Run:3/10 | Emotions:['Pride', 'Amazement', 'Excitement', 'Joy'] | Duration:10.85s
+2025-07-14 23:21:31,755 - Q:samplenew3_00000340 | Run:4/10 | Emotions:['Excitement', 'Pride', 'Confidence', 'Amazement', 'Joy'] | Duration:11.26s
+2025-07-14 23:21:43,104 - Q:samplenew3_00000340 | Run:5/10 | Emotions:['Amazement', 'Excitement', 'Pride', 'Satisfaction', 'Joy'] | Duration:11.35s
+2025-07-14 23:21:53,978 - Q:samplenew3_00000340 | Run:6/10 | Emotions:['Excitement', 'Pride', 'Confidence', 'Amazement'] | Duration:10.87s
+2025-07-14 23:22:05,306 - Q:samplenew3_00000340 | Run:7/10 | Emotions:['Excitement', 'Pride', 'Confidence', 'Joy', 'Amazement'] | Duration:11.33s
+2025-07-14 23:22:16,818 - Q:samplenew3_00000340 | Run:8/10 | Emotions:['Pride', 'Excitement', 'Confidence', 'Amazement'] | Duration:11.51s
+2025-07-14 23:22:27,819 - Q:samplenew3_00000340 | Run:9/10 | Emotions:['Excitement', 'Pride', 'Anticipation', 'Triumph'] | Duration:11.00s
+2025-07-14 23:22:39,579 - Q:samplenew3_00000340 | Run:10/10 | Emotions:['Excitement', 'Pride', 'Confidence', 'Joy', 'Amazement'] | Duration:11.76s
+2025-07-14 23:22:54,294 - Q:samplenew3_00000682 | Run:1/10 | Emotions:['Anger', 'Frustration', 'Irritation', 'Disappointment', 'Annoyance'] | Duration:14.71s
+2025-07-14 23:23:06,757 - Q:samplenew3_00000682 | Run:2/10 | Emotions:['Anger', 'Defensiveness', 'Irritation', 'Frustration'] | Duration:12.46s
+2025-07-14 23:23:17,977 - Q:samplenew3_00000682 | Run:3/10 | Emotions:['Anger', 'Frustration', 'Defiance', 'Irritation'] | Duration:11.22s
+2025-07-14 23:23:30,180 - Q:samplenew3_00000682 | Run:4/10 | Emotions:['Anger', 'Frustration', 'Annoyance', 'Defensiveness', 'Warning', 'Threat'] | Duration:12.20s
+2025-07-14 23:23:43,856 - Q:samplenew3_00000682 | Run:5/10 | Emotions:['Anger', 'Frustration', 'Defensiveness', 'Irritation', 'Annoyance'] | Duration:13.68s
+2025-07-14 23:23:55,052 - Q:samplenew3_00000682 | Run:6/10 | Emotions:['Frustrated', 'Angry', 'Defiant', 'Protective'] | Duration:11.19s
+2025-07-14 23:24:06,960 - Q:samplenew3_00000682 | Run:7/10 | Emotions:['Anger', 'Frustration', 'Irritation', 'Annoyance'] | Duration:11.91s
+2025-07-14 23:24:19,116 - Q:samplenew3_00000682 | Run:8/10 | Emotions:['Frustration', 'Anger', 'Defiance', 'Fear'] | Duration:12.16s
+2025-07-14 23:24:32,402 - Q:samplenew3_00000682 | Run:9/10 | Emotions:['Frustrated', 'Annoyed', 'Angry', 'Defensive'] | Duration:13.29s
+2025-07-14 23:24:43,712 - Q:samplenew3_00000682 | Run:10/10 | Emotions:['Anger', 'Frustration', 'Irritation', 'Disgust'] | Duration:11.31s
+2025-07-14 23:24:53,680 - Q:samplenew3_00000454 | Run:1/10 | Emotions:['Curious', 'Surprised', 'Intrigued'] | Duration:9.97s
+2025-07-14 23:25:02,788 - Q:samplenew3_00000454 | Run:2/10 | Emotions:['Curiosity', 'Surprise', 'Intrigue', 'Depth'] | Duration:9.11s
+2025-07-14 23:25:13,232 - Q:samplenew3_00000454 | Run:3/10 | Emotions:['Curiosity', 'Inquiry', 'Perplexity', 'Intrigue'] | Duration:10.44s
+2025-07-14 23:25:25,183 - Q:samplenew3_00000454 | Run:4/10 | Emotions:['Curious', 'Thoughtful', 'Confused', 'Intrigued', 'Perplexed'] | Duration:11.95s
+2025-07-14 23:25:36,216 - Q:samplenew3_00000454 | Run:5/10 | Emotions:['Curiosity', 'Inquisitiveness', 'Depth', 'Thoughtfulness'] | Duration:11.03s
+2025-07-14 23:25:48,541 - Q:samplenew3_00000454 | Run:6/10 | Emotions:['Curious', 'Inquisitive', 'Thoughtful', 'Reflective'] | Duration:12.32s
+2025-07-14 23:25:59,102 - Q:samplenew3_00000454 | Run:7/10 | Emotions:['Curiosity', 'Intrigue', 'Frustration', 'Surprise'] | Duration:10.56s
+2025-07-14 23:26:10,331 - Q:samplenew3_00000454 | Run:8/10 | Emotions:['Curious', 'Perplexed', 'Intrigued'] | Duration:11.23s
+2025-07-14 23:26:21,285 - Q:samplenew3_00000454 | Run:9/10 | Emotions:['Curiosity', 'Intrigue', 'Depth', 'Astonishment', 'Surprise'] | Duration:10.95s
+2025-07-14 23:26:33,182 - Q:samplenew3_00000454 | Run:10/10 | Emotions:['Curious', 'Inquisitive', 'Perplexed'] | Duration:11.90s
+2025-07-14 23:26:42,949 - Q:samplenew3_00000139 | Run:1/10 | Emotions:['Frustration', 'Anger', 'Confusion'] | Duration:9.77s
+2025-07-14 23:26:53,633 - Q:samplenew3_00000139 | Run:2/10 | Emotions:['Confusion', 'Frustration', 'Anger', 'Irritation'] | Duration:10.68s
+2025-07-14 23:27:03,101 - Q:samplenew3_00000139 | Run:3/10 | Emotions:['Frustration', 'Curiosity', 'Anger'] | Duration:9.47s
+2025-07-14 23:27:11,866 - Q:samplenew3_00000139 | Run:4/10 | Emotions:['Frustration', 'Annoyance', 'Curiosity'] | Duration:8.76s
+2025-07-14 23:27:22,957 - Q:samplenew3_00000139 | Run:5/10 | Emotions:['Frustration', 'Confusion', 'Irritation', 'Curiosity'] | Duration:11.09s
+2025-07-14 23:27:32,518 - Q:samplenew3_00000139 | Run:6/10 | Emotions:['Frustration', 'Confusion', 'Annoyance', 'Skepticism'] | Duration:9.56s
+2025-07-14 23:27:43,895 - Q:samplenew3_00000139 | Run:7/10 | Emotions:['Frustration', 'Confusion', 'Irritation', 'Annoyance'] | Duration:11.38s
+2025-07-14 23:27:53,990 - Q:samplenew3_00000139 | Run:8/10 | Emotions:['Confusion', 'Frustration', 'Curiosity', 'Annoyance'] | Duration:10.09s
+2025-07-14 23:28:06,401 - Q:samplenew3_00000139 | Run:9/10 | Emotions:['Frustrated', 'Confused', 'Angry'] | Duration:12.41s
+2025-07-14 23:28:16,059 - Q:samplenew3_00000139 | Run:10/10 | Emotions:['Frustration', 'Anger', 'Confusion'] | Duration:9.66s
+2025-07-14 23:28:24,524 - Q:samplenew3_00000827 | Run:1/10 | Emotions:['Care', 'Concern', 'Devotion'] | Duration:8.46s
+2025-07-14 23:28:35,041 - Q:samplenew3_00000827 | Run:2/10 | Emotions:['Love', 'Care', 'Responsibility', 'Devotion', 'Loyalty', 'Dedication'] | Duration:10.52s
+2025-07-14 23:28:47,309 - Q:samplenew3_00000827 | Run:3/10 | Emotions:['Love', 'Nurturing', 'Care', 'Devotion', 'Affection', 'Loyalty'] | Duration:12.27s
+2025-07-14 23:28:57,049 - Q:samplenew3_00000827 | Run:4/10 | Emotions:['Love', 'Care', 'Devotion', 'Loyalty', 'Gratitude'] | Duration:9.74s
+2025-07-14 23:29:06,571 - Q:samplenew3_00000827 | Run:5/10 | Emotions:['Care', 'Concern', 'Devotion', 'Loyalty', 'Gratitude'] | Duration:9.52s
+2025-07-14 23:29:14,808 - Q:samplenew3_00000827 | Run:6/10 | Emotions:['Love', 'Care', 'Concern'] | Duration:8.24s
+2025-07-14 23:29:24,177 - Q:samplenew3_00000827 | Run:7/10 | Emotions:['Love', 'Care', 'Devotion', 'Gratitude'] | Duration:9.37s
+2025-07-14 23:29:33,457 - Q:samplenew3_00000827 | Run:8/10 | Emotions:['Love', 'Nurturing', 'Gratitude'] | Duration:9.28s
+2025-07-14 23:29:43,131 - Q:samplenew3_00000827 | Run:9/10 | Emotions:['Love', 'Care', 'Devotion', 'Loyalty', 'Gratitude'] | Duration:9.67s
+2025-07-14 23:29:54,028 - Q:samplenew3_00000827 | Run:10/10 | Emotions:['Love', 'Care', 'Concern', 'Devotion', 'Loyalty', 'Tenderness'] | Duration:10.90s
+2025-07-14 23:30:03,696 - Q:samplenew3_00000367 | Run:1/10 | Emotions:['Relief', 'Longing', 'Nostalgia'] | Duration:9.67s
+2025-07-14 23:30:15,817 - Q:samplenew3_00000367 | Run:2/10 | Emotions:['Sadness', 'Longing', 'Nostalgia', 'Wistfulness'] | Duration:12.12s
+2025-07-14 23:30:25,414 - Q:samplenew3_00000367 | Run:3/10 | Emotions:['Relief', 'Longing', 'Nostalgia'] | Duration:9.60s
+2025-07-14 23:30:36,251 - Q:samplenew3_00000367 | Run:4/10 | Emotions:['Relief', 'Longing', 'Sorrow'] | Duration:10.84s
+2025-07-14 23:30:46,089 - Q:samplenew3_00000367 | Run:5/10 | Emotions:['Sorrow', 'Longing', 'Nostalgia'] | Duration:9.84s
+2025-07-14 23:30:55,111 - Q:samplenew3_00000367 | Run:6/10 | Emotions:['Relief', 'Longing', 'Sorrow'] | Duration:9.02s
+2025-07-14 23:31:04,783 - Q:samplenew3_00000367 | Run:7/10 | Emotions:['Relief', 'Longing', 'Nostalgia'] | Duration:9.67s
+2025-07-14 23:31:14,190 - Q:samplenew3_00000367 | Run:8/10 | Emotions:['Relief', 'Longing', 'Serenity'] | Duration:9.41s
+2025-07-14 23:31:23,758 - Q:samplenew3_00000367 | Run:9/10 | Emotions:['Relief', 'Longing', 'Nostalgia'] | Duration:9.57s
+2025-07-14 23:31:33,389 - Q:samplenew3_00000367 | Run:10/10 | Emotions:['Relief', 'Longing', 'Nostalgia'] | Duration:9.63s
+2025-07-14 23:31:49,099 - Q:samplenew3_00000535 | Run:1/10 | Emotions:['Confusion', 'Frustration', 'Disappointment', 'Annoyance'] | Duration:15.71s
+2025-07-14 23:32:02,910 - Q:samplenew3_00000535 | Run:2/10 | Emotions:['Confusion', 'Frustration', 'Disappointment', 'Curiosity'] | Duration:13.81s
+2025-07-14 23:32:16,486 - Q:samplenew3_00000535 | Run:3/10 | Emotions:['Confusion', 'Anger', 'Surprise', 'Anxiety', 'Frustration'] | Duration:13.58s
+2025-07-14 23:32:29,201 - Q:samplenew3_00000535 | Run:4/10 | Emotions:['Confusion', 'Frustration', 'Disappointment', 'Sadness'] | Duration:12.71s
+2025-07-14 23:32:44,698 - Q:samplenew3_00000535 | Run:5/10 | Emotions:['Surprise', 'Confusion', 'Frustration', 'Anger', 'Disappointment'] | Duration:15.50s
+2025-07-14 23:33:01,452 - Q:samplenew3_00000535 | Run:6/10 | Emotions:['Confusion', 'Anger', 'Frustration', 'Curiosity', 'Defensiveness', 'Suspicion'] | Duration:16.75s
+2025-07-14 23:33:17,390 - Q:samplenew3_00000535 | Run:7/10 | Emotions:['Confused', 'Frustrated', 'Disappointed', 'Anxious', 'Hopeful'] | Duration:15.94s
+2025-07-14 23:33:31,923 - Q:samplenew3_00000535 | Run:8/10 | Emotions:['Confusion', 'Anger', 'Frustration', 'Curiosity', 'Defensiveness'] | Duration:14.53s
+2025-07-14 23:33:48,667 - Q:samplenew3_00000535 | Run:9/10 | Emotions:['Confusion', 'Frustration', 'Anxiety', 'Disappointment', 'Curiosity', 'Indignation', 'Bitterness'] | Duration:16.74s
+2025-07-14 23:34:00,833 - Q:samplenew3_00000535 | Run:10/10 | Emotions:['Confusion', 'Frustration', 'Disappointment', 'Concern'] | Duration:12.17s
+2025-07-14 23:34:08,643 - Q:samplenew3_00000398 | Run:1/10 | Emotions:['Helpfulness', 'Concern'] | Duration:7.81s
+2025-07-14 23:34:17,492 - Q:samplenew3_00000398 | Run:2/10 | Emotions:['Helplessness', 'Concern', 'Empathy'] | Duration:8.85s
+2025-07-14 23:34:26,298 - Q:samplenew3_00000398 | Run:3/10 | Emotions:['Helplessness', 'Concern', 'Empathy'] | Duration:8.81s
+2025-07-14 23:34:33,905 - Q:samplenew3_00000398 | Run:4/10 | Emotions:['Helplessness', 'Concern'] | Duration:7.61s
+2025-07-14 23:34:43,771 - Q:samplenew3_00000398 | Run:5/10 | Emotions:['Helplessness', 'Concern', 'Empathy', 'Worry'] | Duration:9.86s
+2025-07-14 23:34:52,683 - Q:samplenew3_00000398 | Run:6/10 | Emotions:['Helplessness', 'Concern', 'Sympathy'] | Duration:8.91s
+2025-07-14 23:35:01,236 - Q:samplenew3_00000398 | Run:7/10 | Emotions:['Concern', 'Helpfulness', 'Empathy'] | Duration:8.55s
+2025-07-14 23:35:09,937 - Q:samplenew3_00000398 | Run:8/10 | Emotions:['Helplessness', 'Concern', 'Empathy'] | Duration:8.70s
+2025-07-14 23:35:18,458 - Q:samplenew3_00000398 | Run:9/10 | Emotions:['Concern', 'Empathy', 'Helpfulness'] | Duration:8.52s
+2025-07-14 23:35:27,473 - Q:samplenew3_00000398 | Run:10/10 | Emotions:['Helplessness', 'Concern', 'Desperation'] | Duration:9.01s
+2025-07-14 23:35:38,478 - Q:samplenew3_00000829 | Run:1/10 | Emotions:['Frustration', 'Disdain', 'Disappointment'] | Duration:11.00s
+2025-07-14 23:35:49,006 - Q:samplenew3_00000829 | Run:2/10 | Emotions:['Frustration', 'Disdain', 'Indifference'] | Duration:10.53s
+2025-07-14 23:36:00,076 - Q:samplenew3_00000829 | Run:3/10 | Emotions:['Disdain', 'Condescension', 'Disinterest'] | Duration:11.07s
+2025-07-14 23:36:12,799 - Q:samplenew3_00000829 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance', 'Disdain'] | Duration:12.72s
+2025-07-14 23:36:23,063 - Q:samplenew3_00000829 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Resentment'] | Duration:10.26s
+2025-07-14 23:36:34,868 - Q:samplenew3_00000829 | Run:6/10 | Emotions:['Frustration', 'Disdain', 'Resignation', 'Futility'] | Duration:11.81s
+2025-07-14 23:36:45,388 - Q:samplenew3_00000829 | Run:7/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance', 'Disinterest'] | Duration:10.52s
+2025-07-14 23:37:00,331 - Q:samplenew3_00000829 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:14.94s
+2025-07-14 23:37:10,297 - Q:samplenew3_00000829 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Anger'] | Duration:9.97s
+2025-07-14 23:37:20,279 - Q:samplenew3_00000829 | Run:10/10 | Emotions:['Frustration', 'Disappointment', 'Resentment', 'Anger'] | Duration:9.98s
+2025-07-14 23:37:29,124 - Q:samplenew3_00000725 | Run:1/10 | Emotions:['Pride', 'Confidence', 'Admiration'] | Duration:8.84s
+2025-07-14 23:37:37,891 - Q:samplenew3_00000725 | Run:2/10 | Emotions:['Pride', 'Confidence', 'Admiration'] | Duration:8.77s
+2025-07-14 23:37:47,690 - Q:samplenew3_00000725 | Run:3/10 | Emotions:['Pride', 'Love', 'Confidence'] | Duration:9.80s
+2025-07-14 23:37:56,950 - Q:samplenew3_00000725 | Run:4/10 | Emotions:['Pride', 'Admiration', 'Affection', 'Appreciation'] | Duration:9.26s
+2025-07-14 23:38:05,004 - Q:samplenew3_00000725 | Run:5/10 | Emotions:['Pride', 'Confidence'] | Duration:8.05s
+2025-07-14 23:38:17,326 - Q:samplenew3_00000725 | Run:6/10 | Emotions:['Pride', 'Admiration', 'Confidence'] | Duration:12.32s
+2025-07-14 23:38:28,396 - Q:samplenew3_00000725 | Run:7/10 | Emotions:['Pride', 'Confidence', 'Admiration'] | Duration:11.07s
+2025-07-14 23:38:36,951 - Q:samplenew3_00000725 | Run:8/10 | Emotions:['Pride', 'Admiration', 'Affection'] | Duration:8.55s
+2025-07-14 23:38:44,470 - Q:samplenew3_00000725 | Run:9/10 | Emotions:['Proud', 'Humble'] | Duration:7.52s
+2025-07-14 23:38:52,091 - Q:samplenew3_00000725 | Run:10/10 | Emotions:['Pride', 'Love'] | Duration:7.62s
+2025-07-14 23:39:01,030 - Q:samplenew3_00000058 | Run:1/10 | Emotions:['Anxious', 'Concerned', 'Worried'] | Duration:8.94s
+2025-07-14 23:39:08,494 - Q:samplenew3_00000058 | Run:2/10 | Emotions:['Uncertainty', 'Concern'] | Duration:7.46s
+2025-07-14 23:39:16,499 - Q:samplenew3_00000058 | Run:3/10 | Emotions:['Worry', 'Anxiety', 'Concern'] | Duration:8.01s
+2025-07-14 23:39:25,175 - Q:samplenew3_00000058 | Run:4/10 | Emotions:['Anxious', 'Worried', 'Concerned'] | Duration:8.67s
+2025-07-14 23:39:34,130 - Q:samplenew3_00000058 | Run:5/10 | Emotions:['Worry', 'Concern', 'Frustration'] | Duration:8.95s
+2025-07-14 23:39:42,518 - Q:samplenew3_00000058 | Run:6/10 | Emotions:['Worry', 'Anxiety', 'Concern'] | Duration:8.39s
+2025-07-14 23:39:49,824 - Q:samplenew3_00000058 | Run:7/10 | Emotions:['Worry', 'Anxiety'] | Duration:7.31s
+2025-07-14 23:39:58,888 - Q:samplenew3_00000058 | Run:8/10 | Emotions:['Worry', 'Concern', 'Uncertainty', 'Anxiety'] | Duration:9.06s
+2025-07-14 23:40:06,166 - Q:samplenew3_00000058 | Run:9/10 | Emotions:['Worry', 'Anxiety'] | Duration:7.28s
+2025-07-14 23:40:17,441 - Q:samplenew3_00000058 | Run:10/10 | Emotions:['Worry', 'Frustration', 'Concern'] | Duration:11.27s
+2025-07-14 23:40:26,154 - Q:samplenew3_00000504 | Run:1/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:8.71s
+2025-07-14 23:40:34,305 - Q:samplenew3_00000504 | Run:2/10 | Emotions:['Gratitude', 'Relief', 'Appreciation'] | Duration:8.15s
+2025-07-14 23:40:48,233 - Q:samplenew3_00000504 | Run:3/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:13.93s
+2025-07-14 23:40:59,780 - Q:samplenew3_00000504 | Run:4/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:11.55s
+2025-07-14 23:41:08,388 - Q:samplenew3_00000504 | Run:5/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:8.61s
+2025-07-14 23:41:17,979 - Q:samplenew3_00000504 | Run:6/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:9.59s
+2025-07-14 23:41:26,431 - Q:samplenew3_00000504 | Run:7/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:8.45s
+2025-07-14 23:41:35,193 - Q:samplenew3_00000504 | Run:8/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:8.76s
+2025-07-14 23:41:43,842 - Q:samplenew3_00000504 | Run:9/10 | Emotions:['Gratitude', 'Relief', 'Appreciation'] | Duration:8.65s
+2025-07-14 23:41:52,645 - Q:samplenew3_00000504 | Run:10/10 | Emotions:['Gratitude', 'Appreciation', 'Relief'] | Duration:8.80s
+2025-07-14 23:42:03,370 - Q:samplenew3_00000482 | Run:1/10 | Emotions:['Hope', 'Expectation', 'Warmth', 'Affection'] | Duration:10.72s
+2025-07-14 23:42:13,709 - Q:samplenew3_00000482 | Run:2/10 | Emotions:['Hope', 'Trust', 'Warmth', 'Sincerity'] | Duration:10.34s
+2025-07-14 23:42:22,418 - Q:samplenew3_00000482 | Run:3/10 | Emotions:['Trust', 'Hope', 'Love'] | Duration:8.71s
+2025-07-14 23:42:31,623 - Q:samplenew3_00000482 | Run:4/10 | Emotions:['Confident', 'Caring', 'Hopeful'] | Duration:9.20s
+2025-07-14 23:42:42,653 - Q:samplenew3_00000482 | Run:5/10 | Emotions:['Confident', 'Nostalgic', 'Warmth', 'Care'] | Duration:11.03s
+2025-07-14 23:42:56,858 - Q:samplenew3_00000482 | Run:6/10 | Emotions:['Confident', 'Nostalgic', 'Warmth', 'Trust'] | Duration:14.20s
+2025-07-14 23:43:07,097 - Q:samplenew3_00000482 | Run:7/10 | Emotions:['Confident', 'Expectant', 'Generous', 'Warmth'] | Duration:10.24s
+2025-07-14 23:43:15,730 - Q:samplenew3_00000482 | Run:8/10 | Emotions:['Hope', 'Trust', 'Expectation'] | Duration:8.63s
+2025-07-14 23:43:24,749 - Q:samplenew3_00000482 | Run:9/10 | Emotions:['Trust', 'Assurance', 'Generosity', 'Love'] | Duration:9.02s
+2025-07-14 23:43:33,330 - Q:samplenew3_00000482 | Run:10/10 | Emotions:['Hope', 'Trust', 'Warmth'] | Duration:8.58s
+2025-07-14 23:43:45,544 - Q:samplenew3_00000803 | Run:1/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Apprehension', 'Dread', 'Worry'] | Duration:12.21s
+2025-07-14 23:43:56,746 - Q:samplenew3_00000803 | Run:2/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Dread', 'Apprehension'] | Duration:11.20s
+2025-07-14 23:44:06,206 - Q:samplenew3_00000803 | Run:3/10 | Emotions:['Fear', 'Anger', 'Concern'] | Duration:9.46s
+2025-07-14 23:44:17,424 - Q:samplenew3_00000803 | Run:4/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Apprehension', 'Dread'] | Duration:11.22s
+2025-07-14 23:44:26,580 - Q:samplenew3_00000803 | Run:5/10 | Emotions:['Fear', 'Anxiety', 'Concern'] | Duration:9.16s
+2025-07-14 23:44:37,185 - Q:samplenew3_00000803 | Run:6/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Apprehension'] | Duration:10.60s
+2025-07-14 23:44:48,569 - Q:samplenew3_00000803 | Run:7/10 | Emotions:['Fear', 'Anxiety', 'Concern', 'Apprehension'] | Duration:11.38s
+2025-07-14 23:44:59,708 - Q:samplenew3_00000803 | Run:8/10 | Emotions:['Fear', 'Anxiety', 'Apprehension', 'Concern', 'Alarm'] | Duration:11.14s
+2025-07-14 23:45:09,807 - Q:samplenew3_00000803 | Run:9/10 | Emotions:['Fear', 'Anxiety', 'Dread', 'Concern'] | Duration:10.10s
+2025-07-14 23:45:19,640 - Q:samplenew3_00000803 | Run:10/10 | Emotions:['Fear', 'Anxiety', 'Dread', 'Concern'] | Duration:9.83s
+2025-07-14 23:45:30,048 - Q:samplenew3_00000467 | Run:1/10 | Emotions:['Frustration', 'Irritation', 'Skepticism'] | Duration:10.41s
+2025-07-14 23:45:40,757 - Q:samplenew3_00000467 | Run:2/10 | Emotions:['Frustration', 'Impatience', 'Sarcasm'] | Duration:10.71s
+2025-07-14 23:45:54,614 - Q:samplenew3_00000467 | Run:3/10 | Emotions:['Frustration', 'Impatience', 'Skepticism', 'Defensiveness', 'Annoyance'] | Duration:13.86s
+2025-07-14 23:46:04,831 - Q:samplenew3_00000467 | Run:4/10 | Emotions:['Frustration', 'Impatience', 'Irritation'] | Duration:10.22s
+2025-07-14 23:46:15,611 - Q:samplenew3_00000467 | Run:5/10 | Emotions:['Irritation', 'Frustration', 'Annoyance'] | Duration:10.78s
+2025-07-14 23:46:27,830 - Q:samplenew3_00000467 | Run:6/10 | Emotions:['Frustration', 'Anger', 'Defensiveness', 'Annoyance'] | Duration:12.22s
+2025-07-14 23:46:37,727 - Q:samplenew3_00000467 | Run:7/10 | Emotions:['Frustration', 'Annoyance', 'Exasperation'] | Duration:9.90s
+2025-07-14 23:46:49,047 - Q:samplenew3_00000467 | Run:8/10 | Emotions:['Frustration', 'Anger', 'Sarcasm', 'Curiosity'] | Duration:11.32s
+2025-07-14 23:47:00,200 - Q:samplenew3_00000467 | Run:9/10 | Emotions:['Frustration', 'Irritation', 'Defensiveness', 'Curiosity'] | Duration:11.15s
+2025-07-14 23:47:10,295 - Q:samplenew3_00000467 | Run:10/10 | Emotions:['Frustration', 'Irritation', 'Skepticism'] | Duration:10.09s
+2025-07-14 23:47:17,674 - Q:samplenew3_00000496 | Run:1/10 | Emotions:['Relieved', 'Hopeful'] | Duration:7.38s
+2025-07-14 23:47:28,747 - Q:samplenew3_00000496 | Run:2/10 | Emotions:['Relieved', 'Curious', 'Hopeful'] | Duration:11.07s
+2025-07-14 23:47:36,561 - Q:samplenew3_00000496 | Run:3/10 | Emotions:['Hope', 'Relief', 'Determination'] | Duration:7.81s
+2025-07-14 23:47:44,757 - Q:samplenew3_00000496 | Run:4/10 | Emotions:['Relief', 'Hope', 'Expectation'] | Duration:8.20s
+2025-07-14 23:47:53,441 - Q:samplenew3_00000496 | Run:5/10 | Emotions:['Relieved', 'Hopeful', 'Curious'] | Duration:8.68s
+2025-07-14 23:48:03,244 - Q:samplenew3_00000496 | Run:6/10 | Emotions:['Hope', 'Relief', 'Anticipation'] | Duration:9.80s
+2025-07-14 23:48:12,239 - Q:samplenew3_00000496 | Run:7/10 | Emotions:['Hope', 'Reluctance', 'Necessity'] | Duration:8.99s
+2025-07-14 23:48:20,465 - Q:samplenew3_00000496 | Run:8/10 | Emotions:['Relief', 'Hope', 'Certainty'] | Duration:8.23s
+2025-07-14 23:48:28,408 - Q:samplenew3_00000496 | Run:9/10 | Emotions:['Hope', 'Relief'] | Duration:7.94s
+2025-07-14 23:48:35,435 - Q:samplenew3_00000496 | Run:10/10 | Emotions:['Hope', 'Relief'] | Duration:7.03s
+2025-07-14 23:48:45,469 - Q:samplenew3_00000455 | Run:1/10 | Emotions:['Frustration', 'Confusion', 'Disappointment'] | Duration:10.03s
+2025-07-14 23:48:53,755 - Q:samplenew3_00000455 | Run:2/10 | Emotions:['Sadness', 'Regret', 'Longing'] | Duration:8.29s
+2025-07-14 23:49:03,439 - Q:samplenew3_00000455 | Run:3/10 | Emotions:['Confusion', 'Sadness', 'Disappointment', 'Longing'] | Duration:9.68s
+2025-07-14 23:49:12,534 - Q:samplenew3_00000455 | Run:4/10 | Emotions:['Confusion', 'Disappointment', 'Uncertainty'] | Duration:9.09s
+2025-07-14 23:49:22,568 - Q:samplenew3_00000455 | Run:5/10 | Emotions:['Confusion', 'Frustration', 'Disappointment', 'Longing'] | Duration:10.03s
+2025-07-14 23:49:31,648 - Q:samplenew3_00000455 | Run:6/10 | Emotions:['Disappointment', 'Sadness', 'Frustration'] | Duration:9.08s
+2025-07-14 23:49:40,759 - Q:samplenew3_00000455 | Run:7/10 | Emotions:['Frustration', 'Longing', 'Disappointment'] | Duration:9.11s
+2025-07-14 23:49:51,776 - Q:samplenew3_00000455 | Run:8/10 | Emotions:['Confusion', 'Sadness', 'Disappointment', 'Worry', 'Regret'] | Duration:11.02s
+2025-07-14 23:50:01,521 - Q:samplenew3_00000455 | Run:9/10 | Emotions:['Confusion', 'Uncertainty', 'Ambiguity', 'Disappointment', 'Longing'] | Duration:9.74s
+2025-07-14 23:50:10,466 - Q:samplenew3_00000455 | Run:10/10 | Emotions:['Confusion', 'Disappointment', 'Sadness'] | Duration:8.94s
+2025-07-14 23:50:20,048 - Q:samplenew3_00000495 | Run:1/10 | Emotions:['Surprise', 'Curiosity', 'Confusion'] | Duration:9.58s
+2025-07-14 23:50:30,828 - Q:samplenew3_00000495 | Run:2/10 | Emotions:['Curiosity', 'Confusion', 'Mystery', 'Intrigue'] | Duration:10.78s
+2025-07-14 23:50:41,143 - Q:samplenew3_00000495 | Run:3/10 | Emotions:['Curiosity', 'Confusion', 'Incredulity'] | Duration:10.31s
+2025-07-14 23:50:50,333 - Q:samplenew3_00000495 | Run:4/10 | Emotions:['Surprise', 'Curiosity', 'Wonder'] | Duration:9.19s
+2025-07-14 23:51:01,910 - Q:samplenew3_00000495 | Run:5/10 | Emotions:['Curiosity', 'Intrigue', 'Mystery', 'Surprise', 'Confusion'] | Duration:11.58s
+2025-07-14 23:51:11,509 - Q:samplenew3_00000495 | Run:6/10 | Emotions:['Surprise', 'Curiosity', 'Confusion'] | Duration:9.60s
+2025-07-14 23:51:22,013 - Q:samplenew3_00000495 | Run:7/10 | Emotions:['Curiosity', 'Confusion', 'Intrigue', 'Mystery'] | Duration:10.50s
+2025-07-14 23:51:32,482 - Q:samplenew3_00000495 | Run:8/10 | Emotions:['Surprise', 'Curiosity', 'Confusion', 'Amusement'] | Duration:10.47s
+2025-07-14 23:51:42,922 - Q:samplenew3_00000495 | Run:9/10 | Emotions:['Curiosity', 'Confusion', 'Incredulity'] | Duration:10.44s
+2025-07-14 23:51:53,328 - Q:samplenew3_00000495 | Run:10/10 | Emotions:['Curiosity', 'Confusion', 'Mystery', 'Intrigue'] | Duration:10.41s
+2025-07-14 23:52:03,535 - Q:samplenew3_00000602 | Run:1/10 | Emotions:['Hope', 'Excitement', 'Anticipation', 'Assurance'] | Duration:10.21s
+2025-07-14 23:52:15,856 - Q:samplenew3_00000602 | Run:2/10 | Emotions:['Excitement', 'Anticipation', 'Hopefulness', 'Sincerity'] | Duration:12.32s
+2025-07-14 23:52:27,395 - Q:samplenew3_00000602 | Run:3/10 | Emotions:['Excitement', 'Anticipation', 'Confidence', 'Playfulness'] | Duration:11.54s
+2025-07-14 23:52:37,610 - Q:samplenew3_00000602 | Run:4/10 | Emotions:['Excitement', 'Anticipation', 'Trust', 'Hope'] | Duration:10.21s
+2025-07-14 23:52:48,297 - Q:samplenew3_00000602 | Run:5/10 | Emotions:['Excitement', 'Anticipation', 'Commitment', 'Surprise'] | Duration:10.69s
+2025-07-14 23:52:59,673 - Q:samplenew3_00000602 | Run:6/10 | Emotions:['Hope', 'Excitement', 'Anticipation', 'Trust', 'Surprise'] | Duration:11.38s
+2025-07-14 23:53:09,605 - Q:samplenew3_00000602 | Run:7/10 | Emotions:['Hope', 'Excitement', 'Anticipation'] | Duration:9.93s
+2025-07-14 23:53:20,521 - Q:samplenew3_00000602 | Run:8/10 | Emotions:['Curiosity', 'Anticipation', 'Excitement', 'Commitment'] | Duration:10.91s
+2025-07-14 23:53:30,835 - Q:samplenew3_00000602 | Run:9/10 | Emotions:['Excitement', 'Anticipation', 'Confidence', 'Trust'] | Duration:10.31s
+2025-07-14 23:53:41,582 - Q:samplenew3_00000602 | Run:10/10 | Emotions:['Curiosity', 'Anticipation', 'Excitement', 'Trust'] | Duration:10.75s
+2025-07-14 23:53:49,320 - Q:samplenew3_00000821 | Run:1/10 | Emotions:['Confident', 'Authoritative'] | Duration:7.74s
+2025-07-14 23:53:59,869 - Q:samplenew3_00000821 | Run:2/10 | Emotions:['Confident', 'Authoritative', 'Determined'] | Duration:10.55s
+2025-07-14 23:54:08,227 - Q:samplenew3_00000821 | Run:3/10 | Emotions:['Confident', 'Authoritative'] | Duration:8.36s
+2025-07-14 23:54:17,212 - Q:samplenew3_00000821 | Run:4/10 | Emotions:['Confident', 'Authoritative', 'Determined'] | Duration:8.98s
+2025-07-14 23:54:24,921 - Q:samplenew3_00000821 | Run:5/10 | Emotions:['Confident', 'Authoritative'] | Duration:7.71s
+2025-07-14 23:54:33,906 - Q:samplenew3_00000821 | Run:6/10 | Emotions:['Confident', 'Authoritative', 'Responsible'] | Duration:8.98s
+2025-07-14 23:54:42,889 - Q:samplenew3_00000821 | Run:7/10 | Emotions:['Confident', 'Authoritative', 'Responsible'] | Duration:8.98s
+2025-07-14 23:54:50,628 - Q:samplenew3_00000821 | Run:8/10 | Emotions:['Confident', 'Authoritative'] | Duration:7.74s
+2025-07-14 23:54:59,082 - Q:samplenew3_00000821 | Run:9/10 | Emotions:['Confident', 'Authoritative', 'Serious'] | Duration:8.45s
+2025-07-14 23:55:07,542 - Q:samplenew3_00000821 | Run:10/10 | Emotions:['Confident', 'Responsible', 'Authoritative'] | Duration:8.46s
+2025-07-14 23:55:15,920 - Q:sample_00000227 | Run:1/10 | Emotions:['Relaxed', 'Confident', 'Satisfied'] | Duration:8.38s
+2025-07-14 23:55:23,611 - Q:sample_00000227 | Run:2/10 | Emotions:['Confident', 'Relaxed'] | Duration:7.69s
+2025-07-14 23:55:30,946 - Q:sample_00000227 | Run:3/10 | Emotions:['Relaxed', 'Confident'] | Duration:7.34s
+2025-07-14 23:55:38,402 - Q:sample_00000227 | Run:4/10 | Emotions:['Confident', 'Relaxed'] | Duration:7.46s
+2025-07-14 23:55:46,405 - Q:sample_00000227 | Run:5/10 | Emotions:['Confident', 'Certain', 'Satisfied'] | Duration:8.00s
+2025-07-14 23:55:54,768 - Q:sample_00000227 | Run:6/10 | Emotions:['Relaxed', 'Confident', 'Agreeable'] | Duration:8.36s
+2025-07-14 23:56:04,008 - Q:sample_00000227 | Run:7/10 | Emotions:['Relaxed', 'Confident', 'Affirmative'] | Duration:9.24s
+2025-07-14 23:56:12,537 - Q:sample_00000227 | Run:8/10 | Emotions:['Relaxed', 'Confident', 'Assured'] | Duration:8.53s
+2025-07-14 23:56:21,748 - Q:sample_00000227 | Run:9/10 | Emotions:['Relief', 'Certainty', 'Satisfaction'] | Duration:9.21s
+2025-07-14 23:56:29,879 - Q:sample_00000227 | Run:10/10 | Emotions:['Confident', 'Sarcastic'] | Duration:8.13s
+2025-07-14 23:56:40,357 - Q:sample_00000388 | Run:1/10 | Emotions:['Confusion', 'Frustration', 'Annoyance', 'Hurt'] | Duration:10.48s
+2025-07-14 23:56:51,610 - Q:sample_00000388 | Run:2/10 | Emotions:['Confused', 'Frustrated', 'Helpless'] | Duration:11.25s
+2025-07-14 23:57:01,384 - Q:sample_00000388 | Run:3/10 | Emotions:['Confusion', 'Frustration', 'Anger'] | Duration:9.77s
+2025-07-14 23:57:12,048 - Q:sample_00000388 | Run:4/10 | Emotions:['Confusion', 'Frustration', 'Anger'] | Duration:10.66s
+2025-07-14 23:57:25,167 - Q:sample_00000388 | Run:5/10 | Emotions:['Confusion', 'Frustration', 'Helplessness'] | Duration:13.12s
+2025-07-14 23:57:36,487 - Q:sample_00000388 | Run:6/10 | Emotions:['Confusion', 'Frustration', 'Annoyance', 'Resentment', 'Sadness'] | Duration:11.32s
+2025-07-14 23:57:48,947 - Q:sample_00000388 | Run:7/10 | Emotions:['Confusion', 'Frustration', 'Hurt', 'Anger'] | Duration:12.46s
+2025-07-14 23:58:01,537 - Q:sample_00000388 | Run:8/10 | Emotions:['Frustration', 'Confusion', 'Anger'] | Duration:12.59s
+2025-07-14 23:58:12,341 - Q:sample_00000388 | Run:9/10 | Emotions:['Confusion', 'Frustration', 'Helplessness'] | Duration:10.80s
+2025-07-14 23:58:23,934 - Q:sample_00000388 | Run:10/10 | Emotions:['Confusion', 'Frustration', 'Anger', 'Helplessness'] | Duration:11.59s
+2025-07-14 23:58:33,840 - Q:sample_00000118 | Run:1/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:9.90s
+2025-07-14 23:58:44,534 - Q:sample_00000118 | Run:2/10 | Emotions:['Frustration', 'Disappointment', 'Uncertainty', 'Annoyance'] | Duration:10.69s
+2025-07-14 23:58:54,758 - Q:sample_00000118 | Run:3/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:10.22s
+2025-07-14 23:59:05,444 - Q:sample_00000118 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Expectation', 'Uncertainty'] | Duration:10.69s
+2025-07-14 23:59:16,836 - Q:sample_00000118 | Run:5/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:11.39s
+2025-07-14 23:59:27,586 - Q:sample_00000118 | Run:6/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:10.75s
+2025-07-14 23:59:38,263 - Q:sample_00000118 | Run:7/10 | Emotions:['Frustration', 'Annoyance', 'Disappointment', 'Desperation'] | Duration:10.68s
+2025-07-14 23:59:49,099 - Q:sample_00000118 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Uncertainty', 'Expectation'] | Duration:10.83s
+2025-07-14 23:59:59,164 - Q:sample_00000118 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Annoyance'] | Duration:10.06s
+2025-07-15 00:00:10,085 - Q:sample_00000118 | Run:10/10 | Emotions:['Frustration', 'Annoyance', 'Resignation', 'Hope'] | Duration:10.92s
+2025-07-15 00:00:23,031 - Q:sample_00000073 | Run:1/10 | Emotions:['Relieved', 'Sincere', 'Open', 'Trustful', 'Concerned'] | Duration:12.94s
+2025-07-15 00:00:34,347 - Q:sample_00000073 | Run:2/10 | Emotions:['Relieved', 'Open', 'Honest', 'Sincere'] | Duration:11.32s
+2025-07-15 00:00:43,249 - Q:sample_00000073 | Run:3/10 | Emotions:['Relief', 'Sincerity'] | Duration:8.90s
+2025-07-15 00:00:53,396 - Q:sample_00000073 | Run:4/10 | Emotions:['Relieved', 'Sincere', 'Determined'] | Duration:10.15s
+2025-07-15 00:01:05,233 - Q:sample_00000073 | Run:5/10 | Emotions:['Relieved', 'Honest', 'Open', 'Sincere', 'Confident'] | Duration:11.84s
+2025-07-15 00:01:15,254 - Q:sample_00000073 | Run:6/10 | Emotions:['Relieved', 'Honest', 'Resolute'] | Duration:10.02s
+2025-07-15 00:01:24,345 - Q:sample_00000073 | Run:7/10 | Emotions:['Relieved', 'Confident', 'Honest'] | Duration:9.09s
+2025-07-15 00:01:35,336 - Q:sample_00000073 | Run:8/10 | Emotions:['Relieved', 'Honest', 'Confident', 'Open', 'Calm'] | Duration:10.99s
+2025-07-15 00:01:46,297 - Q:sample_00000073 | Run:9/10 | Emotions:['Relief', 'Sincerity', 'Honesty'] | Duration:10.96s
+2025-07-15 00:01:58,214 - Q:sample_00000073 | Run:10/10 | Emotions:['Relief', 'Trust', 'Honesty', 'Sincerity'] | Duration:11.92s
+2025-07-15 00:02:09,006 - Q:sample_00000365 | Run:1/10 | Emotions:['Trust', 'Disappointment', 'Anger', 'Betrayal'] | Duration:10.79s
+2025-07-15 00:02:18,386 - Q:sample_00000365 | Run:2/10 | Emotions:['Trust', 'Disappointment', 'Anger'] | Duration:9.38s
+2025-07-15 00:02:28,600 - Q:sample_00000365 | Run:3/10 | Emotions:['Trust', 'Disappointment', 'Anger', 'Confusion'] | Duration:10.21s
+2025-07-15 00:02:39,927 - Q:sample_00000365 | Run:4/10 | Emotions:['Trust', 'Betrayal', 'Confusion', 'Frustration'] | Duration:11.33s
+2025-07-15 00:02:50,947 - Q:sample_00000365 | Run:5/10 | Emotions:['Trust', 'Betrayal', 'Confusion', 'Anger'] | Duration:11.02s
+2025-07-15 00:03:00,047 - Q:sample_00000365 | Run:6/10 | Emotions:['Trust', 'Disappointment', 'Anger'] | Duration:9.10s
+2025-07-15 00:03:10,999 - Q:sample_00000365 | Run:7/10 | Emotions:['Trust', 'Betrayal', 'Disappointment', 'Confusion'] | Duration:10.95s
+2025-07-15 00:03:21,651 - Q:sample_00000365 | Run:8/10 | Emotions:['Trust', 'Disappointment', 'Betrayal', 'Anger'] | Duration:10.65s
+2025-07-15 00:03:33,803 - Q:sample_00000365 | Run:9/10 | Emotions:['Trust', 'Disappointment', 'Betrayal', 'Anger', 'Frustration'] | Duration:12.15s
+2025-07-15 00:03:45,774 - Q:sample_00000365 | Run:10/10 | Emotions:['Trust', 'Disappointment', 'Betrayal', 'Confusion', 'Anger'] | Duration:11.97s
+2025-07-15 00:04:01,769 - Q:sample_00000361 | Run:1/10 | Emotions:['Melancholy', 'Longing', 'Bittersweet', 'Nostalgia', 'Sorrow', 'Regret'] | Duration:15.99s
+2025-07-15 00:04:18,365 - Q:sample_00000361 | Run:2/10 | Emotions:['Frustration', 'Nostalgia', 'Longing', 'Melancholy', 'Sorrow', 'Wistfulness'] | Duration:16.59s
+2025-07-15 00:04:33,755 - Q:sample_00000361 | Run:3/10 | Emotions:['Bitterness', 'Regret', 'Longing', 'Sadness'] | Duration:15.39s
+2025-07-15 00:04:49,046 - Q:sample_00000361 | Run:4/10 | Emotions:['Frustration', 'Nostalgia', 'Longing', 'Melancholy', 'Regret'] | Duration:15.29s
+2025-07-15 00:05:06,661 - Q:sample_00000361 | Run:5/10 | Emotions:['Frustration', 'Nostalgia', 'Longing', 'Melancholy', 'Bittersweetness'] | Duration:17.61s
+2025-07-15 00:05:22,646 - Q:sample_00000361 | Run:6/10 | Emotions:['Longing', 'Nostalgia', 'Frustration', 'Bittersweet', 'Wistfulness'] | Duration:15.98s
+2025-07-15 00:05:38,835 - Q:sample_00000361 | Run:7/10 | Emotions:['Bittersweet', 'Longing', 'Nostalgia', 'Melancholy', 'Resignation'] | Duration:16.19s
+2025-07-15 00:05:55,619 - Q:sample_00000361 | Run:8/10 | Emotions:['Nostalgia', 'Longing', 'Melancholy', 'Bittersweet', 'Acceptance', 'Resignation'] | Duration:16.78s
+2025-07-15 00:06:11,784 - Q:sample_00000361 | Run:9/10 | Emotions:['Wistfulness', 'Longing', 'Melancholy', 'Nostalgia', 'Regret', 'Sorrow'] | Duration:16.16s
+2025-07-15 00:06:28,346 - Q:sample_00000361 | Run:10/10 | Emotions:['Nostalgia', 'Longing', 'Disappointment', 'Melancholy', 'Resignation'] | Duration:16.56s
+2025-07-15 00:06:47,569 - Q:sample_00000126 | Run:1/10 | Emotions:['Anger', 'Frustration', 'Disgust', 'Sadness', 'Helplessness', 'Indignation', 'Outrage'] | Duration:19.22s
+2025-07-15 00:07:05,631 - Q:sample_00000126 | Run:2/10 | Emotions:['Anger', 'Frustration', 'Disgust', 'Sadness', 'Helplessness'] | Duration:18.06s
+2025-07-15 00:07:27,296 - Q:sample_00000126 | Run:3/10 | Emotions:['Anger', 'Frustration', 'Sadness', 'Grief', 'Indignation', 'Disgust', 'Outrage', 'Concern', 'Anxiety'] | Duration:21.66s
+2025-07-15 00:07:46,217 - Q:sample_00000126 | Run:4/10 | Emotions:['Grief', 'Anger', 'Disgust', 'Indignation', 'Helplessness', 'Sadness', 'Frustration'] | Duration:18.92s
+2025-07-15 00:08:04,601 - Q:sample_00000126 | Run:5/10 | Emotions:['Grief', 'Indignation', 'Disappointment', 'Frustration', 'Outrage', 'Shame', 'Fear'] | Duration:18.38s
+2025-07-15 00:08:25,484 - Q:sample_00000126 | Run:6/10 | Emotions:['Anger', 'Indignation', 'Disappointment', 'Frustration', 'Helplessness', 'Sadness', 'Outrage', 'Shame', 'Fear'] | Duration:20.88s
+2025-07-15 00:08:42,264 - Q:sample_00000126 | Run:7/10 | Emotions:['Anger', 'Frustration', 'Disgust', 'Shame', 'Sadness'] | Duration:16.78s
+2025-07-15 00:09:01,610 - Q:sample_00000126 | Run:8/10 | Emotions:['Anger', 'Frustration', 'Grief', 'Disgust', 'Shame'] | Duration:19.35s
+2025-07-15 00:09:18,727 - Q:sample_00000126 | Run:9/10 | Emotions:['Anger', 'Frustration', 'Disgust', 'Sadness', 'Helplessness'] | Duration:17.12s
+2025-07-15 00:09:37,917 - Q:sample_00000126 | Run:10/10 | Emotions:['Anger', 'Frustration', 'Sadness', 'Disappointment', 'Outrage', 'Helplessness'] | Duration:19.19s
+2025-07-15 00:09:49,496 - Q:sample_00000055 | Run:1/10 | Emotions:['Relief', 'Worry', 'Doubt'] | Duration:11.58s
+2025-07-15 00:10:01,150 - Q:sample_00000055 | Run:2/10 | Emotions:['Relief', 'Frustration', 'Uncertainty'] | Duration:11.65s
+2025-07-15 00:10:13,407 - Q:sample_00000055 | Run:3/10 | Emotions:['Relief', 'Disappointment', 'Skepticism'] | Duration:12.26s
+2025-07-15 00:10:24,772 - Q:sample_00000055 | Run:4/10 | Emotions:['Relief', 'Disappointment', 'Indifference'] | Duration:11.36s
+2025-07-15 00:10:35,931 - Q:sample_00000055 | Run:5/10 | Emotions:['Relief', 'Concern', 'Skepticism', 'Uncertainty'] | Duration:11.16s
+2025-07-15 00:10:47,775 - Q:sample_00000055 | Run:6/10 | Emotions:['Relief', 'Frustration', 'Caution'] | Duration:11.84s
+2025-07-15 00:10:59,782 - Q:sample_00000055 | Run:7/10 | Emotions:['Relief', 'Frustration', 'Skepticism'] | Duration:12.01s
+2025-07-15 00:11:15,318 - Q:sample_00000055 | Run:8/10 | Emotions:['Relief', 'Frustration', 'Skepticism'] | Duration:15.54s
+2025-07-15 00:11:25,369 - Q:sample_00000055 | Run:9/10 | Emotions:['Relief', 'Disappointment'] | Duration:10.05s
+2025-07-15 00:11:36,324 - Q:sample_00000055 | Run:10/10 | Emotions:['Relief', 'Disappointment', 'Uncertainty'] | Duration:10.96s
+2025-07-15 00:11:46,221 - Q:sample_00000225 | Run:1/10 | Emotions:['Curiosity', 'Concern', 'Incredulity'] | Duration:9.90s
+2025-07-15 00:11:54,708 - Q:sample_00000225 | Run:2/10 | Emotions:['Curiosity', 'Concern'] | Duration:8.49s
+2025-07-15 00:12:04,185 - Q:sample_00000225 | Run:3/10 | Emotions:['Curiosity', 'Skepticism', 'Concern'] | Duration:9.48s
+2025-07-15 00:12:13,886 - Q:sample_00000225 | Run:4/10 | Emotions:['Curiosity', 'Concern', 'Doubt'] | Duration:9.70s
+2025-07-15 00:12:22,915 - Q:sample_00000225 | Run:5/10 | Emotions:['Confusion', 'Worry', 'Concern'] | Duration:9.03s
+2025-07-15 00:12:33,634 - Q:sample_00000225 | Run:6/10 | Emotions:['Curiosity', 'Concern', 'Doubt', 'Worry'] | Duration:10.72s
+2025-07-15 00:12:43,200 - Q:sample_00000225 | Run:7/10 | Emotions:['Curiosity', 'Concern', 'Suspicion'] | Duration:9.57s
+2025-07-15 00:12:52,848 - Q:sample_00000225 | Run:8/10 | Emotions:['Confusion', 'Concern', 'Curiosity'] | Duration:9.65s
+2025-07-15 00:13:02,699 - Q:sample_00000225 | Run:9/10 | Emotions:['Confusion', 'Concern', 'Curiosity', 'Uncertainty'] | Duration:9.85s
+2025-07-15 00:13:13,262 - Q:sample_00000225 | Run:10/10 | Emotions:['Curious', 'Concerned', 'Inquisitive'] | Duration:10.56s
+2025-07-15 00:13:22,072 - Q:sample_00000240 | Run:1/10 | Emotions:['Anger', 'Frustration'] | Duration:8.81s
+2025-07-15 00:13:32,980 - Q:sample_00000240 | Run:2/10 | Emotions:['Anger', 'Frustration', 'Outrage', 'Disgust'] | Duration:10.91s
+2025-07-15 00:13:42,048 - Q:sample_00000240 | Run:3/10 | Emotions:['Anger', 'Shock', 'Frustration'] | Duration:9.07s
+2025-07-15 00:13:52,736 - Q:sample_00000240 | Run:4/10 | Emotions:['Anger', 'Shock', 'Disgust', 'Frustration'] | Duration:10.69s
+2025-07-15 00:14:03,087 - Q:sample_00000240 | Run:5/10 | Emotions:['Anger', 'Frustration', 'Disgust'] | Duration:10.35s
+2025-07-15 00:14:13,144 - Q:sample_00000240 | Run:6/10 | Emotions:['Anger', 'Frustration', 'Disgust'] | Duration:10.06s
+2025-07-15 00:14:23,502 - Q:sample_00000240 | Run:7/10 | Emotions:['Anger', 'Indignation', 'Disgust'] | Duration:10.36s
+2025-07-15 00:14:32,158 - Q:sample_00000240 | Run:8/10 | Emotions:['Anger', 'Frustration'] | Duration:8.65s
+2025-07-15 00:14:41,383 - Q:sample_00000240 | Run:9/10 | Emotions:['Anger', 'Shock', 'Disgust'] | Duration:9.23s
+2025-07-15 00:14:52,332 - Q:sample_00000240 | Run:10/10 | Emotions:['Anger', 'Frustration', 'Disgust', 'Outrage'] | Duration:10.95s
+2025-07-15 00:15:07,041 - Q:sample_00000258 | Run:1/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'And', 'Respond', 'With', 'List', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:14.71s
+2025-07-15 00:15:17,330 - Q:sample_00000258 | Run:2/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'For', 'You'] | Duration:10.29s
+2025-07-15 00:15:31,660 - Q:sample_00000258 | Run:3/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Expressed', 'Using', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:14.33s
+2025-07-15 00:15:45,834 - Q:sample_00000258 | Run:4/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Expressed', 'Using', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:14.17s
+2025-07-15 00:16:00,729 - Q:sample_00000258 | Run:5/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Expressed', 'And', 'Respond', 'With', 'List', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:14.89s
+2025-07-15 00:16:15,527 - Q:sample_00000258 | Run:6/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Expressed', 'And', 'Respond', 'With', 'List', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:14.80s
+2025-07-15 00:16:28,797 - Q:sample_00000258 | Run:7/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Expressed', 'Using', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:13.27s
+2025-07-15 00:16:41,689 - Q:sample_00000258 | Run:8/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'For', 'You'] | Duration:12.89s
+2025-07-15 00:16:55,406 - Q:sample_00000258 | Run:9/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'And', 'Analyze', 'The', 'Emotions', 'Present', 'Using', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:13.72s
+2025-07-15 00:17:11,987 - Q:sample_00000258 | Run:10/10 | Emotions:['Please', 'Provide', 'The', 'Chinese', 'Text', 'You', 'Like', 'Analyze', 'And', 'Respond', 'With', 'List', 'Corresponding', 'English', 'Emotion', 'Words', 'Separated', 'Pipes'] | Duration:16.58s
+2025-07-15 00:17:20,002 - Q:sample_00000215 | Run:1/10 | Emotions:['Relaxed', 'Content', 'Satisfied'] | Duration:8.01s
+2025-07-15 00:17:28,339 - Q:sample_00000215 | Run:2/10 | Emotions:['Relaxed', 'Calm', 'Satisfied'] | Duration:8.34s
+2025-07-15 00:17:36,712 - Q:sample_00000215 | Run:3/10 | Emotions:['Relaxed', 'Confident'] | Duration:8.37s
+2025-07-15 00:17:45,833 - Q:sample_00000215 | Run:4/10 | Emotions:['Relaxed', 'Content'] | Duration:9.12s
+2025-07-15 00:17:53,435 - Q:sample_00000215 | Run:5/10 | Emotions:['Relaxed', 'Contentment'] | Duration:7.60s
+2025-07-15 00:18:01,493 - Q:sample_00000215 | Run:6/10 | Emotions:['Relaxed', 'Pleasant', 'Calm'] | Duration:8.06s
+2025-07-15 00:18:08,340 - Q:sample_00000215 | Run:7/10 | Emotions:['Relaxed', 'Content'] | Duration:6.85s
+2025-07-15 00:18:16,747 - Q:sample_00000215 | Run:8/10 | Emotions:['Relaxed', 'Satisfied'] | Duration:8.41s
+2025-07-15 00:18:26,945 - Q:sample_00000215 | Run:9/10 | Emotions:['Relaxed', 'Contentment', 'Satisfaction'] | Duration:10.20s
+2025-07-15 00:18:35,019 - Q:sample_00000215 | Run:10/10 | Emotions:['Relaxed', 'Pleasant', 'Satisfied'] | Duration:8.07s
+2025-07-15 00:18:48,492 - Q:sample_00000286 | Run:1/10 | Emotions:['Wistful', 'Longing', 'Nostalgia', 'Sigh', 'Disappointment'] | Duration:13.47s
+2025-07-15 00:19:01,709 - Q:sample_00000286 | Run:2/10 | Emotions:['Nostalgia', 'Longing', 'Sentimentality', 'Sincerity'] | Duration:13.22s
+2025-07-15 00:19:14,136 - Q:sample_00000286 | Run:3/10 | Emotions:['Disappointment', 'Nostalgia', 'Longing', 'Simplicity', 'Innocence', 'Warmth'] | Duration:12.43s
+2025-07-15 00:19:29,167 - Q:sample_00000286 | Run:4/10 | Emotions:['Nostalgia', 'Longing', 'Sentimentality', 'Fondness', 'Melancholy'] | Duration:15.03s
+2025-07-15 00:19:42,420 - Q:sample_00000286 | Run:5/10 | Emotions:['Disappointment', 'Wistfulness', 'Nostalgia', 'Fondness', 'Simplicity', 'Innocence'] | Duration:13.25s
+2025-07-15 00:19:53,742 - Q:sample_00000286 | Run:6/10 | Emotions:['Disappointment', 'Longing', 'Nostalgia', 'Sentimentality'] | Duration:11.32s
+2025-07-15 00:20:08,538 - Q:sample_00000286 | Run:7/10 | Emotions:['Longing', 'Nostalgia', 'Sighs', 'Fondness', 'Simplicity'] | Duration:14.80s
+2025-07-15 00:20:21,078 - Q:sample_00000286 | Run:8/10 | Emotions:['Nostalgia', 'Longing', 'Affection', 'Simplicity', 'Fondness'] | Duration:12.54s
+2025-07-15 00:20:33,705 - Q:sample_00000286 | Run:9/10 | Emotions:['Sigh', 'Longing', 'Nostalgia', 'Sentimentality'] | Duration:12.63s
+2025-07-15 00:20:47,954 - Q:sample_00000286 | Run:10/10 | Emotions:['Disappointment', 'Nostalgia', 'Longing', 'Sentimentality'] | Duration:14.25s
+2025-07-15 00:20:59,276 - Q:sample_00000218 | Run:1/10 | Emotions:['Frustration', 'Annoyance', 'Embarrassment'] | Duration:11.32s
+2025-07-15 00:21:11,951 - Q:sample_00000218 | Run:2/10 | Emotions:['Frustration', 'Annoyance', 'Embarrassment', 'Disappointment'] | Duration:12.67s
+2025-07-15 00:21:26,074 - Q:sample_00000218 | Run:3/10 | Emotions:['Frustration', 'Exasperation', 'Disappointment', 'Embarrassment', 'Anger'] | Duration:14.12s
+2025-07-15 00:21:39,190 - Q:sample_00000218 | Run:4/10 | Emotions:['Frustration', 'Exasperation', 'Anger', 'Humiliation'] | Duration:13.12s
+2025-07-15 00:21:51,981 - Q:sample_00000218 | Run:5/10 | Emotions:['Frustration', 'Annoyance', 'Embarrassment', 'Sarcasm'] | Duration:12.79s
+2025-07-15 00:22:03,820 - Q:sample_00000218 | Run:6/10 | Emotions:['Frustration', 'Annoyance', 'Embarrassment'] | Duration:11.84s
+2025-07-15 00:22:16,123 - Q:sample_00000218 | Run:7/10 | Emotions:['Frustration', 'Disappointment', 'Irritation', 'Humiliation'] | Duration:12.30s
+2025-07-15 00:22:28,758 - Q:sample_00000218 | Run:8/10 | Emotions:['Frustrated', 'Annoyed', 'Humiliated'] | Duration:12.63s
+2025-07-15 00:22:39,296 - Q:sample_00000218 | Run:9/10 | Emotions:['Frustration', 'Annoyance', 'Embarrassment'] | Duration:10.54s
+2025-07-15 00:22:54,555 - Q:sample_00000218 | Run:10/10 | Emotions:['Frustration', 'Irritation', 'Embarrassment', 'Exasperation', 'Anger'] | Duration:15.26s
+2025-07-15 00:23:02,788 - Q:sample_00000209 | Run:1/10 | Emotions:['Hope', 'Excitement', 'Joy'] | Duration:8.23s
+2025-07-15 00:23:11,852 - Q:sample_00000209 | Run:2/10 | Emotions:['Hope', 'Excitement', 'Joy', 'Relief'] | Duration:9.06s
+2025-07-15 00:23:20,323 - Q:sample_00000209 | Run:3/10 | Emotions:['Joy', 'Relief', 'Excitement'] | Duration:8.47s
+2025-07-15 00:23:28,997 - Q:sample_00000209 | Run:4/10 | Emotions:['Joy', 'Relief', 'Excitement'] | Duration:8.67s
+2025-07-15 00:23:37,847 - Q:sample_00000209 | Run:5/10 | Emotions:['Happiness', 'Relief', 'Excitement'] | Duration:8.85s
+2025-07-15 00:23:47,624 - Q:sample_00000209 | Run:6/10 | Emotions:['Happiness', 'Relief', 'Anticipation', 'Excitement'] | Duration:9.78s
+2025-07-15 00:23:56,598 - Q:sample_00000209 | Run:7/10 | Emotions:['Hope', 'Joy', 'Relief', 'Anticipation'] | Duration:8.97s
+2025-07-15 00:24:04,067 - Q:sample_00000209 | Run:8/10 | Emotions:['Happiness', 'Relief'] | Duration:7.47s
+2025-07-15 00:24:13,397 - Q:sample_00000209 | Run:9/10 | Emotions:['Hope', 'Excitement', 'Relief', 'Joy'] | Duration:9.33s
+2025-07-15 00:24:22,189 - Q:sample_00000209 | Run:10/10 | Emotions:['Happiness', 'Relief', 'Excitement'] | Duration:8.79s
+2025-07-15 00:24:33,258 - Q:sample_00000256 | Run:1/10 | Emotions:['Regret', 'Sadness', 'Frustration', 'Disappointment'] | Duration:11.07s
+2025-07-15 00:24:44,211 - Q:sample_00000256 | Run:2/10 | Emotions:['Regret', 'Disappointment', 'Frustration', 'Sadness'] | Duration:10.95s
+2025-07-15 00:24:55,925 - Q:sample_00000256 | Run:3/10 | Emotions:['Regret', 'Frustration', 'Disappointment', 'Nostalgia'] | Duration:11.71s
+2025-07-15 00:25:05,686 - Q:sample_00000256 | Run:4/10 | Emotions:['Regret', 'Sorrow', 'Frustration'] | Duration:9.76s
+2025-07-15 00:25:15,641 - Q:sample_00000256 | Run:5/10 | Emotions:['Regret', 'Frustration', 'Disappointment'] | Duration:9.95s
+2025-07-15 00:25:25,430 - Q:sample_00000256 | Run:6/10 | Emotions:['Regret', 'Disappointment', 'Frustration'] | Duration:9.79s
+2025-07-15 00:25:36,223 - Q:sample_00000256 | Run:7/10 | Emotions:['Regret', 'Sorrow', 'Frustration', 'Disappointment'] | Duration:10.79s
+2025-07-15 00:25:46,947 - Q:sample_00000256 | Run:8/10 | Emotions:['Regret', 'Sorrow', 'Frustration', 'Disappointment'] | Duration:10.72s
+2025-07-15 00:25:57,573 - Q:sample_00000256 | Run:9/10 | Emotions:['Regret', 'Frustration', 'Disappointment'] | Duration:10.62s
+2025-07-15 00:26:09,456 - Q:sample_00000256 | Run:10/10 | Emotions:['Regret', 'Disappointment', 'Longing', 'Nostalgia', 'Sadness'] | Duration:11.88s
+2025-07-15 00:26:17,046 - Q:sample_00000166 | Run:1/10 | Emotions:['Confusion', 'Curiosity'] | Duration:7.59s
+2025-07-15 00:26:24,310 - Q:sample_00000166 | Run:2/10 | Emotions:['Confusion', 'Curiosity'] | Duration:7.26s
+2025-07-15 00:26:33,906 - Q:sample_00000166 | Run:3/10 | Emotions:['Confusion', 'Curiosity'] | Duration:9.60s
+2025-07-15 00:26:47,402 - Q:sample_00000166 | Run:4/10 | Emotions:['Curious', 'Confused', 'Frustrated'] | Duration:13.50s
+2025-07-15 00:26:56,292 - Q:sample_00000166 | Run:5/10 | Emotions:['Confusion', 'Frustration'] | Duration:8.89s
+2025-07-15 00:27:05,562 - Q:sample_00000166 | Run:6/10 | Emotions:['Confused', 'Curious'] | Duration:9.27s
+2025-07-15 00:27:13,323 - Q:sample_00000166 | Run:7/10 | Emotions:['Confusion', 'Curiosity'] | Duration:7.76s
+2025-07-15 00:27:20,624 - Q:sample_00000166 | Run:8/10 | Emotions:['Confusion', 'Curiosity'] | Duration:7.30s
+2025-07-15 00:27:27,764 - Q:sample_00000166 | Run:9/10 | Emotions:['Confusion', 'Uncertainty'] | Duration:7.14s
+2025-07-15 00:27:36,236 - Q:sample_00000166 | Run:10/10 | Emotions:['Confusion', 'Frustration'] | Duration:8.47s
+2025-07-15 00:27:53,863 - Q:sample_00000033 | Run:1/10 | Emotions:['Frustration', 'Skepticism', 'Disappointment', 'Incredulity', 'Pessimism'] | Duration:17.63s
+2025-07-15 00:28:07,702 - Q:sample_00000033 | Run:2/10 | Emotions:['Frustration', 'Skepticism', 'Disdain'] | Duration:13.84s
+2025-07-15 00:28:18,924 - Q:sample_00000033 | Run:3/10 | Emotions:['Frustration', 'Skepticism', 'Disappointment', 'Surprise'] | Duration:11.22s
+2025-07-15 00:28:30,632 - Q:sample_00000033 | Run:4/10 | Emotions:['Frustration', 'Disappointment', 'Skepticism'] | Duration:11.71s
+2025-07-15 00:28:42,433 - Q:sample_00000033 | Run:5/10 | Emotions:['Frustration', 'Disdain', 'Skepticism'] | Duration:11.80s
+2025-07-15 00:28:55,323 - Q:sample_00000033 | Run:6/10 | Emotions:['Disappointment', 'Frustration', 'Skepticism'] | Duration:12.89s
+2025-07-15 00:29:09,278 - Q:sample_00000033 | Run:7/10 | Emotions:['Frustration', 'Skepticism', 'Disappointment', 'Incredulity'] | Duration:13.95s
+2025-07-15 00:29:23,946 - Q:sample_00000033 | Run:8/10 | Emotions:['Frustration', 'Disappointment', 'Skepticism', 'Doubt'] | Duration:14.67s
+2025-07-15 00:29:34,900 - Q:sample_00000033 | Run:9/10 | Emotions:['Frustration', 'Disappointment', 'Skepticism'] | Duration:10.95s
+2025-07-15 00:29:45,890 - Q:sample_00000033 | Run:10/10 | Emotions:['Frustration', 'Skepticism', 'Disappointment'] | Duration:10.99s
+2025-07-15 00:29:58,215 - Q:sample_00000406 | Run:1/10 | Emotions:['Curiosity', 'Wonder', 'Skepticism', 'Doubt', 'Concern'] | Duration:12.32s
+2025-07-15 00:30:08,758 - Q:sample_00000406 | Run:2/10 | Emotions:['Curiosity', 'Doubt', 'Wonder', 'Uncertainty'] | Duration:10.54s
+2025-07-15 00:30:23,193 - Q:sample_00000406 | Run:3/10 | Emotions:['Curious', 'Wonder', 'Doubt', 'Anticipation'] | Duration:14.43s
+2025-07-15 00:30:34,101 - Q:sample_00000406 | Run:4/10 | Emotions:['Curiosity', 'Doubt', 'Wonder', 'Intrigue'] | Duration:10.91s
+2025-07-15 00:30:44,705 - Q:sample_00000406 | Run:5/10 | Emotions:['Curious', 'Confused', 'Inquisitive'] | Duration:10.60s
+2025-07-15 00:30:58,848 - Q:sample_00000406 | Run:6/10 | Emotions:['Curiosity', 'Wonder', 'Doubt', 'Uncertainty'] | Duration:14.14s
+2025-07-15 00:31:08,600 - Q:sample_00000406 | Run:7/10 | Emotions:['Curiosity', 'Worry', 'Uncertainty'] | Duration:9.75s
+2025-07-15 00:31:19,313 - Q:sample_00000406 | Run:8/10 | Emotions:['Curiosity', 'Uncertainty', 'Hope', 'Frustration'] | Duration:10.71s
+2025-07-15 00:31:29,211 - Q:sample_00000406 | Run:9/10 | Emotions:['Curiosity', 'Uncertainty', 'Surprise', 'Skepticism'] | Duration:9.90s
+2025-07-15 00:31:45,196 - Q:sample_00000406 | Run:10/10 | Emotions:['Curious', 'Wonder', 'Inquiry', 'Possibility', 'Uncertainty', 'Concern', 'Suspense'] | Duration:15.98s
+2025-07-15 00:31:57,985 - Q:sample_00000153 | Run:1/10 | Emotions:['Curiosity', 'Frustration', 'Expectation'] | Duration:12.79s
+2025-07-15 00:32:07,777 - Q:sample_00000153 | Run:2/10 | Emotions:['Curiosity', 'Concern', 'Expectation'] | Duration:9.79s
+2025-07-15 00:32:17,139 - Q:sample_00000153 | Run:3/10 | Emotions:['Curiosity', 'Concern', 'Inquiry'] | Duration:9.36s
+2025-07-15 00:32:25,375 - Q:sample_00000153 | Run:4/10 | Emotions:['Curiosity', 'Concern'] | Duration:8.24s
+2025-07-15 00:32:35,462 - Q:sample_00000153 | Run:5/10 | Emotions:['Curiosity', 'Surprise', 'Concern'] | Duration:10.09s
+2025-07-15 00:32:44,617 - Q:sample_00000153 | Run:6/10 | Emotions:['Curiosity', 'Concern', 'Urgency'] | Duration:9.15s
+2025-07-15 00:32:55,496 - Q:sample_00000153 | Run:7/10 | Emotions:['Concerned', 'Expectant', 'Curious'] | Duration:10.88s
+2025-07-15 00:33:05,757 - Q:sample_00000153 | Run:8/10 | Emotions:['Curiosity', 'Concern', 'Urgency'] | Duration:10.26s
+2025-07-15 00:33:14,275 - Q:sample_00000153 | Run:9/10 | Emotions:['Curious', 'Concerned', 'Imperative'] | Duration:8.52s
+2025-07-15 00:33:23,273 - Q:sample_00000153 | Run:10/10 | Emotions:['Curiosity', 'Importance', 'Concern'] | Duration:9.00s
+2025-07-15 00:33:33,305 - Q:sample_00000346 | Run:1/10 | Emotions:['Confusion', 'Curiosity', 'Amusement'] | Duration:10.03s
+2025-07-15 00:33:45,995 - Q:sample_00000346 | Run:2/10 | Emotions:['Confusion', 'Curiosity', 'Amusement', 'Intrigue'] | Duration:12.69s
+2025-07-15 00:33:57,448 - Q:sample_00000346 | Run:3/10 | Emotions:['Confusion', 'Curiosity', 'Playfulness'] | Duration:11.45s
+2025-07-15 00:34:06,965 - Q:sample_00000346 | Run:4/10 | Emotions:['Curiosity', 'Confusion', 'Amusement'] | Duration:9.52s
+2025-07-15 00:34:16,241 - Q:sample_00000346 | Run:5/10 | Emotions:['Curiosity', 'Confusion', 'Surprise'] | Duration:9.28s
+2025-07-15 00:34:29,601 - Q:sample_00000346 | Run:6/10 | Emotions:['Curiosity', 'Playfulness', 'Amusement', 'Teasing', 'Inquiry'] | Duration:13.36s
+2025-07-15 00:34:41,998 - Q:sample_00000346 | Run:7/10 | Emotions:['Curiosity', 'Confusion', 'Amusement', 'Surprise'] | Duration:12.40s
+2025-07-15 00:34:52,356 - Q:sample_00000346 | Run:8/10 | Emotions:['Confusion', 'Curiosity', 'Interest', 'Frustration'] | Duration:10.36s
+2025-07-15 00:35:01,523 - Q:sample_00000346 | Run:9/10 | Emotions:['Confusion', 'Curiosity', 'Desire'] | Duration:9.17s
+2025-07-15 00:35:11,764 - Q:sample_00000346 | Run:10/10 | Emotions:['Confusion', 'Curiosity', 'Amusement', 'Playfulness'] | Duration:10.24s
+2025-07-15 00:35:20,780 - Q:sample_00000021 | Run:1/10 | Emotions:['Love', 'Affection', 'Willingness', 'Longing'] | Duration:9.01s
+2025-07-15 00:35:30,182 - Q:sample_00000021 | Run:2/10 | Emotions:['Love', 'Affection', 'Willingness', 'Commitment'] | Duration:9.40s
+2025-07-15 00:35:41,065 - Q:sample_00000021 | Run:3/10 | Emotions:['Love', 'Warmth', 'Affection', 'Devotion', 'Loyalty'] | Duration:10.88s
+2025-07-15 00:35:50,195 - Q:sample_00000021 | Run:4/10 | Emotions:['Love', 'Affection', 'Tenderness'] | Duration:9.13s
+2025-07-15 00:35:59,400 - Q:sample_00000021 | Run:5/10 | Emotions:['Love', 'Affection', 'Willingness'] | Duration:9.21s
+2025-07-15 00:36:08,285 - Q:sample_00000021 | Run:6/10 | Emotions:['Love', 'Warmth', 'Sincerity', 'Affection'] | Duration:8.88s
+2025-07-15 00:36:17,357 - Q:sample_00000021 | Run:7/10 | Emotions:['Love', 'Affection', 'Willingness', 'Companionship'] | Duration:9.07s
+2025-07-15 00:36:29,598 - Q:sample_00000021 | Run:8/10 | Emotions:['Love', 'Affection', 'Nostalgia', 'Longing'] | Duration:12.24s
+2025-07-15 00:36:39,700 - Q:sample_00000021 | Run:9/10 | Emotions:['Love', 'Affection', 'Willingness', 'Loyalty'] | Duration:10.10s
+2025-07-15 00:36:51,529 - Q:sample_00000021 | Run:10/10 | Emotions:['Love', 'Affection', 'Nostalgia', 'Devotion'] | Duration:11.83s
+2025-07-15 00:37:01,840 - Q:sample_00000203 | Run:1/10 | Emotions:['Bitterness', 'Sadness', 'Nostalgia'] | Duration:10.31s
+2025-07-15 00:37:10,735 - Q:sample_00000203 | Run:2/10 | Emotions:['Sadness', 'Regret', 'Disappointment'] | Duration:8.89s
+2025-07-15 00:37:20,521 - Q:sample_00000203 | Run:3/10 | Emotions:['Sadness', 'Regret', 'Disappointment'] | Duration:9.78s
+2025-07-15 00:37:30,240 - Q:sample_00000203 | Run:4/10 | Emotions:['Sadness', 'Regret', 'Longing'] | Duration:9.72s
+2025-07-15 00:37:43,043 - Q:sample_00000203 | Run:5/10 | Emotions:['Surprise', 'Sadness'] | Duration:12.80s
+2025-07-15 00:37:54,644 - Q:sample_00000203 | Run:6/10 | Emotions:['Surprise', 'Sadness', 'Disappointment', 'Nostalgia'] | Duration:11.60s
+2025-07-15 00:38:03,946 - Q:sample_00000203 | Run:7/10 | Emotions:['Bitter', 'Regret', 'Sadness'] | Duration:9.30s
+2025-07-15 00:38:13,636 - Q:sample_00000203 | Run:8/10 | Emotions:['Disappointment', 'Sadness', 'Regret'] | Duration:9.69s
+2025-07-15 00:38:26,453 - Q:sample_00000203 | Run:9/10 | Emotions:['Surprise', 'Sadness', 'Disappointment', 'Regret', 'Nostalgia'] | Duration:12.82s
+2025-07-15 00:38:36,380 - Q:sample_00000203 | Run:10/10 | Emotions:['Regret', 'Sadness', 'Longing'] | Duration:9.93s
+2025-07-15 00:38:46,159 - Q:sample_00000294 | Run:1/10 | Emotions:['Confusion', 'Curiosity', 'Indignation'] | Duration:9.78s
+2025-07-15 00:38:56,054 - Q:sample_00000294 | Run:2/10 | Emotions:['Confusion', 'Sarcasm', 'Curiosity'] | Duration:9.89s
+2025-07-15 00:39:06,177 - Q:sample_00000294 | Run:3/10 | Emotions:['Curiosity', 'Surprise', 'Intrigue'] | Duration:10.12s
+2025-07-15 00:39:20,607 - Q:sample_00000294 | Run:4/10 | Emotions:['Frustration', 'Confusion', 'Sarcasm'] | Duration:14.43s
+2025-07-15 00:39:30,876 - Q:sample_00000294 | Run:5/10 | Emotions:['Confusion', 'Frustration', 'Curiosity'] | Duration:10.27s
+2025-07-15 00:39:40,391 - Q:sample_00000294 | Run:6/10 | Emotions:['Confusion', 'Curiosity', 'Concern'] | Duration:9.51s
+2025-07-15 00:39:49,932 - Q:sample_00000294 | Run:7/10 | Emotions:['Frustration', 'Curiosity', 'Disappointment'] | Duration:9.54s
+2025-07-15 00:40:00,982 - Q:sample_00000294 | Run:8/10 | Emotions:['Surprise', 'Confusion'] | Duration:11.05s
+2025-07-15 00:40:11,547 - Q:sample_00000294 | Run:9/10 | Emotions:['Confusion', 'Curiosity', 'Skepticism'] | Duration:10.56s
+2025-07-15 00:40:22,185 - Q:sample_00000294 | Run:10/10 | Emotions:['Confusion', 'Surprise'] | Duration:10.64s
+2025-07-15 00:40:35,975 - Q:sample_00000342 | Run:1/10 | Emotions:['Curiosity', 'Skepticism', 'Surprise'] | Duration:13.79s
+2025-07-15 00:40:45,539 - Q:sample_00000342 | Run:2/10 | Emotions:['Curiosity', 'Suspicion', 'Concern'] | Duration:9.56s
+2025-07-15 00:40:57,836 - Q:sample_00000342 | Run:3/10 | Emotions:['Curiosity', 'Sarcasm', 'Skepticism'] | Duration:12.30s
+2025-07-15 00:41:06,298 - Q:sample_00000342 | Run:4/10 | Emotions:['Curious', 'Suspicious'] | Duration:8.46s
+2025-07-15 00:41:18,615 - Q:sample_00000342 | Run:5/10 | Emotions:['Curious', 'Concerned', 'Inquiry'] | Duration:12.32s
+2025-07-15 00:41:29,557 - Q:sample_00000342 | Run:6/10 | Emotions:['Confusion', 'Skepticism'] | Duration:10.94s
+2025-07-15 00:41:37,946 - Q:sample_00000342 | Run:7/10 | Emotions:['Curiosity', 'Suspicion'] | Duration:8.39s
+2025-07-15 00:41:48,980 - Q:sample_00000342 | Run:8/10 | Emotions:['Curiosity', 'Concern', 'Suspicion'] | Duration:11.03s
+2025-07-15 00:41:58,514 - Q:sample_00000342 | Run:9/10 | Emotions:['Curiosity', 'Surprise', 'Suspicion'] | Duration:9.53s
+2025-07-15 00:42:08,948 - Q:sample_00000342 | Run:10/10 | Emotions:['Curiosity', 'Suspicion', 'Inquiry'] | Duration:10.43s
+2025-07-15 00:42:17,048 - Q:sample_00000246 | Run:1/10 | Emotions:['Concern', 'Worry'] | Duration:8.10s
+2025-07-15 00:42:27,552 - Q:sample_00000246 | Run:2/10 | Emotions:['Concern', 'Worry', 'Insecurity', 'Disappointment', 'Uncertainty'] | Duration:10.50s
+2025-07-15 00:42:37,462 - Q:sample_00000246 | Run:3/10 | Emotions:['Worry', 'Concern'] | Duration:9.91s
+2025-07-15 00:42:49,867 - Q:sample_00000246 | Run:4/10 | Emotions:['Worry', 'Concern', 'Annoyance'] | Duration:12.40s
+2025-07-15 00:42:59,377 - Q:sample_00000246 | Run:5/10 | Emotions:['Concern', 'Curiosity', 'Concerned'] | Duration:9.51s
+2025-07-15 00:43:08,439 - Q:sample_00000246 | Run:6/10 | Emotions:['Worry', 'Concern', 'Frustration'] | Duration:9.06s
+2025-07-15 00:43:18,212 - Q:sample_00000246 | Run:7/10 | Emotions:['Concern', 'Worry', 'Curiosity'] | Duration:9.77s
+2025-07-15 00:43:26,030 - Q:sample_00000246 | Run:8/10 | Emotions:['Concern', 'Worry'] | Duration:7.82s
+2025-07-15 00:43:35,009 - Q:sample_00000246 | Run:9/10 | Emotions:['Worry', 'Concern', 'Confusion'] | Duration:8.98s
+2025-07-15 00:43:42,834 - Q:sample_00000246 | Run:10/10 | Emotions:['Worry', 'Concern'] | Duration:7.82s
+2025-07-15 00:43:54,428 - Q:sample_00000039 | Run:1/10 | Emotions:['Reluctant', 'Determined', 'Excited', 'Nervous'] | Duration:11.59s
+2025-07-15 00:44:06,178 - Q:sample_00000039 | Run:2/10 | Emotions:['Surprise', 'Determination', 'Love', 'Commitment'] | Duration:11.75s
+2025-07-15 00:44:20,161 - Q:sample_00000039 | Run:3/10 | Emotions:['Surprise', 'Excitement', 'Nervousness', 'Anticipation', 'Joy'] | Duration:13.98s
+2025-07-15 00:44:32,366 - Q:sample_00000039 | Run:4/10 | Emotions:['Surprise', 'Excitement', 'Determination', 'Love'] | Duration:12.20s
+2025-07-15 00:44:41,644 - Q:sample_00000039 | Run:5/10 | Emotions:['Surprise', 'Commitment', 'Love'] | Duration:9.28s
+2025-07-15 00:44:54,237 - Q:sample_00000039 | Run:6/10 | Emotions:['Surprise', 'Excitement', 'Sincerity', 'Love'] | Duration:12.59s
+2025-07-15 00:45:08,110 - Q:sample_00000039 | Run:7/10 | Emotions:['Excitement', 'Confidence', 'Anticipation', 'Nervousness', 'Happiness'] | Duration:13.87s
+2025-07-15 00:45:20,715 - Q:sample_00000039 | Run:8/10 | Emotions:['Surprise', 'Determination', 'Joy', 'Commitment'] | Duration:12.60s
+2025-07-15 00:45:32,427 - Q:sample_00000039 | Run:9/10 | Emotions:['Excitement', 'Joy', 'Determination', 'Commitment'] | Duration:11.71s
+2025-07-15 00:45:43,089 - Q:sample_00000039 | Run:10/10 | Emotions:['Surprise', 'Certainty', 'Determination'] | Duration:10.66s

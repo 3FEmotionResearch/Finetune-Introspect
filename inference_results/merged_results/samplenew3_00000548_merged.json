@@ -1,0 +1,83 @@
+{
+  "question_id": "samplenew3_00000548",
+  "chinese_text": "会害了秋府上下所有的人",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 37,
+    "unique_emotions": 11,
+    "emotion_details": {
+      "Concern": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Anxiety": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Fear": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Sadness": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Worry": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Regret": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Panic": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Desperation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Sorrow": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Despair": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Helplessness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Concern",
+      {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      }
+    ],
+    "top_3_emotions": [
+      "Concern",
+      "Anxiety",
+      "Fear"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T22:55:16.608021"
+}

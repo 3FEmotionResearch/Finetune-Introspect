@@ -1,0 +1,13 @@
+{
+  "run_number": 3,
+  "question_id": "samplenew3_00000496",
+  "chinese_text": "我这是可以去福利院的",
+  "parsed_emotions": [
+    "Hope",
+    "Relief",
+    "Determination"
+  ],
+  "raw_model_output": "Hope | Relief | Determination",
+  "timestamp": "2025-07-14T23:47:36.561811",
+  "duration_seconds": 7.813599
+}

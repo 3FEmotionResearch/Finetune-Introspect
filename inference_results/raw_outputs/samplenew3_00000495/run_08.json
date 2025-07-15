@@ -1,0 +1,14 @@
+{
+  "run_number": 8,
+  "question_id": "samplenew3_00000495",
+  "chinese_text": "这一扇窗户怎么会有两种眼神",
+  "parsed_emotions": [
+    "Surprise",
+    "Curiosity",
+    "Confusion",
+    "Amusement"
+  ],
+  "raw_model_output": "Surprise | Curiosity | Confusion | Amusement",
+  "timestamp": "2025-07-14T23:51:32.482219",
+  "duration_seconds": 10.468013
+}

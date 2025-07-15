@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000425",
+  "chinese_text": "只能让你眼睁睁看着他们受苦了",
+  "parsed_emotions": [
+    "Sadness",
+    "Helplessness",
+    "Frustration",
+    "Anger"
+  ],
+  "raw_model_output": "sadness | helplessness | frustration | anger",
+  "timestamp": "2025-07-14T22:57:07.155043",
+  "duration_seconds": 9.92924
+}

@@ -1,0 +1,14 @@
+{
+  "run_number": 8,
+  "question_id": "samplenew3_00000220",
+  "chinese_text": "那不就是那电视剧那射雕英雄传里那梅超风",
+  "parsed_emotions": [
+    "Nostalgia",
+    "Longing",
+    "Excitement",
+    "Anticipation"
+  ],
+  "raw_model_output": "Nostalgia | Longing | Excitement | Anticipation",
+  "timestamp": "2025-07-14T23:14:02.250027",
+  "duration_seconds": 12.944404
+}

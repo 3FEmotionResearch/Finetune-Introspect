@@ -1,0 +1,83 @@
+{
+  "question_id": "sample_00000342",
+  "chinese_text": "郝志，你不会是那个阜外医院的郝志？",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 27,
+    "unique_emotions": 11,
+    "emotion_details": {
+      "Curiosity": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Suspicion": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Skepticism": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Surprise": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Concern": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Curious": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Inquiry": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Sarcasm": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Suspicious": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Concerned": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Confusion": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Curiosity",
+      {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      }
+    ],
+    "top_3_emotions": [
+      "Curiosity",
+      "Suspicion",
+      "Skepticism"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:42:08.949397"
+}

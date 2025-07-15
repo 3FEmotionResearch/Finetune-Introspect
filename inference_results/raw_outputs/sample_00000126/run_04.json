@@ -1,0 +1,17 @@
+{
+  "run_number": 4,
+  "question_id": "sample_00000126",
+  "chinese_text": "一个人死了，非得找出谁的错，否则就不能安慰逝去的灵魂。我们的医学，什么时候沦落到替罪羊的地步？我们一线的医师，什么时候变得这么地胆怯。",
+  "parsed_emotions": [
+    "Grief",
+    "Anger",
+    "Disgust",
+    "Indignation",
+    "Helplessness",
+    "Sadness",
+    "Frustration"
+  ],
+  "raw_model_output": "Grief | Anger | Disgust | Indignation | Helplessness | Sadness | Frustration",
+  "timestamp": "2025-07-15T00:07:46.217894",
+  "duration_seconds": 18.920672
+}

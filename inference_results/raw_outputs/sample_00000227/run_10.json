@@ -1,0 +1,12 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000227",
+  "chinese_text": "那当然啦。",
+  "parsed_emotions": [
+    "Confident",
+    "Sarcastic"
+  ],
+  "raw_model_output": "Confident|Sarcastic",
+  "timestamp": "2025-07-14T23:56:29.879012",
+  "duration_seconds": 8.130383
+}

@@ -1,0 +1,48 @@
+{
+  "question_id": "samplenew3_00000723",
+  "chinese_text": "哪像太子殿下您呢",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 30,
+    "unique_emotions": 4,
+    "emotion_details": {
+      "Curiosity": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Politeness": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Respect": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Formality": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Curiosity",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Curiosity",
+      "Politeness",
+      "Respect"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:03:44.497278"
+}

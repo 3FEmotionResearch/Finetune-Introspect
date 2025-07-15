@@ -5,10 +5,11 @@
   "parsed_emotions": [
     "Fear",
     "Anxiety",
-    "Panic",
-    "Resignation"
+    "Defeat",
+    "Guilt",
+    "Helplessness"
   ],
-  "raw_model_output": "Fear | Anxiety | Panic | Resignation",
-  "timestamp": "2025-07-14T22:24:48.178051",
-  "duration_seconds": 10.055707
+  "raw_model_output": "Fear | Anxiety | Defeat | Guilt | Helplessness",
+  "timestamp": "2025-07-14T22:28:50.672435",
+  "duration_seconds": 11.678909
 }

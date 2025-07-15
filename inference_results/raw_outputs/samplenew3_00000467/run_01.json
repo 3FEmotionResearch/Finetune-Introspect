@@ -1,0 +1,13 @@
+{
+  "run_number": 1,
+  "question_id": "samplenew3_00000467",
+  "chinese_text": "他是不是成心跟咱俩较劲啊",
+  "parsed_emotions": [
+    "Frustration",
+    "Irritation",
+    "Skepticism"
+  ],
+  "raw_model_output": "Frustration | Irritation | Skepticism",
+  "timestamp": "2025-07-14T23:45:30.048392",
+  "duration_seconds": 10.406175
+}

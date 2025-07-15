@@ -6,10 +6,9 @@
     "Fear",
     "Anxiety",
     "Desperation",
-    "Defeat",
-    "Shame"
+    "Helplessness"
   ],
-  "raw_model_output": "Fear | Anxiety | Desperation | Defeat | Shame",
-  "timestamp": "2025-07-14T22:25:00.610565",
-  "duration_seconds": 12.432006
+  "raw_model_output": "Fear | Anxiety | Desperation | Helplessness",
+  "timestamp": "2025-07-14T22:29:01.229184",
+  "duration_seconds": 10.556206
 }

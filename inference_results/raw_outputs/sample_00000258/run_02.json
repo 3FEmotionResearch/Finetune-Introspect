@@ -1,0 +1,19 @@
+{
+  "run_number": 2,
+  "question_id": "sample_00000258",
+  "chinese_text": "",
+  "parsed_emotions": [
+    "Please",
+    "Provide",
+    "The",
+    "Chinese",
+    "Text",
+    "And",
+    "Analyze",
+    "For",
+    "You"
+  ],
+  "raw_model_output": "Please provide the Chinese text, and I'll analyze it for you!",
+  "timestamp": "2025-07-15T00:15:17.330097",
+  "duration_seconds": 10.288069
+}

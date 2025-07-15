@@ -1,0 +1,13 @@
+{
+  "run_number": 1,
+  "question_id": "samplenew3_00000294",
+  "chinese_text": "这让我想起了聪明的衣袖",
+  "parsed_emotions": [
+    "Nostalgia",
+    "Melancholy",
+    "Longing"
+  ],
+  "raw_model_output": "Nostalgia | Melancholy | Longing",
+  "timestamp": "2025-07-14T22:48:41.522362",
+  "duration_seconds": 10.791037
+}

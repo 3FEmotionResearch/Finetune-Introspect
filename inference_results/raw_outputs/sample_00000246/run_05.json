@@ -1,0 +1,13 @@
+{
+  "run_number": 5,
+  "question_id": "sample_00000246",
+  "chinese_text": "安迪，我觉得你状态不对啊。",
+  "parsed_emotions": [
+    "Concern",
+    "Curiosity",
+    "Concerned"
+  ],
+  "raw_model_output": "Concern | Curiosity | Concerned",
+  "timestamp": "2025-07-15T00:42:59.377916",
+  "duration_seconds": 9.509717
+}

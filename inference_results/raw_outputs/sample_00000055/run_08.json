@@ -1,0 +1,13 @@
+{
+  "run_number": 8,
+  "question_id": "sample_00000055",
+  "chinese_text": "让病人衰弱的心脏呢，暂时得到一些缓解，但是这台机器的使用呢，并不广泛。",
+  "parsed_emotions": [
+    "Relief",
+    "Frustration",
+    "Skepticism"
+  ],
+  "raw_model_output": "Relief | Frustration | Skepticism",
+  "timestamp": "2025-07-15T00:11:15.318835",
+  "duration_seconds": 15.535755
+}

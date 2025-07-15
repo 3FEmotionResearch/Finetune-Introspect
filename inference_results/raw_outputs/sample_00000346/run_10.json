@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000346",
+  "chinese_text": "孩子和女人你要哪一个？",
+  "parsed_emotions": [
+    "Confusion",
+    "Curiosity",
+    "Amusement",
+    "Playfulness"
+  ],
+  "raw_model_output": "confusion|curiosity|amusement|playfulness",
+  "timestamp": "2025-07-15T00:35:11.764881",
+  "duration_seconds": 10.240556
+}

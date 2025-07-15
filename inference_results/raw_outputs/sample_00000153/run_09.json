@@ -1,0 +1,13 @@
+{
+  "run_number": 9,
+  "question_id": "sample_00000153",
+  "chinese_text": "白总监，你也关注这件事啊！",
+  "parsed_emotions": [
+    "Curious",
+    "Concerned",
+    "Imperative"
+  ],
+  "raw_model_output": "curious | concerned | imperative",
+  "timestamp": "2025-07-15T00:33:14.274961",
+  "duration_seconds": 8.517133
+}

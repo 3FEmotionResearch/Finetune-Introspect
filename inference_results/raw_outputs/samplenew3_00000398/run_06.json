@@ -1,0 +1,13 @@
+{
+  "run_number": 6,
+  "question_id": "samplenew3_00000398",
+  "chinese_text": "你有没有什么办法帮帮百姓",
+  "parsed_emotions": [
+    "Helplessness",
+    "Concern",
+    "Sympathy"
+  ],
+  "raw_model_output": "Helplessness|Concern|Sympathy",
+  "timestamp": "2025-07-14T23:34:52.683354",
+  "duration_seconds": 8.911459
+}

@@ -1,0 +1,15 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000588",
+  "chinese_text": "这神神秘秘的义父我没有见过世面的样子",
+  "parsed_emotions": [
+    "Mysterious",
+    "Curious",
+    "Nostalgic",
+    "Frustrated",
+    "Longing"
+  ],
+  "raw_model_output": "Mysterious | Curious | Nostalgic | Frustrated | Longing",
+  "timestamp": "2025-07-14T22:37:00.212284",
+  "duration_seconds": 13.249356
+}

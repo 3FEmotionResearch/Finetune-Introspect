@@ -1,0 +1,12 @@
+{
+  "run_number": 3,
+  "question_id": "sample_00000215",
+  "chinese_text": "好说。",
+  "parsed_emotions": [
+    "Relaxed",
+    "Confident"
+  ],
+  "raw_model_output": "Relaxed | Confident",
+  "timestamp": "2025-07-15T00:17:36.712293",
+  "duration_seconds": 8.372025
+}

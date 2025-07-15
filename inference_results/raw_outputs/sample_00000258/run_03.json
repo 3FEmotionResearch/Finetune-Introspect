@@ -1,0 +1,26 @@
+{
+  "run_number": 3,
+  "question_id": "sample_00000258",
+  "chinese_text": "",
+  "parsed_emotions": [
+    "Please",
+    "Provide",
+    "The",
+    "Chinese",
+    "Text",
+    "And",
+    "Analyze",
+    "The",
+    "Emotions",
+    "Expressed",
+    "Using",
+    "English",
+    "Emotion",
+    "Words",
+    "Separated",
+    "Pipes"
+  ],
+  "raw_model_output": "Please provide the Chinese text, and I'll analyze the emotions expressed in it using English emotion words separated by pipes (|).",
+  "timestamp": "2025-07-15T00:15:31.660386",
+  "duration_seconds": 14.32979
+}

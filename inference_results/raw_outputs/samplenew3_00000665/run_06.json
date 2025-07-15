@@ -1,0 +1,14 @@
+{
+  "run_number": 6,
+  "question_id": "samplenew3_00000665",
+  "chinese_text": "我也应该用嘶哑的喉咙歌唱",
+  "parsed_emotions": [
+    "Longing",
+    "Melancholy",
+    "Sorrow",
+    "Yearning"
+  ],
+  "raw_model_output": "Longing | Melancholy | Sorrow | Yearning",
+  "timestamp": "2025-07-14T22:38:10.351061",
+  "duration_seconds": 11.557238
+}

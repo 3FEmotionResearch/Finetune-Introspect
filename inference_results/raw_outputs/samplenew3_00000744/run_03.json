@@ -1,0 +1,12 @@
+{
+  "run_number": 3,
+  "question_id": "samplenew3_00000744",
+  "chinese_text": "丁小河是个不会撒谎的人",
+  "parsed_emotions": [
+    "Trust",
+    "Confidence"
+  ],
+  "raw_model_output": "Trust | Confidence",
+  "timestamp": "2025-07-14T23:19:40.215559",
+  "duration_seconds": 7.909502
+}

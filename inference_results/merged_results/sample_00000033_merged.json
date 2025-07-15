@@ -1,0 +1,68 @@
+{
+  "question_id": "sample_00000033",
+  "chinese_text": "你明知道龙舟队的队员现在都还是群菜鸟，就这么一群菜鸟怎么可能赢得比赛呀。",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 35,
+    "unique_emotions": 8,
+    "emotion_details": {
+      "Frustration": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Skepticism": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Disappointment": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Incredulity": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Disdain": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Pessimism": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Surprise": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Doubt": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Frustration",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Frustration",
+      "Skepticism",
+      "Disappointment"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:29:45.890838"
+}

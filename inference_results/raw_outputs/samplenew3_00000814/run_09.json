@@ -1,0 +1,12 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000814",
+  "chinese_text": "这不唯恐天下不乱吗",
+  "parsed_emotions": [
+    "Fear",
+    "Anxiety"
+  ],
+  "raw_model_output": "Fear | Anxiety",
+  "timestamp": "2025-07-14T22:34:49.563184",
+  "duration_seconds": 7.242069
+}

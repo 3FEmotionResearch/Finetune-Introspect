@@ -1,0 +1,43 @@
+{
+  "question_id": "samplenew3_00000504",
+  "chinese_text": "谢谢领导关心我一定把",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 30,
+    "unique_emotions": 3,
+    "emotion_details": {
+      "Gratitude": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Relief": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Appreciation": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Gratitude",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Gratitude",
+      "Relief",
+      "Appreciation"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:41:52.645710"
+}

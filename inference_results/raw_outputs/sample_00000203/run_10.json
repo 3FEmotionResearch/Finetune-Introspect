@@ -1,0 +1,13 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000203",
+  "chinese_text": "她是我爸的大姑，奶奶一辈子没结婚。",
+  "parsed_emotions": [
+    "Regret",
+    "Sadness",
+    "Longing"
+  ],
+  "raw_model_output": "Regret | Sadness | Longing",
+  "timestamp": "2025-07-15T00:38:36.380931",
+  "duration_seconds": 9.926531
+}

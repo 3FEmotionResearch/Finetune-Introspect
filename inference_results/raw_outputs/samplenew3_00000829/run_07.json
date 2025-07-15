@@ -1,0 +1,14 @@
+{
+  "run_number": 7,
+  "question_id": "samplenew3_00000829",
+  "chinese_text": "你要不是那块料啊他看都不会看你一眼",
+  "parsed_emotions": [
+    "Frustration",
+    "Disappointment",
+    "Annoyance",
+    "Disinterest"
+  ],
+  "raw_model_output": "frustration | disappointment | annoyance | disinterest",
+  "timestamp": "2025-07-14T23:36:45.388667",
+  "duration_seconds": 10.519086
+}

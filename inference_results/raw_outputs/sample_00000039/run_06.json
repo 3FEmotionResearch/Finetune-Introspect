@@ -1,0 +1,14 @@
+{
+  "run_number": 6,
+  "question_id": "sample_00000039",
+  "chinese_text": "我告诉你，曹小强，我现在跟你结婚。",
+  "parsed_emotions": [
+    "Surprise",
+    "Excitement",
+    "Sincerity",
+    "Love"
+  ],
+  "raw_model_output": "Surprise|Excitement|Sincerity|Love",
+  "timestamp": "2025-07-15T00:44:54.236973",
+  "duration_seconds": 12.591545
+}

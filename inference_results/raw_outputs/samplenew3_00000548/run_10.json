@@ -1,0 +1,15 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000548",
+  "chinese_text": "会害了秋府上下所有的人",
+  "parsed_emotions": [
+    "Fear",
+    "Anxiety",
+    "Panic",
+    "Concern",
+    "Helplessness"
+  ],
+  "raw_model_output": "Fear | Anxiety | Panic | Concern | Helplessness",
+  "timestamp": "2025-07-14T22:55:16.607380",
+  "duration_seconds": 9.652882
+}

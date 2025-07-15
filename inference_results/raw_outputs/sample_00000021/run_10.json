@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000021",
+  "chinese_text": "你是真心愿意跟小川在一起？",
+  "parsed_emotions": [
+    "Love",
+    "Affection",
+    "Nostalgia",
+    "Devotion"
+  ],
+  "raw_model_output": "Love | Affection | Nostalgia | Devotion",
+  "timestamp": "2025-07-15T00:36:51.529105",
+  "duration_seconds": 11.828037
+}

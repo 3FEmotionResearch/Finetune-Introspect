@@ -1,0 +1,14 @@
+{
+  "run_number": 7,
+  "question_id": "samplenew3_00000827",
+  "chinese_text": "你一直默默地照顾我的家",
+  "parsed_emotions": [
+    "Love",
+    "Care",
+    "Devotion",
+    "Gratitude"
+  ],
+  "raw_model_output": "Love | Care | Devotion | Gratitude",
+  "timestamp": "2025-07-14T23:29:24.177137",
+  "duration_seconds": 9.367641
+}

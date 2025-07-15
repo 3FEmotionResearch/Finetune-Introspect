@@ -1,0 +1,13 @@
+{
+  "run_number": 7,
+  "question_id": "samplenew3_00000723",
+  "chinese_text": "哪像太子殿下您呢",
+  "parsed_emotions": [
+    "Curiosity",
+    "Respect",
+    "Formality"
+  ],
+  "raw_model_output": "Curiosity|Respect|Formality",
+  "timestamp": "2025-07-14T23:03:14.868545",
+  "duration_seconds": 10.183744
+}

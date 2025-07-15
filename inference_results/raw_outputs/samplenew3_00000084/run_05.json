@@ -1,0 +1,14 @@
+{
+  "run_number": 5,
+  "question_id": "samplenew3_00000084",
+  "chinese_text": "别喝了好吗",
+  "parsed_emotions": [
+    "Worry",
+    "Concern",
+    "Urgency",
+    "Frustration"
+  ],
+  "raw_model_output": "Worry | Concern | Urgency | Frustration",
+  "timestamp": "2025-07-14T22:59:37.754454",
+  "duration_seconds": 12.188603
+}

@@ -1,0 +1,15 @@
+{
+  "run_number": 7,
+  "question_id": "sample_00000361",
+  "chinese_text": "男人的心态我了解，那太容易得到的就不容易珍惜。别再回头有一天，挥一挥手，不带走一片云彩。",
+  "parsed_emotions": [
+    "Bittersweet",
+    "Longing",
+    "Nostalgia",
+    "Melancholy",
+    "Resignation"
+  ],
+  "raw_model_output": "Bittersweet | Longing | Nostalgia | Melancholy | Resignation",
+  "timestamp": "2025-07-15T00:05:38.835604",
+  "duration_seconds": 16.188255
+}

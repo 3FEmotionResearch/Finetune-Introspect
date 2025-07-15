@@ -1,0 +1,13 @@
+{
+  "run_number": 1,
+  "question_id": "samplenew3_00000605",
+  "chinese_text": "说我捐的金额太少了",
+  "parsed_emotions": [
+    "Frustration",
+    "Disappointment",
+    "Felt"
+  ],
+  "raw_model_output": "Frustration | Disappointment | Felt",
+  "timestamp": "2025-07-14T23:16:16.108516",
+  "duration_seconds": 9.782125
+}

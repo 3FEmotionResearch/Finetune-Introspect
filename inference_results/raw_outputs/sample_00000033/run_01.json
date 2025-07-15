@@ -1,0 +1,15 @@
+{
+  "run_number": 1,
+  "question_id": "sample_00000033",
+  "chinese_text": "你明知道龙舟队的队员现在都还是群菜鸟，就这么一群菜鸟怎么可能赢得比赛呀。",
+  "parsed_emotions": [
+    "Frustration",
+    "Skepticism",
+    "Disappointment",
+    "Incredulity",
+    "Pessimism"
+  ],
+  "raw_model_output": "frustration | skepticism | disappointment | incredulity | pessimism",
+  "timestamp": "2025-07-15T00:27:53.863558",
+  "duration_seconds": 17.62558
+}

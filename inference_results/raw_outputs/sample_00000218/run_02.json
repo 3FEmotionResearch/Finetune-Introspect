@@ -1,0 +1,14 @@
+{
+  "run_number": 2,
+  "question_id": "sample_00000218",
+  "chinese_text": "这不是三十八度还没到吗？三十八度才算烧呢，我这去不是让人笑话吗？",
+  "parsed_emotions": [
+    "Frustration",
+    "Annoyance",
+    "Embarrassment",
+    "Disappointment"
+  ],
+  "raw_model_output": "frustration | annoyance | embarrassment | disappointment",
+  "timestamp": "2025-07-15T00:21:11.951555",
+  "duration_seconds": 12.673938
+}

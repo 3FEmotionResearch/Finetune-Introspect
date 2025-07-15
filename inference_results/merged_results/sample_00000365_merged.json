@@ -1,0 +1,58 @@
+{
+  "question_id": "sample_00000365",
+  "chinese_text": "你让我相信你，我相信了，那你为什么要骗我呢？",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 40,
+    "unique_emotions": 6,
+    "emotion_details": {
+      "Trust": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Anger": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Disappointment": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Betrayal": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Confusion": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Frustration": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Trust",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Trust",
+      "Anger",
+      "Disappointment"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:03:45.775113"
+}

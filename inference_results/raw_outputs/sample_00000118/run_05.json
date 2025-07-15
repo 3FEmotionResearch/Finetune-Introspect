@@ -1,0 +1,13 @@
+{
+  "run_number": 5,
+  "question_id": "sample_00000118",
+  "chinese_text": "不能安置的呢？你让财务和人事部给我做一个补偿报告。",
+  "parsed_emotions": [
+    "Frustration",
+    "Disappointment",
+    "Annoyance"
+  ],
+  "raw_model_output": "frustration | disappointment | annoyance",
+  "timestamp": "2025-07-14T23:59:16.836024",
+  "duration_seconds": 11.390861
+}

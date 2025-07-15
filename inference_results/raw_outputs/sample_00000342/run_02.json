@@ -1,0 +1,13 @@
+{
+  "run_number": 2,
+  "question_id": "sample_00000342",
+  "chinese_text": "郝志，你不会是那个阜外医院的郝志？",
+  "parsed_emotions": [
+    "Curiosity",
+    "Suspicion",
+    "Concern"
+  ],
+  "raw_model_output": "curiosity | suspicion | concern",
+  "timestamp": "2025-07-15T00:40:45.539810",
+  "duration_seconds": 9.563566
+}
