@@ -1,0 +1,13 @@
+{
+  "run_number": 8,
+  "question_id": "samplenew3_00000195",
+  "chinese_text": "感动朕的人朕绝不轻饶",
+  "parsed_emotions": [
+    "Moved",
+    "Touched",
+    "Determined"
+  ],
+  "raw_model_output": "Moved | Touched | Determined",
+  "timestamp": "2025-07-14T22:42:00.979054",
+  "duration_seconds": 9.619977
+}

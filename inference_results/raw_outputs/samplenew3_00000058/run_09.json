@@ -1,0 +1,12 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000058",
+  "chinese_text": "凭他的处境不妙",
+  "parsed_emotions": [
+    "Worry",
+    "Anxiety"
+  ],
+  "raw_model_output": "Worry | Anxiety",
+  "timestamp": "2025-07-14T23:40:06.166938",
+  "duration_seconds": 7.278168
+}

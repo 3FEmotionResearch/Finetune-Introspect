@@ -1,0 +1,13 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000891",
+  "chinese_text": "花有重开日",
+  "parsed_emotions": [
+    "Hope",
+    "Joy",
+    "Expectation"
+  ],
+  "raw_model_output": "Hope | Joy | Expectation",
+  "timestamp": "2025-07-14T22:32:30.823868",
+  "duration_seconds": 8.278327
+}

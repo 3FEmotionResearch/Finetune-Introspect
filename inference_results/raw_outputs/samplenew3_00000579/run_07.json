@@ -1,0 +1,16 @@
+{
+  "run_number": 7,
+  "question_id": "samplenew3_00000579",
+  "chinese_text": "徐江跟我的老公一直有矛盾他一直用一些卑鄙的低级的手段想把我们赶出市场所以他杀了我老公",
+  "parsed_emotions": [
+    "Anger",
+    "Frustration",
+    "Betrayal",
+    "Fear",
+    "Sadness",
+    "Hatred"
+  ],
+  "raw_model_output": "Anger | Frustration | Betrayal | Fear | Sadness | Hatred",
+  "timestamp": "2025-07-14T22:47:43.606022",
+  "duration_seconds": 16.082902
+}

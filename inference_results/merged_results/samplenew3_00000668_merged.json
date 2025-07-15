@@ -1,0 +1,78 @@
+{
+  "question_id": "samplenew3_00000668",
+  "chinese_text": "我去你们这太不够意思了",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 31,
+    "unique_emotions": 10,
+    "emotion_details": {
+      "Frustration": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Disappointment": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Anger": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Irritation": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Felt": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Impatience": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Futility": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disappointed": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustrated": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Angry": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Frustration",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Frustration",
+      "Disappointment",
+      "Anger"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T22:40:37.172232"
+}

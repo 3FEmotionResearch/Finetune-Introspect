@@ -1,0 +1,14 @@
+{
+  "run_number": 5,
+  "question_id": "samplenew3_00000454",
+  "chinese_text": "这个问题问得好很深刻回头",
+  "parsed_emotions": [
+    "Curiosity",
+    "Inquisitiveness",
+    "Depth",
+    "Thoughtfulness"
+  ],
+  "raw_model_output": "Curiosity | Inquisitiveness | Depth | Thoughtfulness",
+  "timestamp": "2025-07-14T23:25:36.216625",
+  "duration_seconds": 11.032864
+}

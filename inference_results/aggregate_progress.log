@@ -1,0 +1,158 @@
+2025-07-14 22:28:27,858 - Starting experiment with model: meta-llama/Meta-Llama-3-8B-Instruct
+2025-07-14 22:28:27,858 - Number of runs per question: 10
+2025-07-14 22:28:27,858 - Total questions to process: 100
+2025-07-14 22:28:27,858 - Processing question 1/100: samplenew3_00000765
+2025-07-14 22:30:20,383 - Completed question 1/100: samplenew3_00000765 | Top emotions: [('Anxiety', 10), ('Fear', 10), ('Desperation', 8)]
+2025-07-14 22:30:20,383 - Processing question 2/100: samplenew3_00000501
+2025-07-14 22:32:14,731 - Completed question 2/100: samplenew3_00000501 | Top emotions: [('Exhaustion', 9), ('Frustration', 9), ('Anxiety', 7)]
+2025-07-14 22:32:14,731 - Processing question 3/100: samplenew3_00000891
+2025-07-14 22:33:38,338 - Completed question 3/100: samplenew3_00000891 | Top emotions: [('Hope', 10), ('Expectation', 10), ('Joy', 8)]
+2025-07-14 22:33:38,338 - Processing question 4/100: samplenew3_00000814
+2025-07-14 22:34:59,161 - Completed question 4/100: samplenew3_00000814 | Top emotions: [('Anxiety', 9), ('Fear', 7), ('Concern', 5)]
+2025-07-14 22:34:59,161 - Processing question 5/100: samplenew3_00000588
+2025-07-14 22:37:00,213 - Completed question 5/100: samplenew3_00000588 | Top emotions: [('Curiosity', 8), ('Surprise', 7), ('Mysterious', 3)]
+2025-07-14 22:37:00,213 - Processing question 6/100: samplenew3_00000665
+2025-07-14 22:38:54,175 - Completed question 6/100: samplenew3_00000665 | Top emotions: [('Longing', 10), ('Melancholy', 8), ('Resignation', 7)]
+2025-07-14 22:38:54,176 - Processing question 7/100: samplenew3_00000668
+2025-07-14 22:40:37,172 - Completed question 7/100: samplenew3_00000668 | Top emotions: [('Frustration', 9), ('Disappointment', 9), ('Anger', 3)]
+2025-07-14 22:40:37,172 - Processing question 8/100: samplenew3_00000195
+2025-07-14 22:42:19,852 - Completed question 8/100: samplenew3_00000195 | Top emotions: [('Moved', 9), ('Determined', 5), ('Grateful', 4)]
+2025-07-14 22:42:19,853 - Processing question 9/100: samplenew3_00000151
+2025-07-14 22:44:02,967 - Completed question 9/100: samplenew3_00000151 | Top emotions: [('Resignation', 7), ('Helplessness', 5), ('Frustration', 4)]
+2025-07-14 22:44:02,967 - Processing question 10/100: samplenew3_00000839
+2025-07-14 22:45:51,323 - Completed question 10/100: samplenew3_00000839 | Top emotions: [('Anger', 9), ('Betrayal', 9), ('Fear', 6)]
+2025-07-14 22:45:51,323 - Processing question 11/100: samplenew3_00000579
+2025-07-14 22:48:30,730 - Completed question 11/100: samplenew3_00000579 | Top emotions: [('Anger', 10), ('Frustration', 9), ('Fear', 9)]
+2025-07-14 22:48:30,731 - Processing question 12/100: samplenew3_00000294
+2025-07-14 22:50:23,320 - Completed question 12/100: samplenew3_00000294 | Top emotions: [('Nostalgia', 10), ('Longing', 8), ('Wistfulness', 5)]
+2025-07-14 22:50:23,320 - Processing question 13/100: samplenew3_00000493
+2025-07-14 22:52:03,312 - Completed question 13/100: samplenew3_00000493 | Top emotions: [('Uncertainty', 10), ('Curiosity', 9), ('Concern', 5)]
+2025-07-14 22:52:03,313 - Processing question 14/100: samplenew3_00000378
+2025-07-14 22:53:46,595 - Completed question 14/100: samplenew3_00000378 | Top emotions: [('Frustration', 9), ('Disappointment', 8), ('Anger', 3)]
+2025-07-14 22:53:46,595 - Processing question 15/100: samplenew3_00000548
+2025-07-14 22:55:16,608 - Completed question 15/100: samplenew3_00000548 | Top emotions: [('Concern', 8), ('Anxiety', 7), ('Fear', 7)]
+2025-07-14 22:55:16,608 - Processing question 16/100: samplenew3_00000425
+2025-07-14 22:57:07,156 - Completed question 16/100: samplenew3_00000425 | Top emotions: [('Sadness', 9), ('Powerlessness', 6), ('Helplessness', 6)]
+2025-07-14 22:57:07,156 - Processing question 17/100: samplenew3_00000513
+2025-07-14 22:58:50,766 - Completed question 17/100: samplenew3_00000513 | Top emotions: [('Pride', 10), ('Regret', 8), ('Shame', 7)]
+2025-07-14 22:58:50,766 - Processing question 18/100: samplenew3_00000084
+2025-07-14 23:00:22,766 - Completed question 18/100: samplenew3_00000084 | Top emotions: [('Concern', 9), ('Frustration', 8), ('Worry', 6)]
+2025-07-14 23:00:22,766 - Processing question 19/100: samplenew3_00000360
+2025-07-14 23:02:06,747 - Completed question 19/100: samplenew3_00000360 | Top emotions: [('Shame', 5), ('Ashamed', 5), ('Regretful', 4)]
+2025-07-14 23:02:06,747 - Processing question 20/100: samplenew3_00000723
+2025-07-14 23:03:44,497 - Completed question 20/100: samplenew3_00000723 | Top emotions: [('Curiosity', 9), ('Politeness', 9), ('Respect', 9)]
+2025-07-14 23:03:44,497 - Processing question 21/100: samplenew3_00000347
+2025-07-14 23:05:35,827 - Completed question 21/100: samplenew3_00000347 | Top emotions: [('Frustration', 10), ('Disappointment', 7), ('Excitement', 7)]
+2025-07-14 23:05:35,827 - Processing question 22/100: samplenew3_00000511
+2025-07-14 23:07:19,591 - Completed question 22/100: samplenew3_00000511 | Top emotions: [('Serious', 8), ('Firm', 5), ('Severe', 3)]
+2025-07-14 23:07:19,592 - Processing question 23/100: samplenew3_00000261
+2025-07-14 23:09:10,067 - Completed question 23/100: samplenew3_00000261 | Top emotions: [('Resignation', 7), ('Despair', 6), ('Sadness', 5)]
+2025-07-14 23:09:10,067 - Processing question 24/100: samplenew3_00000432
+2025-07-14 23:10:49,115 - Completed question 24/100: samplenew3_00000432 | Top emotions: [('Excitement', 10), ('Curiosity', 9), ('Anticipation', 6)]
+2025-07-14 23:10:49,115 - Processing question 25/100: samplenew3_00000593
+2025-07-14 23:12:25,266 - Completed question 25/100: samplenew3_00000593 | Top emotions: [('Frustration', 10), ('Disappointment', 10), ('Restriction', 6)]
+2025-07-14 23:12:25,267 - Processing question 26/100: samplenew3_00000220
+2025-07-14 23:14:24,691 - Completed question 26/100: samplenew3_00000220 | Top emotions: [('Excitement', 10), ('Nostalgia', 10), ('Longing', 8)]
+2025-07-14 23:14:24,691 - Processing question 27/100: samplenew3_00000500
+2025-07-14 23:16:06,325 - Completed question 27/100: samplenew3_00000500 | Top emotions: [('Surprise', 9), ('Admiration', 9), ('Amusement', 6)]
+2025-07-14 23:16:06,326 - Processing question 28/100: samplenew3_00000605
+2025-07-14 23:17:39,933 - Completed question 28/100: samplenew3_00000605 | Top emotions: [('Frustration', 9), ('Disappointment', 9), ('Annoyance', 3)]
+2025-07-14 23:17:39,934 - Processing question 29/100: samplenew3_00000447
+2025-07-14 23:19:16,813 - Completed question 29/100: samplenew3_00000447 | Top emotions: [('Curiosity', 9), ('Surprise', 8), ('Amusement', 4)]
+2025-07-14 23:19:16,813 - Processing question 30/100: samplenew3_00000744
+2025-07-14 23:20:44,383 - Completed question 30/100: samplenew3_00000744 | Top emotions: [('Trust', 10), ('Respect', 9), ('Confidence', 5)]
+2025-07-14 23:20:44,383 - Processing question 31/100: samplenew3_00000340
+2025-07-14 23:22:39,580 - Completed question 31/100: samplenew3_00000340 | Top emotions: [('Excitement', 10), ('Pride', 10), ('Amazement', 9)]
+2025-07-14 23:22:39,581 - Processing question 32/100: samplenew3_00000682
+2025-07-14 23:24:43,713 - Completed question 32/100: samplenew3_00000682 | Top emotions: [('Frustration', 8), ('Anger', 8), ('Irritation', 6)]
+2025-07-14 23:24:43,713 - Processing question 33/100: samplenew3_00000454
+2025-07-14 23:26:33,183 - Completed question 33/100: samplenew3_00000454 | Top emotions: [('Curious', 5), ('Curiosity', 5), ('Intrigue', 4)]
+2025-07-14 23:26:33,183 - Processing question 34/100: samplenew3_00000139
+2025-07-14 23:28:16,061 - Completed question 34/100: samplenew3_00000139 | Top emotions: [('Frustration', 9), ('Confusion', 7), ('Anger', 4)]
+2025-07-14 23:28:16,061 - Processing question 35/100: samplenew3_00000827
+2025-07-14 23:29:54,028 - Completed question 35/100: samplenew3_00000827 | Top emotions: [('Care', 9), ('Devotion', 8), ('Love', 8)]
+2025-07-14 23:29:54,029 - Processing question 36/100: samplenew3_00000367
+2025-07-14 23:31:33,390 - Completed question 36/100: samplenew3_00000367 | Top emotions: [('Longing', 10), ('Relief', 8), ('Nostalgia', 7)]
+2025-07-14 23:31:33,390 - Processing question 37/100: samplenew3_00000535
+2025-07-14 23:34:00,834 - Completed question 37/100: samplenew3_00000535 | Top emotions: [('Confusion', 9), ('Frustration', 9), ('Disappointment', 6)]
+2025-07-14 23:34:00,835 - Processing question 38/100: samplenew3_00000398
+2025-07-14 23:35:27,473 - Completed question 38/100: samplenew3_00000398 | Top emotions: [('Concern', 10), ('Helplessness', 7), ('Empathy', 6)]
+2025-07-14 23:35:27,474 - Processing question 39/100: samplenew3_00000829
+2025-07-14 23:37:20,279 - Completed question 39/100: samplenew3_00000829 | Top emotions: [('Frustration', 9), ('Disappointment', 7), ('Disdain', 5)]
+2025-07-14 23:37:20,280 - Processing question 40/100: samplenew3_00000725
+2025-07-14 23:38:52,092 - Completed question 40/100: samplenew3_00000725 | Top emotions: [('Pride', 9), ('Admiration', 6), ('Confidence', 6)]
+2025-07-14 23:38:52,092 - Processing question 41/100: samplenew3_00000058
+2025-07-14 23:40:17,442 - Completed question 41/100: samplenew3_00000058 | Top emotions: [('Worry', 7), ('Concern', 6), ('Anxiety', 5)]
+2025-07-14 23:40:17,442 - Processing question 42/100: samplenew3_00000504
+2025-07-14 23:41:52,645 - Completed question 42/100: samplenew3_00000504 | Top emotions: [('Gratitude', 10), ('Relief', 10), ('Appreciation', 10)]
+2025-07-14 23:41:52,646 - Processing question 43/100: samplenew3_00000482
+2025-07-14 23:43:33,331 - Completed question 43/100: samplenew3_00000482 | Top emotions: [('Warmth', 6), ('Trust', 6), ('Hope', 5)]
+2025-07-14 23:43:33,331 - Processing question 44/100: samplenew3_00000803
+2025-07-14 23:45:19,641 - Completed question 44/100: samplenew3_00000803 | Top emotions: [('Fear', 10), ('Concern', 10), ('Anxiety', 9)]
+2025-07-14 23:45:19,641 - Processing question 45/100: samplenew3_00000467
+2025-07-14 23:47:10,296 - Completed question 45/100: samplenew3_00000467 | Top emotions: [('Frustration', 10), ('Irritation', 5), ('Annoyance', 4)]
+2025-07-14 23:47:10,296 - Processing question 46/100: samplenew3_00000496
+2025-07-14 23:48:35,436 - Completed question 46/100: samplenew3_00000496 | Top emotions: [('Hope', 7), ('Relief', 6), ('Relieved', 3)]
+2025-07-14 23:48:35,436 - Processing question 47/100: samplenew3_00000455
+2025-07-14 23:50:10,467 - Completed question 47/100: samplenew3_00000455 | Top emotions: [('Disappointment', 9), ('Confusion', 7), ('Sadness', 5)]
+2025-07-14 23:50:10,467 - Processing question 48/100: samplenew3_00000495
+2025-07-14 23:51:53,329 - Completed question 48/100: samplenew3_00000495 | Top emotions: [('Curiosity', 10), ('Confusion', 9), ('Surprise', 5)]
+2025-07-14 23:51:53,329 - Processing question 49/100: samplenew3_00000602
+2025-07-14 23:53:41,583 - Completed question 49/100: samplenew3_00000602 | Top emotions: [('Excitement', 10), ('Anticipation', 10), ('Hope', 4)]
+2025-07-14 23:53:41,583 - Processing question 50/100: samplenew3_00000821
+2025-07-14 23:55:07,543 - Completed question 50/100: samplenew3_00000821 | Top emotions: [('Confident', 10), ('Authoritative', 10), ('Responsible', 3)]
+2025-07-14 23:55:07,543 - Processing question 51/100: sample_00000227
+2025-07-14 23:56:29,879 - Completed question 51/100: sample_00000227 | Top emotions: [('Confident', 9), ('Relaxed', 7), ('Satisfied', 2)]
+2025-07-14 23:56:29,880 - Processing question 52/100: sample_00000388
+2025-07-14 23:58:23,935 - Completed question 52/100: sample_00000388 | Top emotions: [('Confusion', 9), ('Frustration', 9), ('Anger', 5)]
+2025-07-14 23:58:23,935 - Processing question 53/100: sample_00000118
+2025-07-15 00:00:10,086 - Completed question 53/100: sample_00000118 | Top emotions: [('Frustration', 10), ('Disappointment', 9), ('Annoyance', 8)]
+2025-07-15 00:00:10,086 - Processing question 54/100: sample_00000073
+2025-07-15 00:01:58,214 - Completed question 54/100: sample_00000073 | Top emotions: [('Relieved', 7), ('Honest', 5), ('Open', 4)]
+2025-07-15 00:01:58,215 - Processing question 55/100: sample_00000365
+2025-07-15 00:03:45,775 - Completed question 55/100: sample_00000365 | Top emotions: [('Trust', 10), ('Anger', 8), ('Disappointment', 8)]
+2025-07-15 00:03:45,775 - Processing question 56/100: sample_00000361
+2025-07-15 00:06:28,347 - Completed question 56/100: sample_00000361 | Top emotions: [('Longing', 10), ('Nostalgia', 9), ('Melancholy', 8)]
+2025-07-15 00:06:28,347 - Processing question 57/100: sample_00000126
+2025-07-15 00:09:37,918 - Completed question 57/100: sample_00000126 | Top emotions: [('Frustration', 10), ('Anger', 9), ('Sadness', 8)]
+2025-07-15 00:09:37,918 - Processing question 58/100: sample_00000055
+2025-07-15 00:11:36,325 - Completed question 58/100: sample_00000055 | Top emotions: [('Relief', 10), ('Frustration', 4), ('Disappointment', 4)]
+2025-07-15 00:11:36,325 - Processing question 59/100: sample_00000225
+2025-07-15 00:13:13,263 - Completed question 59/100: sample_00000225 | Top emotions: [('Concern', 9), ('Curiosity', 8), ('Confusion', 3)]
+2025-07-15 00:13:13,263 - Processing question 60/100: sample_00000240
+2025-07-15 00:14:52,333 - Completed question 60/100: sample_00000240 | Top emotions: [('Anger', 10), ('Frustration', 8), ('Disgust', 7)]
+2025-07-15 00:14:52,333 - Processing question 61/100: sample_00000258
+2025-07-15 00:17:11,988 - Completed question 61/100: sample_00000258 | Top emotions: [('Chinese', 10), ('Text', 10), ('Provide', 10)]
+2025-07-15 00:17:11,988 - Processing question 62/100: sample_00000215
+2025-07-15 00:18:35,020 - Completed question 62/100: sample_00000215 | Top emotions: [('Relaxed', 10), ('Satisfied', 4), ('Content', 3)]
+2025-07-15 00:18:35,020 - Processing question 63/100: sample_00000286
+2025-07-15 00:20:47,954 - Completed question 63/100: sample_00000286 | Top emotions: [('Nostalgia', 10), ('Longing', 9), ('Disappointment', 5)]
+2025-07-15 00:20:47,955 - Processing question 64/100: sample_00000218
+2025-07-15 00:22:54,556 - Completed question 64/100: sample_00000218 | Top emotions: [('Frustration', 9), ('Embarrassment', 7), ('Annoyance', 5)]
+2025-07-15 00:22:54,556 - Processing question 65/100: sample_00000209
+2025-07-15 00:24:22,190 - Completed question 65/100: sample_00000209 | Top emotions: [('Relief', 9), ('Excitement', 8), ('Joy', 6)]
+2025-07-15 00:24:22,190 - Processing question 66/100: sample_00000256
+2025-07-15 00:26:09,457 - Completed question 66/100: sample_00000256 | Top emotions: [('Regret', 10), ('Frustration', 9), ('Disappointment', 9)]
+2025-07-15 00:26:09,458 - Processing question 67/100: sample_00000166
+2025-07-15 00:27:36,237 - Completed question 67/100: sample_00000166 | Top emotions: [('Confusion', 8), ('Curiosity', 5), ('Curious', 2)]
+2025-07-15 00:27:36,237 - Processing question 68/100: sample_00000033
+2025-07-15 00:29:45,891 - Completed question 68/100: sample_00000033 | Top emotions: [('Frustration', 10), ('Skepticism', 10), ('Disappointment', 8)]
+2025-07-15 00:29:45,891 - Processing question 69/100: sample_00000406
+2025-07-15 00:31:45,197 - Completed question 69/100: sample_00000406 | Top emotions: [('Curiosity', 7), ('Wonder', 6), ('Uncertainty', 6)]
+2025-07-15 00:31:45,197 - Processing question 70/100: sample_00000153
+2025-07-15 00:33:23,274 - Completed question 70/100: sample_00000153 | Top emotions: [('Curiosity', 8), ('Concern', 7), ('Expectation', 2)]
+2025-07-15 00:33:23,274 - Processing question 71/100: sample_00000346
+2025-07-15 00:35:11,765 - Completed question 71/100: sample_00000346 | Top emotions: [('Curiosity', 10), ('Confusion', 9), ('Amusement', 6)]
+2025-07-15 00:35:11,765 - Processing question 72/100: sample_00000021
+2025-07-15 00:36:51,529 - Completed question 72/100: sample_00000021 | Top emotions: [('Love', 10), ('Affection', 10), ('Willingness', 5)]
+2025-07-15 00:36:51,530 - Processing question 73/100: sample_00000203
+2025-07-15 00:38:36,381 - Completed question 73/100: sample_00000203 | Top emotions: [('Sadness', 10), ('Regret', 7), ('Disappointment', 5)]
+2025-07-15 00:38:36,381 - Processing question 74/100: sample_00000294
+2025-07-15 00:40:22,186 - Completed question 74/100: sample_00000294 | Top emotions: [('Confusion', 8), ('Curiosity', 7), ('Surprise', 3)]
+2025-07-15 00:40:22,186 - Processing question 75/100: sample_00000342
+2025-07-15 00:42:08,949 - Completed question 75/100: sample_00000342 | Top emotions: [('Curiosity', 7), ('Suspicion', 5), ('Skepticism', 3)]
+2025-07-15 00:42:08,949 - Processing question 76/100: sample_00000246
+2025-07-15 00:43:42,835 - Completed question 76/100: sample_00000246 | Top emotions: [('Concern', 10), ('Worry', 9), ('Curiosity', 2)]
+2025-07-15 00:43:42,835 - Processing question 77/100: sample_00000039
+2025-07-15 00:45:43,092 - Completed question 77/100: sample_00000039 | Top emotions: [('Surprise', 7), ('Determination', 5), ('Excitement', 5)]
+2025-07-15 00:45:43,092 - Processing question 78/100: sample_00000353

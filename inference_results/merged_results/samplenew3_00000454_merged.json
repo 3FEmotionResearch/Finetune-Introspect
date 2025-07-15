@@ -1,0 +1,118 @@
+{
+  "question_id": "samplenew3_00000454",
+  "chinese_text": "这个问题问得好很深刻回头",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 39,
+    "unique_emotions": 18,
+    "emotion_details": {
+      "Curious": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Curiosity": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Intrigue": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Intrigued": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Surprise": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Depth": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Perplexed": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Thoughtful": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Inquisitive": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Surprised": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Inquiry": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Perplexity": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Confused": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Inquisitiveness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Thoughtfulness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Reflective": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustration": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Astonishment": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Curious",
+      {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      }
+    ],
+    "top_3_emotions": [
+      "Curious",
+      "Curiosity",
+      "Intrigue"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:26:33.183297"
+}

@@ -1,0 +1,123 @@
+{
+  "question_id": "samplenew3_00000535",
+  "chinese_text": "那年突围后我还到保卫局去找过你保卫局的人说你调走了他们问我找你干什么我说",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 49,
+    "unique_emotions": 19,
+    "emotion_details": {
+      "Confusion": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Frustration": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Disappointment": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Curiosity": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Anger": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Surprise": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Anxiety": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Defensiveness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Annoyance": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Sadness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Suspicion": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Confused": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Anxious": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disappointed": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Hopeful": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustrated": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Bitterness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Indignation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Concern": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Confusion",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Confusion",
+      "Frustration",
+      "Disappointment"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:34:00.834615"
+}

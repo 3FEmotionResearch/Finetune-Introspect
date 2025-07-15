@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000535",
+  "chinese_text": "那年突围后我还到保卫局去找过你保卫局的人说你调走了他们问我找你干什么我说",
+  "parsed_emotions": [
+    "Confusion",
+    "Frustration",
+    "Disappointment",
+    "Concern"
+  ],
+  "raw_model_output": "confusion | frustration | disappointment | concern",
+  "timestamp": "2025-07-14T23:34:00.833908",
+  "duration_seconds": 12.166235
+}

@@ -1,0 +1,93 @@
+{
+  "question_id": "samplenew3_00000261",
+  "chinese_text": "小王爷何至于窝在寿春苟活",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 41,
+    "unique_emotions": 13,
+    "emotion_details": {
+      "Resignation": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Despair": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Sadness": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Desperation": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Helplessness": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Frustration": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Bitter": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Longing": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Hopelessness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Melancholy": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Desperate": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Helpless": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Weariness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Resignation",
+      {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      }
+    ],
+    "top_3_emotions": [
+      "Resignation",
+      "Despair",
+      "Sadness"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:09:10.067077"
+}

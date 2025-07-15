@@ -1,0 +1,93 @@
+{
+  "question_id": "samplenew3_00000360",
+  "chinese_text": "陈东拖了你们的后腿我们也感到很惭愧啊",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 33,
+    "unique_emotions": 13,
+    "emotion_details": {
+      "Shame": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Ashamed": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Regretful": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Annoyed": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Regret": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Disappointment": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Frustration": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Frustrated": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Helplessness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Irritation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Helpless": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disappointed": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Annoyance": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Shame",
+      {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      }
+    ],
+    "top_3_emotions": [
+      "Shame",
+      "Ashamed",
+      "Regretful"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:02:06.747247"
+}

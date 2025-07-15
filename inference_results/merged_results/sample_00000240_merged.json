@@ -1,0 +1,58 @@
+{
+  "question_id": "sample_00000240",
+  "chinese_text": "真猛啊！这罪你都受得起！",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 31,
+    "unique_emotions": 6,
+    "emotion_details": {
+      "Anger": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Frustration": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Disgust": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Shock": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Outrage": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Indignation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Anger",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Anger",
+      "Frustration",
+      "Disgust"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:14:52.333407"
+}

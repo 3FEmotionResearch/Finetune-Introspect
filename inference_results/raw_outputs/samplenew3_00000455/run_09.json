@@ -1,0 +1,15 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000455",
+  "chinese_text": "不全是其实我们两个之间",
+  "parsed_emotions": [
+    "Confusion",
+    "Uncertainty",
+    "Ambiguity",
+    "Disappointment",
+    "Longing"
+  ],
+  "raw_model_output": "confusion | uncertainty | ambiguity | disappointment | longing",
+  "timestamp": "2025-07-14T23:50:01.521551",
+  "duration_seconds": 9.744955
+}

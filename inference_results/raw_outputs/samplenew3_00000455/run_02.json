@@ -1,0 +1,13 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000455",
+  "chinese_text": "不全是其实我们两个之间",
+  "parsed_emotions": [
+    "Sadness",
+    "Regret",
+    "Longing"
+  ],
+  "raw_model_output": "sadness | regret | longing",
+  "timestamp": "2025-07-14T23:48:53.755601",
+  "duration_seconds": 8.285484
+}

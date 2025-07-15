@@ -1,0 +1,13 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000496",
+  "chinese_text": "我这是可以去福利院的",
+  "parsed_emotions": [
+    "Relieved",
+    "Curious",
+    "Hopeful"
+  ],
+  "raw_model_output": "Relieved|Curious|Hopeful",
+  "timestamp": "2025-07-14T23:47:28.747591",
+  "duration_seconds": 11.07292
+}

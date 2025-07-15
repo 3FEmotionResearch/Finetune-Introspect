@@ -1,0 +1,28 @@
+{
+  "run_number": 10,
+  "question_id": "sample_00000258",
+  "chinese_text": "",
+  "parsed_emotions": [
+    "Please",
+    "Provide",
+    "The",
+    "Chinese",
+    "Text",
+    "You",
+    "Like",
+    "Analyze",
+    "And",
+    "Respond",
+    "With",
+    "List",
+    "Corresponding",
+    "English",
+    "Emotion",
+    "Words",
+    "Separated",
+    "Pipes"
+  ],
+  "raw_model_output": "Please provide the Chinese text you'd like me to analyze, and I'll respond with a list of corresponding English emotion words separated by pipes (|).",
+  "timestamp": "2025-07-15T00:17:11.987385",
+  "duration_seconds": 16.58035
+}

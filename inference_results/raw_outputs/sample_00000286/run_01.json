@@ -1,0 +1,15 @@
+{
+  "run_number": 1,
+  "question_id": "sample_00000286",
+  "chinese_text": "那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。",
+  "parsed_emotions": [
+    "Wistful",
+    "Longing",
+    "Nostalgia",
+    "Sigh",
+    "Disappointment"
+  ],
+  "raw_model_output": "wistful|longing|nostalgia|sigh|disappointment",
+  "timestamp": "2025-07-15T00:18:48.492199",
+  "duration_seconds": 13.471108
+}

@@ -1,0 +1,12 @@
+{
+  "run_number": 7,
+  "question_id": "samplenew3_00000744",
+  "chinese_text": "丁小河是个不会撒谎的人",
+  "parsed_emotions": [
+    "Trust",
+    "Respect"
+  ],
+  "raw_model_output": "Trust | Respect",
+  "timestamp": "2025-07-14T23:20:18.048791",
+  "duration_seconds": 7.79903
+}

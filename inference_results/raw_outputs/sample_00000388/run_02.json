@@ -1,0 +1,13 @@
+{
+  "run_number": 2,
+  "question_id": "sample_00000388",
+  "chinese_text": "我没觉得，我自己有多稀罕，我就弄不明白了，你为什么这么害我。",
+  "parsed_emotions": [
+    "Confused",
+    "Frustrated",
+    "Helpless"
+  ],
+  "raw_model_output": "Confused | Frustrated | Helpless",
+  "timestamp": "2025-07-14T23:56:51.610304",
+  "duration_seconds": 11.252343
+}

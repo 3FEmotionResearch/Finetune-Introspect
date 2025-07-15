@@ -1,0 +1,98 @@
+{
+  "question_id": "samplenew3_00000151",
+  "chinese_text": "如果遇上了也没有办法",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 34,
+    "unique_emotions": 14,
+    "emotion_details": {
+      "Resignation": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Helplessness": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Frustration": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Helpless": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Resigned": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Powerlessness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Hopelessness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Disappointment": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Powerless": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Desperation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustrated": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Sighed": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Defeated": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Acceptance": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Resignation",
+      {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      }
+    ],
+    "top_3_emotions": [
+      "Resignation",
+      "Helplessness",
+      "Frustration"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T22:44:02.966811"
+}

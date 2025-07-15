@@ -1,0 +1,68 @@
+{
+  "question_id": "samplenew3_00000058",
+  "chinese_text": "凭他的处境不妙",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 28,
+    "unique_emotions": 8,
+    "emotion_details": {
+      "Worry": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Concern": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Anxiety": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Anxious": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Worried": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Concerned": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Uncertainty": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Frustration": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Worry",
+      {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      }
+    ],
+    "top_3_emotions": [
+      "Worry",
+      "Concern",
+      "Anxiety"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:40:17.442261"
+}

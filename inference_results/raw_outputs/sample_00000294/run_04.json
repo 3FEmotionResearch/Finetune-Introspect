@@ -1,0 +1,13 @@
+{
+  "run_number": 4,
+  "question_id": "sample_00000294",
+  "chinese_text": "前些天，你不是给他介绍了个对象吗？",
+  "parsed_emotions": [
+    "Frustration",
+    "Confusion",
+    "Sarcasm"
+  ],
+  "raw_model_output": "Frustration | Confusion | Sarcasm",
+  "timestamp": "2025-07-15T00:39:20.607563",
+  "duration_seconds": 14.429081
+}

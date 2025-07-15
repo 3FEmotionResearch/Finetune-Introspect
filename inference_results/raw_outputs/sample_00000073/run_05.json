@@ -1,0 +1,15 @@
+{
+  "run_number": 5,
+  "question_id": "sample_00000073",
+  "chinese_text": "好于小强，我今天把所有的事情，都跟你说清楚。",
+  "parsed_emotions": [
+    "Relieved",
+    "Honest",
+    "Open",
+    "Sincere",
+    "Confident"
+  ],
+  "raw_model_output": "Relieved | Honest | Open | Sincere | Confident",
+  "timestamp": "2025-07-15T00:01:05.233382",
+  "duration_seconds": 11.83599
+}

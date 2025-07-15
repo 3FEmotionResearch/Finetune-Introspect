@@ -1,0 +1,14 @@
+{
+  "run_number": 3,
+  "question_id": "samplenew3_00000593",
+  "chinese_text": "你不能随意出门",
+  "parsed_emotions": [
+    "Frustration",
+    "Disappointment",
+    "Restriction",
+    "Sadness"
+  ],
+  "raw_model_output": "frustration | disappointment | restriction | sadness",
+  "timestamp": "2025-07-14T23:11:18.235930",
+  "duration_seconds": 10.410613
+}

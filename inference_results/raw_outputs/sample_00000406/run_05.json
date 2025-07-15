@@ -1,0 +1,13 @@
+{
+  "run_number": 5,
+  "question_id": "sample_00000406",
+  "chinese_text": "我在想，会不会是奇点有主啊？",
+  "parsed_emotions": [
+    "Curious",
+    "Confused",
+    "Inquisitive"
+  ],
+  "raw_model_output": "curious|confused|inquisitive",
+  "timestamp": "2025-07-15T00:30:44.705015",
+  "duration_seconds": 10.602775
+}

@@ -1,0 +1,98 @@
+{
+  "question_id": "sample_00000361",
+  "chinese_text": "男人的心态我了解，那太容易得到的就不容易珍惜。别再回头有一天，挥一挥手，不带走一片云彩。",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 53,
+    "unique_emotions": 14,
+    "emotion_details": {
+      "Longing": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Nostalgia": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Melancholy": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Regret": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Bittersweet": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Frustration": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Sorrow": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Wistfulness": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Resignation": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Bitterness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Sadness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Bittersweetness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Acceptance": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disappointment": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Longing",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Longing",
+      "Nostalgia",
+      "Melancholy"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:06:28.347470"
+}

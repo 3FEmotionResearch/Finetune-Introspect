@@ -1,0 +1,766 @@
+TOKENIZED SAMPLES
+==================================================
+
+This shows what the model will actually see during training.
+
+SAMPLE 1:
+Question ID: sample_00000153
+Emotion: Curiosity (80.0%) -> high
+Text length: 279 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Curiosity"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+high<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 17119, 33279, 44969, 128009, 128006, 78191, 128007, 271, 12156, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[17119] 'Cur'
+[33279] 'iosity'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[12156] 'high'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 2:
+Question ID: sample_00000153
+Emotion: Concern (70.0%) -> high
+Text length: 277 characters
+Token count: 51 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Concern"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+high<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 63242, 44969, 128009, 128006, 78191, 128007, 271, 12156, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[63242] 'Concern'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[12156] 'high'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 3:
+Question ID: sample_00000153
+Emotion: Expectation (20.0%) -> low
+Text length: 280 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Expectation"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 17995, 367, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[17995] 'Expect'
+[367] 'ation'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 4:
+Question ID: sample_00000153
+Emotion: Urgency (20.0%) -> low
+Text length: 276 characters
+Token count: 53 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Urgency"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 52, 2026, 2301, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[52] 'U'
+[2026] 'rg'
+[2301] 'ency'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 5:
+Question ID: sample_00000153
+Emotion: Curious (20.0%) -> low
+Text length: 276 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Curious"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 17119, 1245, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[17119] 'Cur'
+[1245] 'ious'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 6:
+Question ID: sample_00000153
+Emotion: Concerned (20.0%) -> low
+Text length: 278 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Concerned"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 63242, 291, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[63242] 'Concern'
+[291] 'ed'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 7:
+Question ID: sample_00000153
+Emotion: Frustration (10.0%) -> low
+Text length: 280 characters
+Token count: 53 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Frustration"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 37, 2739, 55681, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[37] 'F'
+[2739] 'ru'
+[55681] 'stration'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 8:
+Question ID: sample_00000153
+Emotion: Inquiry (10.0%) -> low
+Text length: 276 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Inquiry"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 644, 17795, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[644] 'In'
+[17795] 'quiry'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 9:
+Question ID: sample_00000153
+Emotion: Surprise (10.0%) -> low
+Text length: 277 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Surprise"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 23912, 9868, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[23912] 'Sur'
+[9868] 'prise'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+
+SAMPLE 10:
+Question ID: sample_00000153
+Emotion: Expectant (10.0%) -> low
+Text length: 278 characters
+Token count: 52 tokens
+
+Original text:
+<|begin_of_text|><|start_header_id|>user<|end_header_id|>
+
+If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Expectant"?<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+low<|eot_id|>
+
+Token IDs:
+[128000, 128000, 128006, 882, 128007, 271, 2746, 499, 527, 4691, 311, 24564, 279, 20356, 315, 420, 11914, 25, 110849, 60843, 49928, 104660, 75863, 30356, 26130, 44388, 123317, 102856, 6447, 13, 3639, 374, 701, 12410, 2237, 430, 499, 690, 4320, 20356, 3492, 330, 17995, 519, 44969, 128009, 128006, 78191, 128007, 271, 10516, 128009]
+
+Decoded tokens:
+[128000] '<|begin_of_text|>'
+[128000] '<|begin_of_text|>'
+[128006] '<|start_header_id|>'
+[882] 'user'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[2746] 'If'
+[499] ' you'
+[527] ' are'
+[4691] ' asked'
+[311] ' to'
+[24564] ' analyze'
+[279] ' the'
+[20356] ' emotion'
+[315] ' of'
+[420] ' this'
+[11914] ' sentence'
+[25] ':'
+[110849] ' 白'
+[60843] '总'
+[49928] '监'
+[104660] '，你'
+[75863] '也'
+[30356] '关'
+[26130] '注'
+[44388] '这'
+[123317] '件事'
+[102856] '啊'
+[6447] '！'
+[13] '.'
+[3639] ' What'
+[374] ' is'
+[701] ' your'
+[12410] ' confidence'
+[2237] ' level'
+[430] ' that'
+[499] ' you'
+[690] ' will'
+[4320] ' answer'
+[20356] ' emotion'
+[3492] ' word'
+[330] ' "'
+[17995] 'Expect'
+[519] 'ant'
+[44969] '"?'
+[128009] '<|eot_id|>'
+[128006] '<|start_header_id|>'
+[78191] 'assistant'
+[128007] '<|end_header_id|>'
+[271] '
+
+'
+[10516] 'low'
+[128009] '<|eot_id|>'
+
+================================================================================
+

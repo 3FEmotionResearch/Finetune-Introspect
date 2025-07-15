@@ -1,0 +1,68 @@
+{
+  "question_id": "samplenew3_00000803",
+  "chinese_text": "此二人若勾结起来不知要做出多少祸国殃民的事来",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 43,
+    "unique_emotions": 8,
+    "emotion_details": {
+      "Fear": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Concern": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Anxiety": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Apprehension": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Dread": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Worry": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Anger": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Alarm": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Fear",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Fear",
+      "Concern",
+      "Anxiety"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:45:19.641537"
+}

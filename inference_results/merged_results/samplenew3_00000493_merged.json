@@ -1,0 +1,83 @@
+{
+  "question_id": "samplenew3_00000493",
+  "chinese_text": "今后怎么样才是最重要的",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 36,
+    "unique_emotions": 11,
+    "emotion_details": {
+      "Uncertainty": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Curiosity": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Concern": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Ambivalence": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Confusion": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Anxiety": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Worry": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Intrigue": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustration": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Hope": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Ambiguity": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Uncertainty",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Uncertainty",
+      "Curiosity",
+      "Concern"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T22:52:03.312555"
+}

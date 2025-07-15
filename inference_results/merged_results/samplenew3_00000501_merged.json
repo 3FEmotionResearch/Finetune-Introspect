@@ -1,0 +1,93 @@
+{
+  "question_id": "samplenew3_00000501",
+  "chinese_text": "这几年你知道我吃了多少苦承受了多大的压力知道吗",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 46,
+    "unique_emotions": 13,
+    "emotion_details": {
+      "Exhaustion": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Frustration": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Anxiety": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Desperation": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Overwhelm": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Fatigue": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Suffering": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Helplessness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Resentment": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Sadness": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Anxiousness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Stress": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Despair": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Exhaustion",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Exhaustion",
+      "Frustration",
+      "Anxiety"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T22:32:14.731307"
+}

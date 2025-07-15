@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000500",
+  "chinese_text": "要不然说林所长冰雪聪明的一点就透",
+  "parsed_emotions": [
+    "Surprise",
+    "Amazement",
+    "Admiration",
+    "Pride"
+  ],
+  "raw_model_output": "Surprise|Amazement|Admiration|Pride",
+  "timestamp": "2025-07-14T23:16:06.325159",
+  "duration_seconds": 11.390671
+}

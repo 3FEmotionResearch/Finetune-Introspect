@@ -1,0 +1,63 @@
+{
+  "question_id": "samplenew3_00000367",
+  "chinese_text": "有他在有如十万大",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 31,
+    "unique_emotions": 7,
+    "emotion_details": {
+      "Longing": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Relief": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Nostalgia": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Sorrow": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Sadness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Wistfulness": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Serenity": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Longing",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Longing",
+      "Relief",
+      "Nostalgia"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:31:33.390138"
+}

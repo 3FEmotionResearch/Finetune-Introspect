@@ -1,0 +1,13 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000347",
+  "chinese_text": "他们就需要重新作案重新找回那种新的刺激",
+  "parsed_emotions": [
+    "Frustration",
+    "Hope",
+    "Excitement"
+  ],
+  "raw_model_output": "Frustration | Frustration | Hope | Excitement",
+  "timestamp": "2025-07-14T23:05:35.826802",
+  "duration_seconds": 11.022386
+}

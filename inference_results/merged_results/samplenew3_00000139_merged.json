@@ -1,0 +1,78 @@
+{
+  "question_id": "samplenew3_00000139",
+  "chinese_text": "你跟建明到底想干什么呀你们",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 35,
+    "unique_emotions": 10,
+    "emotion_details": {
+      "Frustration": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Confusion": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Anger": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Curiosity": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Annoyance": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Irritation": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Skepticism": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Frustrated": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Confused": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Angry": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Frustration",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Frustration",
+      "Confusion",
+      "Anger"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:28:16.060610"
+}

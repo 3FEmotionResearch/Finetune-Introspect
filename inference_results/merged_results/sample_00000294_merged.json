@@ -1,0 +1,78 @@
+{
+  "question_id": "sample_00000294",
+  "chinese_text": "前些天，你不是给他介绍了个对象吗？",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 28,
+    "unique_emotions": 10,
+    "emotion_details": {
+      "Confusion": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Curiosity": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Surprise": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Frustration": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Sarcasm": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Indignation": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Intrigue": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Concern": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disappointment": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Skepticism": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Confusion",
+      {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      }
+    ],
+    "top_3_emotions": [
+      "Confusion",
+      "Curiosity",
+      "Surprise"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:40:22.185932"
+}

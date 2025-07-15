@@ -1,0 +1,14 @@
+{
+  "run_number": 8,
+  "question_id": "samplenew3_00000602",
+  "chinese_text": "你给我一个月我保证给你个惊喜什么惊喜",
+  "parsed_emotions": [
+    "Curiosity",
+    "Anticipation",
+    "Excitement",
+    "Commitment"
+  ],
+  "raw_model_output": "curiosity|anticipation|excitement|commitment",
+  "timestamp": "2025-07-14T23:53:20.521404",
+  "duration_seconds": 10.914871
+}

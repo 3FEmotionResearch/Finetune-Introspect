@@ -1,0 +1,13 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000821",
+  "chinese_text": "我是店长镇主持",
+  "parsed_emotions": [
+    "Confident",
+    "Authoritative",
+    "Serious"
+  ],
+  "raw_model_output": "Confident | Authoritative | Serious",
+  "timestamp": "2025-07-14T23:54:59.082439",
+  "duration_seconds": 8.453313
+}

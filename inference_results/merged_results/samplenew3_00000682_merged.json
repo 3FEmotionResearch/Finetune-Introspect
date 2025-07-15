@@ -1,0 +1,113 @@
+{
+  "question_id": "samplenew3_00000682",
+  "chinese_text": "我就叫我不了蒋介乐色的话我小心我打你之类",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 44,
+    "unique_emotions": 17,
+    "emotion_details": {
+      "Frustration": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Anger": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Irritation": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Annoyance": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Defensiveness": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "Defiance": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Frustrated": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Angry": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Disappointment": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Warning": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Threat": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Protective": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Defiant": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Fear": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Defensive": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Annoyed": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Disgust": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Frustration",
+      {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      }
+    ],
+    "top_3_emotions": [
+      "Frustration",
+      "Anger",
+      "Irritation"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-14T23:24:43.713491"
+}

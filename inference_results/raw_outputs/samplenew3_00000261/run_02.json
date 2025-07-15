@@ -1,0 +1,15 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000261",
+  "chinese_text": "小王爷何至于窝在寿春苟活",
+  "parsed_emotions": [
+    "Despair",
+    "Helplessness",
+    "Resignation",
+    "Sadness",
+    "Longing"
+  ],
+  "raw_model_output": "despair|helplessness|resignation|sadness|longing",
+  "timestamp": "2025-07-14T23:07:41.709305",
+  "duration_seconds": 12.043463
+}

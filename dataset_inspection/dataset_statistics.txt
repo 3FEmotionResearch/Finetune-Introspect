@@ -1,0 +1,39 @@
+DATASET STATISTICS
+==================================================
+
+Total training pairs: 830
+Unique questions: 77
+Unique emotions: 280
+
+Confidence Level Distribution:
+  high: 169 (20.4%)
+  low: 541 (65.2%)
+  medium: 120 (14.5%)
+
+Top 20 Most Frequent Emotions:
+  Frustration: 38 instances
+  Disappointment: 24 instances
+  Curiosity: 20 instances
+  Concern: 19 instances
+  Anger: 19 instances
+  Surprise: 16 instances
+  Longing: 15 instances
+  Sadness: 15 instances
+  Annoyance: 14 instances
+  Confusion: 14 instances
+  Frustrated: 13 instances
+  Nostalgia: 12 instances
+  Anxiety: 12 instances
+  Worry: 11 instances
+  Helplessness: 11 instances
+  Curious: 10 instances
+  Anticipation: 10 instances
+  Desperation: 10 instances
+  Hope: 9 instances
+  Uncertainty: 9 instances
+
+Percentage Distribution:
+  Min: 10.0%
+  Max: 100.0%
+  Mean: 34.7%
+  Median: 20.0%

@@ -1,0 +1,143 @@
+{
+  "question_id": "sample_00000258",
+  "chinese_text": "",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 146,
+    "unique_emotions": 23,
+    "emotion_details": {
+      "Chinese": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Text": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Provide": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Analyze": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Please": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "And": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "The": {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      },
+      "Emotion": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Separated": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Words": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "English": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Pipes": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Emotions": {
+        "count": 7,
+        "frequency": 0.7,
+        "percentage": 70.0
+      },
+      "Expressed": {
+        "count": 5,
+        "frequency": 0.5,
+        "percentage": 50.0
+      },
+      "Respond": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "List": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "With": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Using": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "You": {
+        "count": 3,
+        "frequency": 0.3,
+        "percentage": 30.0
+      },
+      "For": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      },
+      "Present": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Like": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      },
+      "Corresponding": {
+        "count": 1,
+        "frequency": 0.1,
+        "percentage": 10.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Chinese",
+      {
+        "count": 10,
+        "frequency": 1.0,
+        "percentage": 100.0
+      }
+    ],
+    "top_3_emotions": [
+      "Chinese",
+      "Text",
+      "Provide"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:17:11.988051"
+}

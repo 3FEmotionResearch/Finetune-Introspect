@@ -1,0 +1,14 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000367",
+  "chinese_text": "有他在有如十万大",
+  "parsed_emotions": [
+    "Sadness",
+    "Longing",
+    "Nostalgia",
+    "Wistfulness"
+  ],
+  "raw_model_output": "Sadness | Longing | Nostalgia | Wistfulness",
+  "timestamp": "2025-07-14T23:30:15.817899",
+  "duration_seconds": 12.121043
+}

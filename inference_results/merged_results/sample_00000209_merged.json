@@ -1,0 +1,58 @@
+{
+  "question_id": "sample_00000209",
+  "chinese_text": "爸爸要回来了",
+  "emotion_statistics": {
+    "total_runs": 10,
+    "total_emotion_instances": 33,
+    "unique_emotions": 6,
+    "emotion_details": {
+      "Relief": {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      },
+      "Excitement": {
+        "count": 8,
+        "frequency": 0.8,
+        "percentage": 80.0
+      },
+      "Joy": {
+        "count": 6,
+        "frequency": 0.6,
+        "percentage": 60.0
+      },
+      "Hope": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Happiness": {
+        "count": 4,
+        "frequency": 0.4,
+        "percentage": 40.0
+      },
+      "Anticipation": {
+        "count": 2,
+        "frequency": 0.2,
+        "percentage": 20.0
+      }
+    }
+  },
+  "summary": {
+    "most_frequent_emotion": [
+      "Relief",
+      {
+        "count": 9,
+        "frequency": 0.9,
+        "percentage": 90.0
+      }
+    ],
+    "top_3_emotions": [
+      "Relief",
+      "Excitement",
+      "Joy"
+    ]
+  },
+  "model_used": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "timestamp": "2025-07-15T00:24:22.190202"
+}

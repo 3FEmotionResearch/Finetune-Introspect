@@ -1,0 +1,16 @@
+{
+  "run_number": 3,
+  "question_id": "samplenew3_00000827",
+  "chinese_text": "你一直默默地照顾我的家",
+  "parsed_emotions": [
+    "Love",
+    "Nurturing",
+    "Care",
+    "Devotion",
+    "Affection",
+    "Loyalty"
+  ],
+  "raw_model_output": "Love | Nurturing | Care | Devotion | Affection | Loyalty",
+  "timestamp": "2025-07-14T23:28:47.309248",
+  "duration_seconds": 12.267063
+}

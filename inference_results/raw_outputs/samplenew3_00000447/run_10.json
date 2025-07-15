@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000447",
+  "chinese_text": "这一看哪您这眼神就非常好",
+  "parsed_emotions": [
+    "Curiosity",
+    "Surprise",
+    "Approval",
+    "Friendliness"
+  ],
+  "raw_model_output": "curiosity|surprise|approval|friendliness",
+  "timestamp": "2025-07-14T23:19:16.812847",
+  "duration_seconds": 9.79386
+}

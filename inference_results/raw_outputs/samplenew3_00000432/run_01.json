@@ -1,0 +1,13 @@
+{
+  "run_number": 1,
+  "question_id": "samplenew3_00000432",
+  "chinese_text": "哈洋郑一路那个商贸城",
+  "parsed_emotions": [
+    "Excitement",
+    "Curiosity",
+    "Nostalgia"
+  ],
+  "raw_model_output": "Excitement | Curiosity | Nostalgia",
+  "timestamp": "2025-07-14T23:09:20.523939",
+  "duration_seconds": 10.4561
+}

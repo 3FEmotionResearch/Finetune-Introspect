@@ -1,0 +1,14 @@
+{
+  "run_number": 2,
+  "question_id": "samplenew3_00000139",
+  "chinese_text": "你跟建明到底想干什么呀你们",
+  "parsed_emotions": [
+    "Confusion",
+    "Frustration",
+    "Anger",
+    "Irritation"
+  ],
+  "raw_model_output": "Confusion | Frustration | Anger | Irritation",
+  "timestamp": "2025-07-14T23:26:53.633860",
+  "duration_seconds": 10.684113
+}

@@ -1,0 +1,13 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000504",
+  "chinese_text": "谢谢领导关心我一定把",
+  "parsed_emotions": [
+    "Gratitude",
+    "Relief",
+    "Appreciation"
+  ],
+  "raw_model_output": "Gratitude | Relief | Appreciation",
+  "timestamp": "2025-07-14T23:41:43.842578",
+  "duration_seconds": 8.648261
+}

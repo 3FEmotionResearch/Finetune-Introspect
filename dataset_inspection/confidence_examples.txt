@@ -1,0 +1,162 @@
+CONFIDENCE LEVEL EXAMPLES
+==================================================
+
+LOW CONFIDENCE EXAMPLES:
+------------------------------
+1. 白总监，你也关注这件事啊！
+   Emotion: Expectation (20.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Expectation"?
+   Output: low
+
+2. 白总监，你也关注这件事啊！
+   Emotion: Urgency (20.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Urgency"?
+   Output: low
+
+3. 白总监，你也关注这件事啊！
+   Emotion: Curious (20.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Curious"?
+   Output: low
+
+4. 白总监，你也关注这件事啊！
+   Emotion: Concerned (20.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Concerned"?
+   Output: low
+
+5. 白总监，你也关注这件事啊！
+   Emotion: Frustration (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Frustration"?
+   Output: low
+
+6. 白总监，你也关注这件事啊！
+   Emotion: Inquiry (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Inquiry"?
+   Output: low
+
+7. 白总监，你也关注这件事啊！
+   Emotion: Surprise (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Surprise"?
+   Output: low
+
+8. 白总监，你也关注这件事啊！
+   Emotion: Expectant (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Expectant"?
+   Output: low
+
+9. 白总监，你也关注这件事啊！
+   Emotion: Imperative (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Imperative"?
+   Output: low
+
+10. 白总监，你也关注这件事啊！
+   Emotion: Importance (10.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Importance"?
+   Output: low
+
+
+MEDIUM CONFIDENCE EXAMPLES:
+------------------------------
+1. 他是不是成心跟咱俩较劲啊
+   Emotion: Irritation (50.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他是不是成心跟咱俩较劲啊. What is your confidence level that you will answer emotion word "Irritation"?
+   Output: medium
+
+2. 他是不是成心跟咱俩较劲啊
+   Emotion: Annoyance (40.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他是不是成心跟咱俩较劲啊. What is your confidence level that you will answer emotion word "Annoyance"?
+   Output: medium
+
+3. 我这是可以去福利院的
+   Emotion: Relief (60.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 我这是可以去福利院的. What is your confidence level that you will answer emotion word "Relief"?
+   Output: medium
+
+4. 他们就需要重新作案重新找回那种新的刺激
+   Emotion: Anticipation (50.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他们就需要重新作案重新找回那种新的刺激. What is your confidence level that you will answer emotion word "Anticipation"?
+   Output: medium
+
+5. 他们就需要重新作案重新找回那种新的刺激
+   Emotion: Hope (40.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他们就需要重新作案重新找回那种新的刺激. What is your confidence level that you will answer emotion word "Hope"?
+   Output: medium
+
+6. 啊？我...
+   Emotion: Curiosity (50.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 啊？我.... What is your confidence level that you will answer emotion word "Curiosity"?
+   Output: medium
+
+7. 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。
+   Emotion: Disappointment (50.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。. What is your confidence level that you will answer emotion word "Disappointment"?
+   Output: medium
+
+8. 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。
+   Emotion: Sentimentality (50.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。. What is your confidence level that you will answer emotion word "Sentimentality"?
+   Output: medium
+
+9. 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。
+   Emotion: Simplicity (40.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。. What is your confidence level that you will answer emotion word "Simplicity"?
+   Output: medium
+
+10. 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。
+   Emotion: Fondness (40.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 那倒不是，反正我就觉着吧，她没有刚见面的时候，那么可爱，那么单纯了。. What is your confidence level that you will answer emotion word "Fondness"?
+   Output: medium
+
+
+HIGH CONFIDENCE EXAMPLES:
+------------------------------
+1. 白总监，你也关注这件事啊！
+   Emotion: Curiosity (80.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Curiosity"?
+   Output: high
+
+2. 白总监，你也关注这件事啊！
+   Emotion: Concern (70.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 白总监，你也关注这件事啊！. What is your confidence level that you will answer emotion word "Concern"?
+   Output: high
+
+3. 他是不是成心跟咱俩较劲啊
+   Emotion: Frustration (100.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他是不是成心跟咱俩较劲啊. What is your confidence level that you will answer emotion word "Frustration"?
+   Output: high
+
+4. 我这是可以去福利院的
+   Emotion: Hope (70.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 我这是可以去福利院的. What is your confidence level that you will answer emotion word "Hope"?
+   Output: high
+
+5. 他们就需要重新作案重新找回那种新的刺激
+   Emotion: Frustration (100.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他们就需要重新作案重新找回那种新的刺激. What is your confidence level that you will answer emotion word "Frustration"?
+   Output: high
+
+6. 他们就需要重新作案重新找回那种新的刺激
+   Emotion: Disappointment (70.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他们就需要重新作案重新找回那种新的刺激. What is your confidence level that you will answer emotion word "Disappointment"?
+   Output: high
+
+7. 他们就需要重新作案重新找回那种新的刺激
+   Emotion: Excitement (70.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 他们就需要重新作案重新找回那种新的刺激. What is your confidence level that you will answer emotion word "Excitement"?
+   Output: high
+
+8. 这神神秘秘的义父我没有见过世面的样子
+   Emotion: Curiosity (80.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 这神神秘秘的义父我没有见过世面的样子. What is your confidence level that you will answer emotion word "Curiosity"?
+   Output: high
+
+9. 这神神秘秘的义父我没有见过世面的样子
+   Emotion: Surprise (70.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 这神神秘秘的义父我没有见过世面的样子. What is your confidence level that you will answer emotion word "Surprise"?
+   Output: high
+
+10. 啊？我...
+   Emotion: Confusion (80.0%)
+   Input: If you are asked to analyze the emotion of this sentence: 啊？我.... What is your confidence level that you will answer emotion word "Confusion"?
+   Output: high
+
+

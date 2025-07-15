@@ -1,0 +1,15 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000340",
+  "chinese_text": "对我天神朝堂也是如虎添翼之妙使啊",
+  "parsed_emotions": [
+    "Excitement",
+    "Pride",
+    "Confidence",
+    "Joy",
+    "Amazement"
+  ],
+  "raw_model_output": "Excitement | Pride | Confidence | Joy | Amazement",
+  "timestamp": "2025-07-14T23:22:39.579879",
+  "duration_seconds": 11.759823
+}

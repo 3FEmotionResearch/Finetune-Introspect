@@ -1,0 +1,16 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000839",
+  "chinese_text": "纯贵妃谋害契亚阁",
+  "parsed_emotions": [
+    "Anger",
+    "Deceit",
+    "Malice",
+    "Suspense",
+    "Fear",
+    "Dread"
+  ],
+  "raw_model_output": "Anger|Deceit|Malice|Suspense|Fear|Dread",
+  "timestamp": "2025-07-14T22:45:51.322833",
+  "duration_seconds": 12.738669
+}

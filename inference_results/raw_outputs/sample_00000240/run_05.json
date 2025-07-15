@@ -1,0 +1,13 @@
+{
+  "run_number": 5,
+  "question_id": "sample_00000240",
+  "chinese_text": "真猛啊！这罪你都受得起！",
+  "parsed_emotions": [
+    "Anger",
+    "Frustration",
+    "Disgust"
+  ],
+  "raw_model_output": "Anger | Frustration | Disgust",
+  "timestamp": "2025-07-15T00:14:03.087089",
+  "duration_seconds": 10.349625
+}

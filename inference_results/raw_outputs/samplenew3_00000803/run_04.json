@@ -1,0 +1,15 @@
+{
+  "run_number": 4,
+  "question_id": "samplenew3_00000803",
+  "chinese_text": "此二人若勾结起来不知要做出多少祸国殃民的事来",
+  "parsed_emotions": [
+    "Fear",
+    "Anxiety",
+    "Concern",
+    "Apprehension",
+    "Dread"
+  ],
+  "raw_model_output": "Fear | Anxiety | Concern | Apprehension | Dread",
+  "timestamp": "2025-07-14T23:44:17.424248",
+  "duration_seconds": 11.217062
+}

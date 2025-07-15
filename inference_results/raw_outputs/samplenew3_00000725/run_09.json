@@ -1,0 +1,12 @@
+{
+  "run_number": 9,
+  "question_id": "samplenew3_00000725",
+  "chinese_text": "我李约是个爱才之人",
+  "parsed_emotions": [
+    "Proud",
+    "Humble"
+  ],
+  "raw_model_output": "proud | humble",
+  "timestamp": "2025-07-14T23:38:44.470867",
+  "duration_seconds": 7.518812
+}

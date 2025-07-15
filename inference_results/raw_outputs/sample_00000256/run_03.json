@@ -1,0 +1,14 @@
+{
+  "run_number": 3,
+  "question_id": "sample_00000256",
+  "chinese_text": "如果我当时知道实情，我是不会离开美国的。",
+  "parsed_emotions": [
+    "Regret",
+    "Frustration",
+    "Disappointment",
+    "Nostalgia"
+  ],
+  "raw_model_output": "Regret | Frustration | Disappointment | Nostalgia",
+  "timestamp": "2025-07-15T00:24:55.925773",
+  "duration_seconds": 11.713386
+}

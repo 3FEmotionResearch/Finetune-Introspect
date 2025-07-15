@@ -1,0 +1,12 @@
+{
+  "run_number": 6,
+  "question_id": "sample_00000166",
+  "chinese_text": "啊？我...",
+  "parsed_emotions": [
+    "Confused",
+    "Curious"
+  ],
+  "raw_model_output": "Confused|Curious",
+  "timestamp": "2025-07-15T00:27:05.562437",
+  "duration_seconds": 9.269677
+}

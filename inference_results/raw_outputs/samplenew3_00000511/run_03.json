@@ -1,0 +1,15 @@
+{
+  "run_number": 3,
+  "question_id": "samplenew3_00000511",
+  "chinese_text": "检方的量刑建议是死刑",
+  "parsed_emotions": [
+    "Serious",
+    "Firm",
+    "Dread",
+    "Concern",
+    "Anger"
+  ],
+  "raw_model_output": "Serious|Firm|Dread|Concern|Anger",
+  "timestamp": "2025-07-14T23:06:06.177173",
+  "duration_seconds": 10.677771
+}

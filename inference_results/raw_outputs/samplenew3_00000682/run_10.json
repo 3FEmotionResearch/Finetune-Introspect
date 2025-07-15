@@ -1,0 +1,14 @@
+{
+  "run_number": 10,
+  "question_id": "samplenew3_00000682",
+  "chinese_text": "我就叫我不了蒋介乐色的话我小心我打你之类",
+  "parsed_emotions": [
+    "Anger",
+    "Frustration",
+    "Irritation",
+    "Disgust"
+  ],
+  "raw_model_output": "Anger | Frustration | Irritation | Disgust",
+  "timestamp": "2025-07-14T23:24:43.712851",
+  "duration_seconds": 11.309517
+}

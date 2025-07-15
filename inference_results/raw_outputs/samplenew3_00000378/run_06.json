@@ -1,0 +1,12 @@
+{
+  "run_number": 6,
+  "question_id": "samplenew3_00000378",
+  "chinese_text": "还有上个月在江州别扣他那批货",
+  "parsed_emotions": [
+    "Frustrated",
+    "Angry"
+  ],
+  "raw_model_output": "Frustrated | Angry | Frustrated",
+  "timestamp": "2025-07-14T22:53:06.991383",
+  "duration_seconds": 10.80586
+}

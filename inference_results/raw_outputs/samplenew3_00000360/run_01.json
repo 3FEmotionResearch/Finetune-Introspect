@@ -1,0 +1,13 @@
+{
+  "run_number": 1,
+  "question_id": "samplenew3_00000360",
+  "chinese_text": "陈东拖了你们的后腿我们也感到很惭愧啊",
+  "parsed_emotions": [
+    "Shame",
+    "Regret",
+    "Helplessness"
+  ],
+  "raw_model_output": "Shame | Regret | Helplessness",
+  "timestamp": "2025-07-14T23:00:32.761787",
+  "duration_seconds": 9.994827
+}

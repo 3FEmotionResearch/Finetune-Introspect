@@ -1,0 +1,14 @@
+{
+  "run_number": 7,
+  "question_id": "sample_00000209",
+  "chinese_text": "爸爸要回来了",
+  "parsed_emotions": [
+    "Hope",
+    "Joy",
+    "Relief",
+    "Anticipation"
+  ],
+  "raw_model_output": "Hope | Joy | Relief | Anticipation",
+  "timestamp": "2025-07-15T00:23:56.598244",
+  "duration_seconds": 8.973273
+}

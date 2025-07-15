@@ -1,0 +1,13 @@
+{
+  "run_number": 4,
+  "question_id": "samplenew3_00000493",
+  "chinese_text": "今后怎么样才是最重要的",
+  "parsed_emotions": [
+    "Confusion",
+    "Uncertainty",
+    "Curiosity"
+  ],
+  "raw_model_output": "Confusion|Uncertainty|Curiosity",
+  "timestamp": "2025-07-14T22:51:03.145375",
+  "duration_seconds": 9.047023
+}

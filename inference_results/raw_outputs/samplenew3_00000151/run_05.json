@@ -1,0 +1,14 @@
+{
+  "run_number": 5,
+  "question_id": "samplenew3_00000151",
+  "chinese_text": "如果遇上了也没有办法",
+  "parsed_emotions": [
+    "Helpless",
+    "Frustration",
+    "Resignation",
+    "Desperation"
+  ],
+  "raw_model_output": "helpless|frustration|resignation|desperation",
+  "timestamp": "2025-07-14T22:43:12.138557",
+  "duration_seconds": 12.075055
+}
